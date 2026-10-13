@@ -1,35 +1,36 @@
-name: 分享案例或 Skill
-description: 分享示例素材、制作经验、Prompt、Skill 或 MCP 场景
+name: 分享案例
+description: 分享素材、模型、制作经验、Prompt 或 Skill
 title: "[Case] "
 body:
   - type: textarea
     id: result
     attributes:
-      label: 目标与结果
-      description: 想完成什么，实际效果如何，有哪些已知问题？
+      label: 目标与效果
+      description: 想实现什么，效果如何，有哪些已知问题。可直接拖入截图或录屏。
+      placeholder: 例：立绘拆层后自动生成，加了眨眼和摇头；头发物理正常，袖子摆动穿模。
     validations:
       required: true
   - type: textarea
     id: reproduction
     attributes:
-      label: 版本与复现步骤
-      description: psd2live 版本、客户端、模型、操作步骤、Prompt 或 Skill 内容。
+      label: 版本与步骤
+      description: PSD2Live 版本与主要步骤；使用 AI 时注明客户端、模型、Prompt 或 Skill。
     validations:
       required: true
   - type: textarea
     id: assets
     attributes:
       label: 素材与来源
-      description: 提供可下载链接、作者与来源。大文件由维护者整理发布。
+      description: 25 MB 以内直接拖入，更大的文件提供免登录下载链接。注明作者与来源。
   - type: textarea
     id: license
     attributes:
-      label: 单独许可（如有）
-      description: 未填写时按仓库默认 CC0 1.0 发布。
+      label: 单独许可（可选）
+      description: 不填则按 CC0 1.0 发布。
   - type: checkboxes
     id: terms
     attributes:
-      label: 投稿约定
+      label: 确认
       options:
-        - label: 我有权分享这些内容，并同意未单独标注许可证的内容按 CC0 1.0 发布。
+        - label: 我有权分享这些内容，并同意未注明许可的内容按 CC0 1.0 发布；内容中不含令牌或私人信息。
           required: true

@@ -8,7 +8,7 @@ import unittest
 from unittest.mock import patch
 
 
-spec = importlib.util.spec_from_file_location("discovery", Path(__file__).resolve().parents[1] / "mcp/acceptance/discovery.py")
+spec = importlib.util.spec_from_file_location("discovery", Path(__file__).resolve().parents[1] / "scripts/mcp_discovery.py")
 discovery = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(discovery)
 

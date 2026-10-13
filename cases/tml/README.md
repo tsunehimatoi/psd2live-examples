@@ -4,16 +4,16 @@
 
 原作者说明：由 AI 生成的示例。
 
-本案例的素材、工程及展示输出按 **CC0 1.0 Universal** 发布。作者与来源信息作为资料保留。
+素材、工程及导出结果按 **CC0 1.0** 发布。
 
 ## 使用步骤
 
-1. 在示例仓库运行 `python scripts/fetch.py --case tml`，或在主仓库运行 `python tools/examples/fetch.py --case tml`。
-2. 在 PSD2Live 中打开 `examples/tml/psd-input/tml.psd`。打开分层 PSD，检查自动生成结果，并导出模型文件族。
-3. 从 `.model3.json` 加载已有运行时输出，并保留其引用的纹理、动作和物理文件。CMO3 用于编辑器检查，诊断 JSON 用于分析。
+1. 下载上方素材包解压，或运行 `python scripts/fetch.py --case tml`（主仓库为 `python tools/examples/fetch.py --case tml`）。
+2. 在 PSD2Live 中打开 `psd-input/tml.psd`。打开分层 PSD，检查自动生成结果，并导出模型文件族。
+3. 查看成品：加载 `.model3.json`，保留其引用的纹理、动作和物理文件；`.cmo3` 用于编辑器检查，诊断 JSON 用于分析。
 
 ## 版本与结果
 
-素材版本为 `1.0.0`。来源及兼容测试起点记录在清单的 `source` 与 `compatibility` 中。
+素材版本 `1.0.0`，来源与兼容版本见 [清单](manifest.json) 的 `source`、`compatibility`。
 
-这是既有素材与结果的迁移，未重新生成。结果可能随算法、设置和程序版本变化；已有输出用于展示，不是固定验收基准。生成新结果请使用独立输出目录。
+导出结果迁移自既有版本，未重新生成，仅供参考，不作为验收基准；结果会随算法、设置和版本变化。生成新结果请使用独立输出目录。
