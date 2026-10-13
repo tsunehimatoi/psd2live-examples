@@ -1,0 +1,35 @@
+name: 分享案例或 Skill
+description: 分享示例素材、制作经验、Prompt、Skill 或 MCP 场景
+title: "[Case] "
+body:
+  - type: textarea
+    id: result
+    attributes:
+      label: 目标与结果
+      description: 想完成什么，实际效果如何，有哪些已知问题？
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: 版本与复现步骤
+      description: psd2live 版本、客户端、模型、操作步骤、Prompt 或 Skill 内容。
+    validations:
+      required: true
+  - type: textarea
+    id: assets
+    attributes:
+      label: 素材与来源
+      description: 提供可下载链接、作者与来源。大文件由维护者整理发布。
+  - type: textarea
+    id: license
+    attributes:
+      label: 单独许可（如有）
+      description: 未填写时按仓库默认 CC0 1.0 发布。
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: 投稿约定
+      options:
+        - label: 我有权分享这些内容，并同意未单独标注许可证的内容按 CC0 1.0 发布。
+          required: true

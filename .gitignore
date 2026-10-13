@@ -1,0 +1,14 @@
+build/
+examples/
+__pycache__/
+*.pyc
+*.psd
+*.psb
+*.psd2live
+*.cmo3
+*.can3
+*.moc3
+*.zip
+*.dll
+*.so
+*.dylib

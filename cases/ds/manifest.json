@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "id": "ds",
+  "version": "1.0.0",
+  "title": "ds 动作与物理示例",
+  "description": "完整生成、动作与物理示例。",
+  "author": "PSD2Live 示例贡献者",
+  "attribution": "素材为社区自发创作的 DeepSeek 形象“大肥鱼”，与 DeepSeek 官方没有联系。",
+  "license": "CC0-1.0",
+  "tags": [
+    "生成",
+    "动作",
+    "物理"
+  ],
+  "source": {
+    "repository": "https://github.com/tsunehimatoi/psd2live",
+    "commit": "3d4bfcb1aa4f7a8cdc1316ab1712fe9720d63b55"
+  },
+  "compatibility": {
+    "psd2live_commit": "3d4bfcb1aa4f7a8cdc1316ab1712fe9720d63b55",
+    "note": "迁移既有输入与展示结果，未重新生成；并非固定验收基准。"
+  },
+  "archive": {
+    "url": "https://github.com/tsunehimatoi/psd2live-examples/releases/download/assets-v1/ds-1.0.0.zip",
+    "size_bytes": 9120777,
+    "sha256": "c3f97b6e6ee62ad706667aab5fd765a1603eb4a86a21ec7f62853626aab22eb3"
+  },
+  "files": [
+    {
+      "path": "ds/moc3-cmo3-output/ds.4096/texture_00.png",
+      "size_bytes": 2407727,
+      "sha256": "ad0fb25bcc3d4ff76f28e607e8a34009f055d5d398ebfec079ddacdc61eebf21"
+    },
+    {
+      "path": "ds/moc3-cmo3-output/ds.blink.motion3.json",
+      "size_bytes": 1155,
+      "sha256": "399f91b7bfac0666f589ab7c6daace5e33e5c6d6e7c6e7ca4024b6db48a65110"
+    },
+    {
+      "path": "ds/moc3-cmo3-output/ds.cdi3.json",
+      "size_bytes": 4131,
+      "sha256": "cc5caddb16d24593e09e273440df4487c166f9e3409ef1de456a50963cee18b1"
+    },
+    {
+      "path": "ds/moc3-cmo3-output/ds.cmo3",
+      "size_bytes": 4058700,
+      "sha256": "3d50f646032df665246cfb63ebe86b94ee0e3e2a3547e7ac351b3b8d37a7d925"
+    },
+    {
+      "path": "ds/moc3-cmo3-output/ds.idle.motion3.json",
+      "size_bytes": 2282,
+      "sha256": "5f709b9834310a670e1b55b448421568377031f26ad79040925db29da8943990"
+    },
+    {
+      "path": "ds/moc3-cmo3-output/ds.moc3",
+      "size_bytes": 95104,
+      "sha256": "506e244aae84a0df584533e3109e2d5ff57cd5cf39f59fb7a48e245d3ca56065"
+    },
+    {
+      "path": "ds/moc3-cmo3-output/ds.model3.json",
+      "size_bytes": 693,
+      "sha256": "659b5bcbc4f15d556e9e082703a9c8ecb8a4d916fcd768fc8b72d28bf8887234"
+    },
+    {
+      "path": "ds/moc3-cmo3-output/ds.nod.motion3.json",
+      "size_bytes": 1751,
+      "sha256": "bfd9a247d5ec8479145c2dddfd5fdbf03e1c46df8d7460f07badd146c1e19418"
+    },
+    {
+      "path": "ds/moc3-cmo3-output/ds.physics3.json",
+      "size_bytes": 8555,
+      "sha256": "8d764028c6536e7acb6171c4db6dc5f1383891e0d37026a81f97f27d38f1d475"
+    },
+    {
+      "path": "ds/moc3-cmo3-output/ds.psd2live.json",
+      "size_bytes": 6382,
+      "sha256": "14cbf9e9055388cfcfb07673d32e7a7c655089d3c0ea5325e30b2b639bfa28dd"
+    },
+    {
+      "path": "ds/moc3-cmo3-output/ds.shake.motion3.json",
+      "size_bytes": 1571,
+      "sha256": "9714b72b47dba8e33b6b08d0f9e84c77309a6ce6c98d2a3815c3a59d69163b01"
+    },
+    {
+      "path": "ds/psd-input/ds.psd",
+      "size_bytes": 3852760,
+      "sha256": "0bc23c9f2b60edf7af81a9a8761bdf2ad6144e55fe9243b82331c7cac073f104"
+    }
+  ]
+}

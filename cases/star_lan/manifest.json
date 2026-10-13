@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "id": "star_lan",
+  "version": "1.0.0",
+  "title": "star_lan 关节与纹理示例",
+  "description": "关节变形、多纹理、工程与人机协作编辑案例。",
+  "author": "PSD2Live 示例贡献者",
+  "attribution": "原角色说明：GPT-6.1 sol 自述的原创角色，原画由图像模型生成，PSD 在其基础上拆分。",
+  "license": "CC0-1.0",
+  "tags": [
+    "骨架",
+    "纹理",
+    "MCP"
+  ],
+  "source": {
+    "repository": "https://github.com/tsunehimatoi/psd2live",
+    "commit": "3d4bfcb1aa4f7a8cdc1316ab1712fe9720d63b55"
+  },
+  "compatibility": {
+    "psd2live_commit": "3d4bfcb1aa4f7a8cdc1316ab1712fe9720d63b55",
+    "note": "迁移既有输入与展示结果，未重新生成；并非固定验收基准。"
+  },
+  "archive": {
+    "url": "https://github.com/tsunehimatoi/psd2live-examples/releases/download/assets-v1/star_lan-1.0.0.zip",
+    "size_bytes": 97431002,
+    "sha256": "9485008ffd52c165dbdcf6ec8dd035d882bbd0dfdc54404c65bf3230453b52fe"
+  },
+  "files": [
+    {
+      "path": "star_lan/moc3-cmo3-output/star_lan.4096/texture_00.png",
+      "size_bytes": 9560267,
+      "sha256": "02ced72ac2a8b8ee15d66a8e5927ede971fa7db661e50a6c8b8c1887b7ad5da9"
+    },
+    {
+      "path": "star_lan/moc3-cmo3-output/star_lan.4096/texture_01.png",
+      "size_bytes": 4146106,
+      "sha256": "21d03cec77354c7f9f28992cd58af57379d51feed9c3660385ccaee46fee4616"
+    },
+    {
+      "path": "star_lan/moc3-cmo3-output/star_lan.4096/texture_02.png",
+      "size_bytes": 2400032,
+      "sha256": "5ffdbc8a2bedb7829c135a98c5dc22cbf9f625acc1c20f9e69370475591a8e83"
+    },
+    {
+      "path": "star_lan/moc3-cmo3-output/star_lan.blink.motion3.json",
+      "size_bytes": 1155,
+      "sha256": "399f91b7bfac0666f589ab7c6daace5e33e5c6d6e7c6e7ca4024b6db48a65110"
+    },
+    {
+      "path": "star_lan/moc3-cmo3-output/star_lan.cdi3.json",
+      "size_bytes": 6969,
+      "sha256": "6c9597ee0789d41b6959cff46194f17cb0d4de77a8475cba9f502c208c935aa3"
+    },
+    {
+      "path": "star_lan/moc3-cmo3-output/star_lan.cmo3",
+      "size_bytes": 18308138,
+      "sha256": "797ab0fa468fada05ec829dd67006fb91340868268459c9f78cc78020bb49a2d"
+    },
+    {
+      "path": "star_lan/moc3-cmo3-output/star_lan.idle.motion3.json",
+      "size_bytes": 15999,
+      "sha256": "14674d50d8765df706ac253975629f7cffe97a2442248a41af59f68d9cd3f2dc"
+    },
+    {
+      "path": "star_lan/moc3-cmo3-output/star_lan.moc3",
+      "size_bytes": 355840,
+      "sha256": "9338bb0631474f43e0f4f9d911ef94572da078f9c320bc5b449f2b026b2a315d"
+    },
+    {
+      "path": "star_lan/moc3-cmo3-output/star_lan.model3.json",
+      "size_bytes": 811,
+      "sha256": "2b93ffb4d3e865314c3bd5a310d85c35cca533a358f1ffa728691beb0c1db1d5"
+    },
+    {
+      "path": "star_lan/moc3-cmo3-output/star_lan.nod.motion3.json",
+      "size_bytes": 1751,
+      "sha256": "bfd9a247d5ec8479145c2dddfd5fdbf03e1c46df8d7460f07badd146c1e19418"
+    },
+    {
+      "path": "star_lan/moc3-cmo3-output/star_lan.physics3.json",
+      "size_bytes": 32633,
+      "sha256": "6022c5df075f4fbc66f6d4c6c59d192b64f4362d418b3c4576a0f427620a2595"
+    },
+    {
+      "path": "star_lan/moc3-cmo3-output/star_lan.psd2live.json",
+      "size_bytes": 12955,
+      "sha256": "a843ba9ccbed4110f0d7f8d3302579541c407787ba61a6cb89a3214a4460532d"
+    },
+    {
+      "path": "star_lan/moc3-cmo3-output/star_lan.shake.motion3.json",
+      "size_bytes": 1573,
+      "sha256": "81f50690b925cab5487c64cd1fc9781485a141f758a1f7085d36f0596bbfe54b"
+    },
+    {
+      "path": "star_lan/prj/star_lan.psd2live",
+      "size_bytes": 26801286,
+      "sha256": "46fa1a13be0755b715728e3917d62115745ed4965d5fa29a874901cddbe9956e"
+    },
+    {
+      "path": "star_lan/psd-input/star_lan.concept.png",
+      "size_bytes": 1715499,
+      "sha256": "df89adff983d8e890aadbf6fa60acc4196969ec64129d20c9764bbf6f33a8ad1"
+    },
+    {
+      "path": "star_lan/psd-input/star_lan.psd",
+      "size_bytes": 9382662,
+      "sha256": "536b69dfcb506e6742562c02ce68e3443835c425b539451253dfc56549cb94d9"
+    },
+    {
+      "path": "star_lan/webp-output/star_lan.webp",
+      "size_bytes": 34859266,
+      "sha256": "9a35790b86f82de4fc81fbbacc789b62d8638f2258d6609cb60dec6d85fc3d92"
+    },
+    {
+      "path": "star_lan/webp-output/star_lan.webp.report.json",
+      "size_bytes": 204,
+      "sha256": "43bce01fc413b96ba15a0a235dc3c5ca3a01cdeb4a4082d246b18fd783704c57"
+    }
+  ]
+}

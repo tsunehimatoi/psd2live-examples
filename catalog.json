@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "default_license": "CC0-1.0",
+  "cases": [
+    {
+      "id": "tml",
+      "manifest": "cases/tml/manifest.json"
+    },
+    {
+      "id": "ds",
+      "manifest": "cases/ds/manifest.json"
+    },
+    {
+      "id": "star_lan",
+      "manifest": "cases/star_lan/manifest.json"
+    }
+  ]
+}

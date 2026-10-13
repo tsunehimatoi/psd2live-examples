@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "id": "tml",
+  "version": "1.0.0",
+  "title": "tml 自动生成示例",
+  "description": "分层 PSD 导入、自动生成与导出。",
+  "author": "PSD2Live 示例贡献者",
+  "attribution": "原作者说明：由 AI 生成的示例。",
+  "license": "CC0-1.0",
+  "tags": [
+    "入门",
+    "生成",
+    "导出"
+  ],
+  "source": {
+    "repository": "https://github.com/tsunehimatoi/psd2live",
+    "commit": "3d4bfcb1aa4f7a8cdc1316ab1712fe9720d63b55"
+  },
+  "compatibility": {
+    "psd2live_commit": "3d4bfcb1aa4f7a8cdc1316ab1712fe9720d63b55",
+    "note": "迁移既有输入与展示结果，未重新生成；并非固定验收基准。"
+  },
+  "archive": {
+    "url": "https://github.com/tsunehimatoi/psd2live-examples/releases/download/assets-v1/tml-1.0.0.zip",
+    "size_bytes": 9718929,
+    "sha256": "f6c98e308e4419d58328e0ced5b703b4ee0e790424ae503f2b0d6d5ad7620a66"
+  },
+  "files": [
+    {
+      "path": "tml/moc3-cmo3-output/tml.4096/texture_00.png",
+      "size_bytes": 2310265,
+      "sha256": "086860835db3caba7c62d4adab74be8ff21a2bd5da84e737fec5ef6b81099219"
+    },
+    {
+      "path": "tml/moc3-cmo3-output/tml.blink.motion3.json",
+      "size_bytes": 1155,
+      "sha256": "399f91b7bfac0666f589ab7c6daace5e33e5c6d6e7c6e7ca4024b6db48a65110"
+    },
+    {
+      "path": "tml/moc3-cmo3-output/tml.cdi3.json",
+      "size_bytes": 4029,
+      "sha256": "d03f19d19bc3fe6e281c0f7eebc22ec1b73d4120f57affcb2fbfcf57423d0cb3"
+    },
+    {
+      "path": "tml/moc3-cmo3-output/tml.cmo3",
+      "size_bytes": 4148007,
+      "sha256": "8b54dfa946f61d9da72ff651011ef5c049d485c81b1badb4c26d427c6a4a9fa0"
+    },
+    {
+      "path": "tml/moc3-cmo3-output/tml.idle.motion3.json",
+      "size_bytes": 2282,
+      "sha256": "5f709b9834310a670e1b55b448421568377031f26ad79040925db29da8943990"
+    },
+    {
+      "path": "tml/moc3-cmo3-output/tml.moc3",
+      "size_bytes": 106368,
+      "sha256": "2c315b9aff9a4f7ba6387a0bbbaca29ea62d2c4934f5ff135bf3e22937e5ac02"
+    },
+    {
+      "path": "tml/moc3-cmo3-output/tml.model3.json",
+      "size_bytes": 701,
+      "sha256": "745cf6be1bfeb61fb497cd89a0d7505c020a6b49ba3e6911905f5bf5ff298607"
+    },
+    {
+      "path": "tml/moc3-cmo3-output/tml.nod.motion3.json",
+      "size_bytes": 1751,
+      "sha256": "bfd9a247d5ec8479145c2dddfd5fdbf03e1c46df8d7460f07badd146c1e19418"
+    },
+    {
+      "path": "tml/moc3-cmo3-output/tml.physics3.json",
+      "size_bytes": 8555,
+      "sha256": "8d764028c6536e7acb6171c4db6dc5f1383891e0d37026a81f97f27d38f1d475"
+    },
+    {
+      "path": "tml/moc3-cmo3-output/tml.psd2live.json",
+      "size_bytes": 6272,
+      "sha256": "ce64d7103092601c13048338772376fa4944b71c5c6636ba398526c844d414eb"
+    },
+    {
+      "path": "tml/moc3-cmo3-output/tml.shake.motion3.json",
+      "size_bytes": 1571,
+      "sha256": "9714b72b47dba8e33b6b08d0f9e84c77309a6ce6c98d2a3815c3a59d69163b01"
+    },
+    {
+      "path": "tml/psd-input/tml.psd",
+      "size_bytes": 7014798,
+      "sha256": "d8564e0181368a5b70de461e2938206bc1dc25b60100dc227e88381087630c36"
+    }
+  ]
+}
