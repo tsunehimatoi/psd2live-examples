@@ -11,7 +11,7 @@ PSD2Live 的示例素材、工程、导出模型，以及制作经验、Prompt �
 | [tml](cases/tml/README.md) | 分层 PSD 导入、自动生成与导出 | 入门、生成、导出 |
 | [ds](cases/ds/README.md) | 完整角色，含动作与物理 | 生成、动作、物理 |
 | [star_lan](cases/star_lan/README.md) | 关节变形、多纹理与 AI 协作经验 | 骨架、纹理、MCP |
-| [绯灯祈](cases/hiakari-inori/README.md) | grok bot + GPT Image，无 see-through 拆分 | 较复杂模拟 | 拆分、模拟、grok |
+| [绯灯祈](cases/hiakari-inori/README.md) | grok bot + GPT Image，无 see-through 拆分与复杂模拟 | 拆分、模拟、grok |
 | [雾岛澪](cases/kirishima-mio/README.md) | 绯灯祈的前置尝试：生成拆层、配准与遮挡补全 | 拆层、配准、grok |
 
 ## 下载

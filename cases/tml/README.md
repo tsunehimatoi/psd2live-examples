@@ -2,6 +2,8 @@
 
 [案例索引](../../README.md) · [下载素材包](https://github.com/tsunehimatoi/psd2live-examples/releases/download/assets-v1/tml-1.0.0.zip) · [文件清单](manifest.json)
 
+![导出模型的动作预览](preview.webp)
+
 原作者说明：由 AI 生成的示例。
 
 素材、工程及导出结果按 **CC0 1.0** 发布。
@@ -14,6 +16,8 @@
 
 ## 版本与结果
 
-素材版本 `1.0.0`，来源与兼容版本见 [清单](manifest.json) 的 `source`、`compatibility`。
+素材版本 `1.0.0`，素材包中的导出由 **PSD2Live 0.1.0** 生成。预览由 Cubism SDK for Native 5-r.5 直接渲染素材包中的 `.model3.json`，依次播放点头、摇头与待机动作，物理开启。
+
+来源与兼容版本见 [清单](manifest.json) 的 `source`、`compatibility`。
 
 导出结果迁移自既有版本，未重新生成，仅供参考，不作为验收基准；结果会随算法、设置和版本变化。生成新结果请使用独立输出目录。

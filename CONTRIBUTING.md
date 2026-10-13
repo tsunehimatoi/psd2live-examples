@@ -18,7 +18,7 @@ cases/
 └── <id>/
     ├── README.md         入口说明（必需）
     ├── manifest.json     素材清单（有素材包时必需）
-    ├── preview.gif       预览图（可选）
+    ├── preview.webp      预览图（可选，GIF 亦可）
     ├── workflow/         方法、脚本与经验
     ├── prompts/          Prompt
     ├── skills/           Skill，保留宿主所需的原生结构
@@ -49,6 +49,16 @@ cases/
 
 - Git 中单个文件不超过 5 MB，不提交 `.psd`、`.cmo3`、`.moc3`、`.zip` 等二进制。素材、工程和导出包通过 Release 分发，PR 中附下载链接即可。
 - 移除令牌、会话 ID、账号信息和私人路径；不上传专有 SDK 二进制。
+
+### 预览图
+
+可在 PSD2Live 中通过“文件 → 导出为 → GIF…”生成。有导出模型时，也可用主项目编译的 Cubism 预览库直接渲染，得到与素材包一致、规格统一（320×480、15 fps、物理开启）的动图：
+
+```sh
+python scripts/render_preview.py <模型>.model3.json cases/<id>/preview.webp --renderer <live2d_renderer 所在目录>
+```
+
+需要 Pillow 和带 libwebp 的 ffmpeg；预览库的编译见主项目 `native/live2d_renderer/README.md`。
 
 ### 素材清单
 

@@ -17,6 +17,7 @@
     "commit": "3d4bfcb1aa4f7a8cdc1316ab1712fe9720d63b55"
   },
   "compatibility": {
+    "generated_with": "PSD2Live 0.1.0",
     "psd2live_commit": "3d4bfcb1aa4f7a8cdc1316ab1712fe9720d63b55",
     "note": "迁移既有输入与展示结果，未重新生成；并非固定验收基准。"
   },
