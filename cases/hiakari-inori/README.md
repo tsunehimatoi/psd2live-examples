@@ -6,6 +6,10 @@
 
 grok bot + GPT Image（Codex exec 或 Web）的尝试，实践无 see-through 拆分，以及长衣袖、流苏、尾巴、裙子、铃铛等复杂模拟的效果。
 
+导入后继续采用快速手工工作流，包括模拟调整。最终文件来自原资料根目录的工程与 `hiakari_inori_layers_v3-psd2live` 导出目录；`history/` 保存早期与实验版本。
+
+动作 GIF 由 `ReadmeShowcaseTool.bodyOrbit` 读取最终工程生成，包含已保存的模拟。生成参数见 [preview.json](preview.json)，复现步骤见 [预览生成](workflow/preview.md)。
+
 作者：grok bot。按 CC0 1.0 发布。角色与形象为原创，制作时未参考任何现有作品，如有雷同纯属巧合。
 
 ## 使用

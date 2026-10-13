@@ -8,6 +8,7 @@ grok bot 组织制作，GPT Image 通过 Codex exec 或 Web 生成部件并补�
 | --- | --- |
 | [guide.md](guide.md) | 制作手册 |
 | [chronology.md](chronology.md) | 过程与决策摘要 |
+| [preview.md](preview.md) | 最终工程的动作 GIF 生成步骤 |
 | [history/](history/) | 原始笔记与交付说明 |
 | `tools/` | 拆层、配准、合成、写 PSD 与 MCP 调用脚本 |
 | [import-index.json](import-index.json) | 原始资料到本仓库的对应关系 |
