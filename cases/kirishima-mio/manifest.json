@@ -1,0 +1,195 @@
+{
+  "schema_version": 1,
+  "id": "kirishima-mio",
+  "version": "1.0.0",
+  "title": "雾岛澪 · 前置尝试",
+  "description": "grok bot 的前置尝试：生成拆层、配准、正脸重做与遮挡补全。",
+  "author": "grok bot",
+  "attribution": "角色与形象为原创，制作时未参考任何现有作品，如有雷同纯属巧合。",
+  "license": "CC0-1.0",
+  "tags": [
+    "grok",
+    "拆层",
+    "配准",
+    "遮挡补全",
+    "GPT Image",
+    "MCP"
+  ],
+  "status": "earlier-attempt",
+  "source": {
+    "kind": "local-import",
+    "name": "grok bot 制作资料",
+    "inventory_sha256": "eddbbc897c526f63ff44ba41f03ae160d2ff59ad8e2ab89c57c02dcae7700d4c",
+    "imported_on": "2026-10-13"
+  },
+  "compatibility": {
+    "production_version": "PSD2Live 3.4.2 / Linux（原制作记录）",
+    "note": "历史体验按原版本归档；最终工程预览由当前主项目工具生成。"
+  },
+  "archive": {
+    "url": "https://github.com/tsunehimatoi/psd2live-examples/releases/download/assets-v2/kirishima-mio-1.0.0.zip",
+    "size_bytes": 86393193,
+    "sha256": "ce09667ec781f05df5ff9a41451299f6090d5b0ab207d1c575ae2f8a7be84390"
+  },
+  "files": [
+    {
+      "path": "kirishima-mio/export_cubism/kirishima_full_k1.4096/texture_00.png",
+      "size_bytes": 4534337,
+      "sha256": "de4b757fe6b3192bbc3dbf079a6ec3071ea7342491d8b1002b73aee6745183f5"
+    },
+    {
+      "path": "kirishima-mio/export_cubism/kirishima_full_k1.blink.motion3.json",
+      "size_bytes": 1155,
+      "sha256": "399f91b7bfac0666f589ab7c6daace5e33e5c6d6e7c6e7ca4024b6db48a65110"
+    },
+    {
+      "path": "kirishima-mio/export_cubism/kirishima_full_k1.cdi3.json",
+      "size_bytes": 4570,
+      "sha256": "11d28d57aab030cd5c3d55669f7d5cc5ed651dce5c0640d0f30a944ba3fd50c8"
+    },
+    {
+      "path": "kirishima-mio/export_cubism/kirishima_full_k1.idle.motion3.json",
+      "size_bytes": 15999,
+      "sha256": "14674d50d8765df706ac253975629f7cffe97a2442248a41af59f68d9cd3f2dc"
+    },
+    {
+      "path": "kirishima-mio/export_cubism/kirishima_full_k1.moc3",
+      "size_bytes": 286272,
+      "sha256": "5d701d8ceebf3e01d35c425c60a102ed2795a792081f3c2f5b35e138a5eac540"
+    },
+    {
+      "path": "kirishima-mio/export_cubism/kirishima_full_k1.moc3.report.json",
+      "size_bytes": 372,
+      "sha256": "2a7f4565a2151f7c95724e36a4e53c7aedfb087a6b262023f459b5c0905b9cd9"
+    },
+    {
+      "path": "kirishima-mio/export_cubism/kirishima_full_k1.model3.json",
+      "size_bytes": 813,
+      "sha256": "cbe7f14e850f0cc229fe15594813fa69da4492235c325051ab4b694492160ae4"
+    },
+    {
+      "path": "kirishima-mio/export_cubism/kirishima_full_k1.nod.motion3.json",
+      "size_bytes": 1751,
+      "sha256": "bfd9a247d5ec8479145c2dddfd5fdbf03e1c46df8d7460f07badd146c1e19418"
+    },
+    {
+      "path": "kirishima-mio/export_cubism/kirishima_full_k1.physics3.json",
+      "size_bytes": 8581,
+      "sha256": "71cb582301f81b1514db003938989b7adea3af85dc102b1d99c9a5e0aa537798"
+    },
+    {
+      "path": "kirishima-mio/export_cubism/kirishima_full_k1.shake.motion3.json",
+      "size_bytes": 1573,
+      "sha256": "81f50690b925cab5487c64cd1fc9781485a141f758a1f7085d36f0596bbfe54b"
+    },
+    {
+      "path": "kirishima-mio/export_vtube_studio/kirishima_full_k1.4096/texture_00.png",
+      "size_bytes": 4534337,
+      "sha256": "de4b757fe6b3192bbc3dbf079a6ec3071ea7342491d8b1002b73aee6745183f5"
+    },
+    {
+      "path": "kirishima-mio/export_vtube_studio/kirishima_full_k1.blink.motion3.json",
+      "size_bytes": 1155,
+      "sha256": "399f91b7bfac0666f589ab7c6daace5e33e5c6d6e7c6e7ca4024b6db48a65110"
+    },
+    {
+      "path": "kirishima-mio/export_vtube_studio/kirishima_full_k1.cdi3.json",
+      "size_bytes": 4570,
+      "sha256": "11d28d57aab030cd5c3d55669f7d5cc5ed651dce5c0640d0f30a944ba3fd50c8"
+    },
+    {
+      "path": "kirishima-mio/export_vtube_studio/kirishima_full_k1.idle.motion3.json",
+      "size_bytes": 15999,
+      "sha256": "14674d50d8765df706ac253975629f7cffe97a2442248a41af59f68d9cd3f2dc"
+    },
+    {
+      "path": "kirishima-mio/export_vtube_studio/kirishima_full_k1.moc3",
+      "size_bytes": 286272,
+      "sha256": "5d701d8ceebf3e01d35c425c60a102ed2795a792081f3c2f5b35e138a5eac540"
+    },
+    {
+      "path": "kirishima-mio/export_vtube_studio/kirishima_full_k1.model3.json",
+      "size_bytes": 813,
+      "sha256": "cbe7f14e850f0cc229fe15594813fa69da4492235c325051ab4b694492160ae4"
+    },
+    {
+      "path": "kirishima-mio/export_vtube_studio/kirishima_full_k1.nod.motion3.json",
+      "size_bytes": 1751,
+      "sha256": "bfd9a247d5ec8479145c2dddfd5fdbf03e1c46df8d7460f07badd146c1e19418"
+    },
+    {
+      "path": "kirishima-mio/export_vtube_studio/kirishima_full_k1.physics3.json",
+      "size_bytes": 8581,
+      "sha256": "71cb582301f81b1514db003938989b7adea3af85dc102b1d99c9a5e0aa537798"
+    },
+    {
+      "path": "kirishima-mio/export_vtube_studio/kirishima_full_k1.shake.motion3.json",
+      "size_bytes": 1573,
+      "sha256": "81f50690b925cab5487c64cd1fc9781485a141f758a1f7085d36f0596bbfe54b"
+    },
+    {
+      "path": "kirishima-mio/export_vtube_studio/kirishima_full_k1.vtube-studio.report.json",
+      "size_bytes": 542,
+      "sha256": "127607ef7d129ca9731399a6b1e1cb289da06fdd9933cf40215c11fc44850955"
+    },
+    {
+      "path": "kirishima-mio/export_vtube_studio/kirishima_full_k1.vtube.json",
+      "size_bytes": 10330,
+      "sha256": "1bbf78b16dadb3159c4b0e618669da111a0a66bbaf834b4033062418093bd563"
+    },
+    {
+      "path": "kirishima-mio/kirishima_mio_fullbody.psd2live",
+      "size_bytes": 61155449,
+      "sha256": "374e20b431e638ce24961c8803ed5d30488fca6ebb4ca312752d5923eacc0104"
+    },
+    {
+      "path": "kirishima-mio/kirishima_mio_fullbody_layers.psd",
+      "size_bytes": 31646422,
+      "sha256": "616ba22bc67a73e023e1e13f7a520351b97cce53be6b77dbd8cf2fab05823797"
+    },
+    {
+      "path": "kirishima-mio/pipeline/headparams3.json",
+      "size_bytes": 168,
+      "sha256": "89784a2c0c532f5c72c1dbdd382c159d0b5e1c67ff4165fc9ba8fd8e06b2b37f"
+    },
+    {
+      "path": "kirishima-mio/preview/kirishima_full_k1.webm",
+      "size_bytes": 2461724,
+      "sha256": "c9985989c1a44c82b4a48bee1b020f36d4c6aa03a94a2a69ad600d4281efcf57"
+    },
+    {
+      "path": "kirishima-mio/preview/kirishima_full_k1.webm.report.json",
+      "size_bytes": 213,
+      "sha256": "23292a4c8a83c72e3e089375a19389b563866aecd0e1e3cc3edaaf0fbf9ca96d"
+    },
+    {
+      "path": "kirishima-mio/renders/01_fullbody_transparent.png",
+      "size_bytes": 2038307,
+      "sha256": "dce8fbb3543581a0401d6048c67052f61ec3802d97c71ab6994209da1682e339"
+    },
+    {
+      "path": "kirishima-mio/renders/01_fullbody_white.png",
+      "size_bytes": 1752550,
+      "sha256": "fe4490b4da62330bc380ae3861982e9c479f9dd9ec35ea7cb7fc750929c7054d"
+    },
+    {
+      "path": "kirishima-mio/renders/02_head_transparent.png",
+      "size_bytes": 1461790,
+      "sha256": "fefc0ddeb01835be8e14621ed3118e9f3d99a297d7237f3970f82b03e04d2331"
+    },
+    {
+      "path": "kirishima-mio/renders/02_head_white.png",
+      "size_bytes": 1266963,
+      "sha256": "ce715314abc7591df52130b104a594df2330d34d127af5c94fcaf153a404b473"
+    },
+    {
+      "path": "kirishima-mio/renders/03_expression_sheet.png",
+      "size_bytes": 1527421,
+      "sha256": "23f3af54b723bdd837e232a26247591a0acea98b9926c26623eaeb14cc368cfb"
+    }
+  ],
+  "entrypoints": {
+    "project": "kirishima_mio_fullbody.psd2live",
+    "psd": "kirishima_mio_fullbody_layers.psd"
+  }
+}

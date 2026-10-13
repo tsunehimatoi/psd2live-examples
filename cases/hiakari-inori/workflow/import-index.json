@@ -1,0 +1,4285 @@
+{
+  "schema_version": 1,
+  "source_name": "grok bot 制作资料",
+  "inventory_sha256": "eddbbc897c526f63ff44ba41f03ae160d2ff59ad8e2ab89c57c02dcae7700d4c",
+  "source_files": 611,
+  "files": [
+    {
+      "source": "hiakari_inori_layers_v3-psd2live/hiakari_inori_layers_v3-webp/hiakari_inori_layers_v3.webp",
+      "size_bytes": 51053736,
+      "source_sha256": "16a343332382100b3173d2e7f7bd4e2b4a5670576b18515caca61d6deebf11ed",
+      "destination": "hiakari-inori/export/hiakari_inori_layers_v3-webp/hiakari_inori_layers_v3.webp",
+      "kind": "release"
+    },
+    {
+      "source": "hiakari_inori_layers_v3-psd2live/hiakari_inori_layers_v3-webp/hiakari_inori_layers_v3.webp.report.json",
+      "size_bytes": 219,
+      "source_sha256": "c74dfd5fc0aadb2331e9ffdcefd37392612eeb8575c1dbb6e2263d75c070caaa",
+      "destination": "hiakari-inori/export/hiakari_inori_layers_v3-webp/hiakari_inori_layers_v3.webp.report.json",
+      "kind": "release"
+    },
+    {
+      "source": "hiakari_inori_layers_v3-psd2live/hiakari_inori_layers_v3.4096/texture_00.png",
+      "size_bytes": 13077404,
+      "source_sha256": "7c74dbc073270724e969e9449f188d40e75387cea88a34d8a724715ab087416d",
+      "destination": "hiakari-inori/export/hiakari_inori_layers_v3.4096/texture_00.png",
+      "kind": "release"
+    },
+    {
+      "source": "hiakari_inori_layers_v3-psd2live/hiakari_inori_layers_v3.blink.motion3.json",
+      "size_bytes": 1155,
+      "source_sha256": "399f91b7bfac0666f589ab7c6daace5e33e5c6d6e7c6e7ca4024b6db48a65110",
+      "destination": "hiakari-inori/export/hiakari_inori_layers_v3.blink.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "hiakari_inori_layers_v3-psd2live/hiakari_inori_layers_v3.can3",
+      "size_bytes": 78202,
+      "source_sha256": "ac3ba5e63b310a11b4420b87d377bf8c51b574e9a324d5678b78541cf4feda7a",
+      "destination": "hiakari-inori/export/hiakari_inori_layers_v3.can3",
+      "kind": "release"
+    },
+    {
+      "source": "hiakari_inori_layers_v3-psd2live/hiakari_inori_layers_v3.cdi3.json",
+      "size_bytes": 9960,
+      "source_sha256": "a5923069ee3e6b5a5c41964f8ea9b6ef81e3c79c554c4679977d5d8cb73ce4e5",
+      "destination": "hiakari-inori/export/hiakari_inori_layers_v3.cdi3.json",
+      "kind": "release"
+    },
+    {
+      "source": "hiakari_inori_layers_v3-psd2live/hiakari_inori_layers_v3.cheer.motion3.json",
+      "size_bytes": 17951,
+      "source_sha256": "466a38c94e7895cc6b723719d8212a7b7a1b6055c11cc88da411b8594307e5d3",
+      "destination": "hiakari-inori/export/hiakari_inori_layers_v3.cheer.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "hiakari_inori_layers_v3-psd2live/hiakari_inori_layers_v3.cmo3",
+      "size_bytes": 42221272,
+      "source_sha256": "043e4bb3096bd22f3241354f24da8d585a7f6aa052ee991cc4dc6462a804a346",
+      "destination": "hiakari-inori/export/hiakari_inori_layers_v3.cmo3",
+      "kind": "release"
+    },
+    {
+      "source": "hiakari_inori_layers_v3-psd2live/hiakari_inori_layers_v3.crouch.motion3.json",
+      "size_bytes": 11296,
+      "source_sha256": "ffd1e37cfa185876e3756b65ebd1f884e0eb9e959cd93ec58867f2e670b11b2f",
+      "destination": "hiakari-inori/export/hiakari_inori_layers_v3.crouch.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "hiakari_inori_layers_v3-psd2live/hiakari_inori_layers_v3.headTilt.motion3.json",
+      "size_bytes": 15285,
+      "source_sha256": "b68321bc32d93a36fd18d990867e2598d185c2d32773466d02f5fc4a8d48ad9f",
+      "destination": "hiakari-inori/export/hiakari_inori_layers_v3.headTilt.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "hiakari_inori_layers_v3-psd2live/hiakari_inori_layers_v3.idle.motion3.json",
+      "size_bytes": 30213,
+      "source_sha256": "08d395149333235ec995b3df2f61c5413bf0f126b7d3ebba02560f035ba68d46",
+      "destination": "hiakari-inori/export/hiakari_inori_layers_v3.idle.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "hiakari_inori_layers_v3-psd2live/hiakari_inori_layers_v3.idleCute.motion3.json",
+      "size_bytes": 28515,
+      "source_sha256": "5ed94d90c5f7fc2362788c0a99b7fe2b954e62e6ff2d35b97527e8102fe0fcf1",
+      "destination": "hiakari-inori/export/hiakari_inori_layers_v3.idleCute.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "hiakari_inori_layers_v3-psd2live/hiakari_inori_layers_v3.legKick.motion3.json",
+      "size_bytes": 22232,
+      "source_sha256": "1d12766e9d4dff0f8c032e8f5e7a83ec23a45856343469df957084ec32a3c880",
+      "destination": "hiakari-inori/export/hiakari_inori_layers_v3.legKick.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "hiakari_inori_layers_v3-psd2live/hiakari_inori_layers_v3.moc3",
+      "size_bytes": 16030720,
+      "source_sha256": "3f86b3f6a919b3ae7f4ef5145be2116f2da84c9f1270b9aa9715153f8aa2efdf",
+      "destination": "hiakari-inori/export/hiakari_inori_layers_v3.moc3",
+      "kind": "release"
+    },
+    {
+      "source": "hiakari_inori_layers_v3-psd2live/hiakari_inori_layers_v3.model3.json",
+      "size_bytes": 1671,
+      "source_sha256": "3f8bfb11e24536a6e20d470ca90a30374bea70cbbf12bc7bc694646da68c2eb3",
+      "destination": "hiakari-inori/export/hiakari_inori_layers_v3.model3.json",
+      "kind": "release"
+    },
+    {
+      "source": "hiakari_inori_layers_v3-psd2live/hiakari_inori_layers_v3.nod.motion3.json",
+      "size_bytes": 1751,
+      "source_sha256": "bfd9a247d5ec8479145c2dddfd5fdbf03e1c46df8d7460f07badd146c1e19418",
+      "destination": "hiakari-inori/export/hiakari_inori_layers_v3.nod.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "hiakari_inori_layers_v3-psd2live/hiakari_inori_layers_v3.physics3.json",
+      "size_bytes": 46217,
+      "source_sha256": "89e63ac692d6e8ef7019a0f4dcb87de9df42f06d99a88a041fa18ba4d37336e3",
+      "destination": "hiakari-inori/export/hiakari_inori_layers_v3.physics3.json",
+      "kind": "release"
+    },
+    {
+      "source": "hiakari_inori_layers_v3-psd2live/hiakari_inori_layers_v3.psd2live.json",
+      "size_bytes": 10015,
+      "source_sha256": "c23a711434768612d4098d8b0a2f359f4b6ed0a2de5cc1e01f2dff4b8e9d676f",
+      "destination": "hiakari-inori/export/hiakari_inori_layers_v3.psd2live.json",
+      "kind": "release"
+    },
+    {
+      "source": "hiakari_inori_layers_v3-psd2live/hiakari_inori_layers_v3.shake.motion3.json",
+      "size_bytes": 1573,
+      "source_sha256": "81f50690b925cab5487c64cd1fc9781485a141f758a1f7085d36f0596bbfe54b",
+      "destination": "hiakari-inori/export/hiakari_inori_layers_v3.shake.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "hiakari_inori_layers_v3-psd2live/hiakari_inori_layers_v3.shy.motion3.json",
+      "size_bytes": 16508,
+      "source_sha256": "d47224497cb32786a1e9a78b1c60d54e773eb997eff8ac6505b06736030ddf41",
+      "destination": "hiakari-inori/export/hiakari_inori_layers_v3.shy.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "hiakari_inori_layers_v3-psd2live/hiakari_inori_layers_v3.sway.motion3.json",
+      "size_bytes": 14149,
+      "source_sha256": "9d2ed6d7ea28052992a64b83b1336975050f2643fd62cea1879817ea509a9674",
+      "destination": "hiakari-inori/export/hiakari_inori_layers_v3.sway.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "hiakari_inori_layers_v3-psd2live/hiakari_inori_layers_v3.wave.motion3.json",
+      "size_bytes": 12619,
+      "source_sha256": "3d32ad43cc6cc047632fc3c8f2675a89202724e259271ffb4b0d15ec20604681",
+      "destination": "hiakari-inori/export/hiakari_inori_layers_v3.wave.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "hiakari_inori_layers_v3-psd2live/hiakari_inori_layers_v3.weightShift.motion3.json",
+      "size_bytes": 11894,
+      "source_sha256": "409d0bee5994b5e17fe8479cfc3f518cfebd6d8e912b651cb34d5cadbd55a0c9",
+      "destination": "hiakari-inori/export/hiakari_inori_layers_v3.weightShift.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "hiakari_inori_layers_v3.psd",
+      "size_bytes": 21417785,
+      "source_sha256": "6be3a1d863c841fa9f94a3a59ad11bfa5f881653e5dde48140fcf25de6244c3d",
+      "destination": "hiakari-inori/psd-input/hiakari_inori_layers_v3.psd",
+      "kind": "release"
+    },
+    {
+      "source": "hiakari_inori_layers_v3.psd2live",
+      "size_bytes": 94384551,
+      "source_sha256": "1efc0f216fd726371e059e3fbb7c1f57004a4ffaf9882e54e14b8bc7e6cd5144",
+      "destination": "hiakari-inori/project/hiakari_inori_layers_v3.psd2live",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v4/export_cubism/inori_v4.4096/texture_00.png",
+      "size_bytes": 11185796,
+      "source_sha256": "ee321aeff45cd6c29a15be3ca646b6ceeb6759174c31c3213de3dfe4f5e5fdf2",
+      "destination": "hiakari-inori/history/v4/export_cubism/inori_v4.4096/texture_00.png",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v4/export_cubism/inori_v4.blink.motion3.json",
+      "size_bytes": 1155,
+      "source_sha256": "399f91b7bfac0666f589ab7c6daace5e33e5c6d6e7c6e7ca4024b6db48a65110",
+      "destination": "hiakari-inori/history/v4/export_cubism/inori_v4.blink.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v4/export_cubism/inori_v4.cdi3.json",
+      "size_bytes": 5978,
+      "source_sha256": "a7944112bf314417af9034f3495769439e72fe5660df2126dff3c51cb8777335",
+      "destination": "hiakari-inori/history/v4/export_cubism/inori_v4.cdi3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v4/export_cubism/inori_v4.idle.motion3.json",
+      "size_bytes": 15999,
+      "source_sha256": "14674d50d8765df706ac253975629f7cffe97a2442248a41af59f68d9cd3f2dc",
+      "destination": "hiakari-inori/history/v4/export_cubism/inori_v4.idle.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v4/export_cubism/inori_v4.moc3",
+      "size_bytes": 501632,
+      "source_sha256": "602fc04a3550b3bbee955774709d0e5e21fd5886898f44559bfa505137200abc",
+      "destination": "hiakari-inori/history/v4/export_cubism/inori_v4.moc3",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v4/export_cubism/inori_v4.moc3.report.json",
+      "size_bytes": 424,
+      "source_sha256": "3e43642dc80db368da16c62e6969ff97ebc99c671c6aa9de2879dc91aec6a852",
+      "destination": "hiakari-inori/history/v4/export_cubism/inori_v4.moc3.report.json",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v4/export_cubism/inori_v4.model3.json",
+      "size_bytes": 741,
+      "source_sha256": "10f40037b28cf70962c981f0cc1c519b73b8062736009cac41e358792bafbead",
+      "destination": "hiakari-inori/history/v4/export_cubism/inori_v4.model3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v4/export_cubism/inori_v4.nod.motion3.json",
+      "size_bytes": 1751,
+      "source_sha256": "bfd9a247d5ec8479145c2dddfd5fdbf03e1c46df8d7460f07badd146c1e19418",
+      "destination": "hiakari-inori/history/v4/export_cubism/inori_v4.nod.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v4/export_cubism/inori_v4.physics3.json",
+      "size_bytes": 11817,
+      "source_sha256": "1dbb49432a24aa62c2f3ac284a7650d04b70632bee68fdcf3d096e6490fd0926",
+      "destination": "hiakari-inori/history/v4/export_cubism/inori_v4.physics3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v4/export_cubism/inori_v4.shake.motion3.json",
+      "size_bytes": 1573,
+      "source_sha256": "81f50690b925cab5487c64cd1fc9781485a141f758a1f7085d36f0596bbfe54b",
+      "destination": "hiakari-inori/history/v4/export_cubism/inori_v4.shake.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v4/export_vtube_studio/inori_v4.4096/texture_00.png",
+      "size_bytes": 11185796,
+      "source_sha256": "ee321aeff45cd6c29a15be3ca646b6ceeb6759174c31c3213de3dfe4f5e5fdf2",
+      "destination": "hiakari-inori/history/v4/export_vtube_studio/inori_v4.4096/texture_00.png",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v4/export_vtube_studio/inori_v4.blink.motion3.json",
+      "size_bytes": 1155,
+      "source_sha256": "399f91b7bfac0666f589ab7c6daace5e33e5c6d6e7c6e7ca4024b6db48a65110",
+      "destination": "hiakari-inori/history/v4/export_vtube_studio/inori_v4.blink.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v4/export_vtube_studio/inori_v4.cdi3.json",
+      "size_bytes": 5978,
+      "source_sha256": "a7944112bf314417af9034f3495769439e72fe5660df2126dff3c51cb8777335",
+      "destination": "hiakari-inori/history/v4/export_vtube_studio/inori_v4.cdi3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v4/export_vtube_studio/inori_v4.idle.motion3.json",
+      "size_bytes": 15999,
+      "source_sha256": "14674d50d8765df706ac253975629f7cffe97a2442248a41af59f68d9cd3f2dc",
+      "destination": "hiakari-inori/history/v4/export_vtube_studio/inori_v4.idle.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v4/export_vtube_studio/inori_v4.moc3",
+      "size_bytes": 501632,
+      "source_sha256": "602fc04a3550b3bbee955774709d0e5e21fd5886898f44559bfa505137200abc",
+      "destination": "hiakari-inori/history/v4/export_vtube_studio/inori_v4.moc3",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v4/export_vtube_studio/inori_v4.model3.json",
+      "size_bytes": 741,
+      "source_sha256": "10f40037b28cf70962c981f0cc1c519b73b8062736009cac41e358792bafbead",
+      "destination": "hiakari-inori/history/v4/export_vtube_studio/inori_v4.model3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v4/export_vtube_studio/inori_v4.nod.motion3.json",
+      "size_bytes": 1751,
+      "source_sha256": "bfd9a247d5ec8479145c2dddfd5fdbf03e1c46df8d7460f07badd146c1e19418",
+      "destination": "hiakari-inori/history/v4/export_vtube_studio/inori_v4.nod.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v4/export_vtube_studio/inori_v4.physics3.json",
+      "size_bytes": 11817,
+      "source_sha256": "1dbb49432a24aa62c2f3ac284a7650d04b70632bee68fdcf3d096e6490fd0926",
+      "destination": "hiakari-inori/history/v4/export_vtube_studio/inori_v4.physics3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v4/export_vtube_studio/inori_v4.shake.motion3.json",
+      "size_bytes": 1573,
+      "source_sha256": "81f50690b925cab5487c64cd1fc9781485a141f758a1f7085d36f0596bbfe54b",
+      "destination": "hiakari-inori/history/v4/export_vtube_studio/inori_v4.shake.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v4/export_vtube_studio/inori_v4.vtube-studio.report.json",
+      "size_bytes": 586,
+      "source_sha256": "56129c3cd3556410e5d9c7c3aad71f3406be5c8fdd3851f385f02856c2fb05d4",
+      "destination": "hiakari-inori/history/v4/export_vtube_studio/inori_v4.vtube-studio.report.json",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v4/export_vtube_studio/inori_v4.vtube.json",
+      "size_bytes": 10276,
+      "source_sha256": "d56b3577e96afe629dcc3ed9e7cdbf7a27cffb6c6a727624fa90f7c4e707cf7f",
+      "destination": "hiakari-inori/history/v4/export_vtube_studio/inori_v4.vtube.json",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v4/hiakari_inori_v4.psd2live",
+      "size_bytes": 53147310,
+      "source_sha256": "db47b9fec6a9621cab7e7322ed5ad8a5286df8219eb8b8fd28d8fed1e0c1ef65",
+      "destination": "hiakari-inori/history/v4/hiakari_inori_v4.psd2live",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v4/inori_v4.psd",
+      "size_bytes": 38291674,
+      "source_sha256": "abf02648c04255db24237d7629f4e4a3b81c8f0a1dba9703dcd2e9649cd9724b",
+      "destination": "hiakari-inori/history/v4/inori_v4.psd",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v4/Live2D_PSD2Live_完整流程手册.md",
+      "size_bytes": 73473,
+      "source_sha256": "225d870929b1308488389ade21ad0d0f850500188c790eea83b343df813a68ae",
+      "destination": "cases/hiakari-inori/workflow/guide.md",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Hiakari_Inori_v4/master_v4.png",
+      "size_bytes": 2201367,
+      "source_sha256": "599eb1d6273ce10fdb90167152e5f3bfb03b5d8a25ae3088f8e6bb696e9849d8",
+      "destination": "hiakari-inori/history/v4/master_v4.png",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v4/preview/inori_v4.webm",
+      "size_bytes": 7577080,
+      "source_sha256": "bcfdabe676656d78aac21d73710025b3af17152136007d6945f560bfce549fac",
+      "destination": "hiakari-inori/history/v4/preview/inori_v4.webm",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v4/preview/inori_v4.webm.report.json",
+      "size_bytes": 204,
+      "source_sha256": "a86c28c08ae9311d949fc240a0cfef3006c2dc7f5ca0c51ae0047cacd854beee",
+      "destination": "hiakari-inori/history/v4/preview/inori_v4.webm.report.json",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v4/README.md",
+      "size_bytes": 3202,
+      "source_sha256": "55361aa6b66a8becb0a3946cfce28328114d0dbeb9a20189a4a15bee79168b1b",
+      "destination": "cases/hiakari-inori/workflow/history/v4/README.md",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Hiakari_Inori_v4/renders/01_full_0.png",
+      "size_bytes": 1909909,
+      "source_sha256": "045576f07a9101262f50f46e2eaac70a63773efacf9474cd961984470ee4a581",
+      "destination": "hiakari-inori/history/v4/renders/01_full_0.png",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v4/renders/02_pose_sway_0.png",
+      "size_bytes": 1917277,
+      "source_sha256": "4122866dd4cc968bdb5a3a5e7dcc4fcb4cc1d610a4f9b4bcf7331093f3f5d16e",
+      "destination": "hiakari-inori/history/v4/renders/02_pose_sway_0.png",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v4/renders/03_legs_0.png",
+      "size_bytes": 1133590,
+      "source_sha256": "0f65bb44561c0bf4868ba40fe99928a83bcb2e57cde71c3596be3f343729f8c3",
+      "destination": "hiakari-inori/history/v4/renders/03_legs_0.png",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v4/renders/04_legs_sway_p_0.png",
+      "size_bytes": 1124935,
+      "source_sha256": "cf472e0d461d3e3bb059c23374b3cbd1f15f272146a1bf6b58a11e51502419a8",
+      "destination": "hiakari-inori/history/v4/renders/04_legs_sway_p_0.png",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v4/renders/05_legs_sway_n_0.png",
+      "size_bytes": 1145561,
+      "source_sha256": "44068e17b55a35d012a93aadfaaa277041897b61ca5af5e9956f896495ca614a",
+      "destination": "hiakari-inori/history/v4/renders/05_legs_sway_n_0.png",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v4/体验与建模笔记.md",
+      "size_bytes": 6643,
+      "source_sha256": "f9fecf4a0b585bb501cc04935b2c29d260ab4735e8372b0ecb98671b3ac9d85f",
+      "destination": "cases/hiakari-inori/workflow/history/v4/experience.md",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Hiakari_Inori_v5/export_cubism/inori_v5.4096/texture_00.png",
+      "size_bytes": 11514843,
+      "source_sha256": "984dd467624b8250317bc95be74ac549d51c711cb8ede4861ea0c117b0e653dc",
+      "destination": "hiakari-inori/history/v5/export_cubism/inori_v5.4096/texture_00.png",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v5/export_cubism/inori_v5.blink.motion3.json",
+      "size_bytes": 1155,
+      "source_sha256": "399f91b7bfac0666f589ab7c6daace5e33e5c6d6e7c6e7ca4024b6db48a65110",
+      "destination": "hiakari-inori/history/v5/export_cubism/inori_v5.blink.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v5/export_cubism/inori_v5.cdi3.json",
+      "size_bytes": 5852,
+      "source_sha256": "f2bb61fb1eccef320716711cee6bdd9a04f9c830de51722860f0c571a8cfe9c4",
+      "destination": "hiakari-inori/history/v5/export_cubism/inori_v5.cdi3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v5/export_cubism/inori_v5.idle.motion3.json",
+      "size_bytes": 15999,
+      "source_sha256": "14674d50d8765df706ac253975629f7cffe97a2442248a41af59f68d9cd3f2dc",
+      "destination": "hiakari-inori/history/v5/export_cubism/inori_v5.idle.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v5/export_cubism/inori_v5.moc3",
+      "size_bytes": 491904,
+      "source_sha256": "0429269d74b1c26730d7a66ba5fd250df555bd432e46462f46ddf9823d5f0f50",
+      "destination": "hiakari-inori/history/v5/export_cubism/inori_v5.moc3",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v5/export_cubism/inori_v5.moc3.report.json",
+      "size_bytes": 424,
+      "source_sha256": "eceab1ea747c7516f8f4d95686cf14ade4a5280229e7320f54ef79d81676d724",
+      "destination": "hiakari-inori/history/v5/export_cubism/inori_v5.moc3.report.json",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v5/export_cubism/inori_v5.model3.json",
+      "size_bytes": 741,
+      "source_sha256": "1971555167535ec90b7fb51e7666cbee5427d50d4f2cf4513aaba32b95b34c23",
+      "destination": "hiakari-inori/history/v5/export_cubism/inori_v5.model3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v5/export_cubism/inori_v5.nod.motion3.json",
+      "size_bytes": 1751,
+      "source_sha256": "bfd9a247d5ec8479145c2dddfd5fdbf03e1c46df8d7460f07badd146c1e19418",
+      "destination": "hiakari-inori/history/v5/export_cubism/inori_v5.nod.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v5/export_cubism/inori_v5.physics3.json",
+      "size_bytes": 11817,
+      "source_sha256": "1dbb49432a24aa62c2f3ac284a7650d04b70632bee68fdcf3d096e6490fd0926",
+      "destination": "hiakari-inori/history/v5/export_cubism/inori_v5.physics3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v5/export_cubism/inori_v5.shake.motion3.json",
+      "size_bytes": 1573,
+      "source_sha256": "81f50690b925cab5487c64cd1fc9781485a141f758a1f7085d36f0596bbfe54b",
+      "destination": "hiakari-inori/history/v5/export_cubism/inori_v5.shake.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v5/export_vtube_studio/inori_v5.4096/texture_00.png",
+      "size_bytes": 11514843,
+      "source_sha256": "984dd467624b8250317bc95be74ac549d51c711cb8ede4861ea0c117b0e653dc",
+      "destination": "hiakari-inori/history/v5/export_vtube_studio/inori_v5.4096/texture_00.png",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v5/export_vtube_studio/inori_v5.blink.motion3.json",
+      "size_bytes": 1155,
+      "source_sha256": "399f91b7bfac0666f589ab7c6daace5e33e5c6d6e7c6e7ca4024b6db48a65110",
+      "destination": "hiakari-inori/history/v5/export_vtube_studio/inori_v5.blink.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v5/export_vtube_studio/inori_v5.cdi3.json",
+      "size_bytes": 5852,
+      "source_sha256": "f2bb61fb1eccef320716711cee6bdd9a04f9c830de51722860f0c571a8cfe9c4",
+      "destination": "hiakari-inori/history/v5/export_vtube_studio/inori_v5.cdi3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v5/export_vtube_studio/inori_v5.idle.motion3.json",
+      "size_bytes": 15999,
+      "source_sha256": "14674d50d8765df706ac253975629f7cffe97a2442248a41af59f68d9cd3f2dc",
+      "destination": "hiakari-inori/history/v5/export_vtube_studio/inori_v5.idle.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v5/export_vtube_studio/inori_v5.moc3",
+      "size_bytes": 491904,
+      "source_sha256": "0429269d74b1c26730d7a66ba5fd250df555bd432e46462f46ddf9823d5f0f50",
+      "destination": "hiakari-inori/history/v5/export_vtube_studio/inori_v5.moc3",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v5/export_vtube_studio/inori_v5.model3.json",
+      "size_bytes": 741,
+      "source_sha256": "1971555167535ec90b7fb51e7666cbee5427d50d4f2cf4513aaba32b95b34c23",
+      "destination": "hiakari-inori/history/v5/export_vtube_studio/inori_v5.model3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v5/export_vtube_studio/inori_v5.nod.motion3.json",
+      "size_bytes": 1751,
+      "source_sha256": "bfd9a247d5ec8479145c2dddfd5fdbf03e1c46df8d7460f07badd146c1e19418",
+      "destination": "hiakari-inori/history/v5/export_vtube_studio/inori_v5.nod.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v5/export_vtube_studio/inori_v5.physics3.json",
+      "size_bytes": 11817,
+      "source_sha256": "1dbb49432a24aa62c2f3ac284a7650d04b70632bee68fdcf3d096e6490fd0926",
+      "destination": "hiakari-inori/history/v5/export_vtube_studio/inori_v5.physics3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v5/export_vtube_studio/inori_v5.shake.motion3.json",
+      "size_bytes": 1573,
+      "source_sha256": "81f50690b925cab5487c64cd1fc9781485a141f758a1f7085d36f0596bbfe54b",
+      "destination": "hiakari-inori/history/v5/export_vtube_studio/inori_v5.shake.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v5/export_vtube_studio/inori_v5.vtube-studio.report.json",
+      "size_bytes": 586,
+      "source_sha256": "5fd56f7545b8da5ce99d83286f2bedbb3a7c5f139e707937c9093e2da2b891de",
+      "destination": "hiakari-inori/history/v5/export_vtube_studio/inori_v5.vtube-studio.report.json",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v5/export_vtube_studio/inori_v5.vtube.json",
+      "size_bytes": 10276,
+      "source_sha256": "142e0f176b49cead6397552260c16382304cf645febb8b15891f27e39ed67c8c",
+      "destination": "hiakari-inori/history/v5/export_vtube_studio/inori_v5.vtube.json",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v5/hiakari_inori_layers_v5.psd",
+      "size_bytes": 38670498,
+      "source_sha256": "0a8d9057a4dd1268b251c96d3f2c2d6d7b42a9f321edba24c09fb6a37d3f2fd1",
+      "destination": "hiakari-inori/history/v5/hiakari_inori_layers_v5.psd",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v5/hiakari_inori_v5.psd2live",
+      "size_bytes": 65254879,
+      "source_sha256": "74e55d95fee0fbbbdca386889f17d49e415639293249b6e0fb41b79db09ec6c4",
+      "destination": "hiakari-inori/history/v5/hiakari_inori_v5.psd2live",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v5/inori_v5.webm",
+      "size_bytes": 7506622,
+      "source_sha256": "65e55356f87778565a165db85e7603c4d0ce6d7b04bd6d25bf6f094cc6a5acd5",
+      "destination": "hiakari-inori/history/v5/inori_v5.webm",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v5/renders/00_leg_layers_contact_sheet.png",
+      "size_bytes": 718972,
+      "source_sha256": "cbacfdc91bca83885818d355bb14f3eb0d53a5541b6a533c4f0c2f0da15eded8",
+      "destination": "hiakari-inori/history/v5/renders/00_leg_layers_contact_sheet.png",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v5/renders/01_fullbody_transparent.png",
+      "size_bytes": 1405296,
+      "source_sha256": "c177c6396f45563c94aea17f87e67f1c5aa9f45d6326c16879a84ce372f178d7",
+      "destination": "hiakari-inori/history/v5/renders/01_fullbody_transparent.png",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v5/renders/01_fullbody_white.png",
+      "size_bytes": 1218250,
+      "source_sha256": "37afce34cf4c41f9b27c8a0dfd30434ebee0eec08dc1ff5c23a297a8a8a90cfa",
+      "destination": "hiakari-inori/history/v5/renders/01_fullbody_white.png",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v5/renders/02_bodyX10_tailswing_transparent.png",
+      "size_bytes": 1417714,
+      "source_sha256": "a894ee4663de1b8c93f1b9f04c3965e2fe679786c3cba780a8df7004ce21d01a",
+      "destination": "hiakari-inori/history/v5/renders/02_bodyX10_tailswing_transparent.png",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v5/renders/02_bodyX10_tailswing_white.png",
+      "size_bytes": 1228724,
+      "source_sha256": "6d42a19f7b994b19d5894b85b8a7098c4d3058da962f2273c147226177534a44",
+      "destination": "hiakari-inori/history/v5/renders/02_bodyX10_tailswing_white.png",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v5/renders/03_legs_transparent.png",
+      "size_bytes": 869205,
+      "source_sha256": "c8362afac5caeda8a1c71a5cb4fd64469e3e671c219998abdd9dc6757501984e",
+      "destination": "hiakari-inori/history/v5/renders/03_legs_transparent.png",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v5/renders/03_legs_white.png",
+      "size_bytes": 745234,
+      "source_sha256": "797895d0ab9ba3db33f93dfd577e693adf457a9baf0af757e1b052b8d6677f8d",
+      "destination": "hiakari-inori/history/v5/renders/03_legs_white.png",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v5/renders/04_legsway_+1_bodyX+10_transparent.png",
+      "size_bytes": 850345,
+      "source_sha256": "797d46db91a9931d7612fd250bd99e3ae206b489ea38799c449505ab1ab467a1",
+      "destination": "hiakari-inori/history/v5/renders/04_legsway_+1_bodyX+10_transparent.png",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v5/renders/04_legsway_+1_bodyX+10_white.png",
+      "size_bytes": 728340,
+      "source_sha256": "af17c6ed8b0d6b7783f1a56a9f56ebbd0dd8d4bff12231c3c67d4afc5853d292",
+      "destination": "hiakari-inori/history/v5/renders/04_legsway_+1_bodyX+10_white.png",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v5/renders/05_legsway_-1_bodyX-10_transparent.png",
+      "size_bytes": 860670,
+      "source_sha256": "6c81db6357353e5e4e48060be1ca61a605f59ed72486bdbbb4828ae1b27e76bc",
+      "destination": "hiakari-inori/history/v5/renders/05_legsway_-1_bodyX-10_transparent.png",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v5/renders/05_legsway_-1_bodyX-10_white.png",
+      "size_bytes": 738468,
+      "source_sha256": "2d1399a60efd60d12d7825af62b48c5f04890d6e15bfd34a879dca594f82db59",
+      "destination": "hiakari-inori/history/v5/renders/05_legsway_-1_bodyX-10_white.png",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v5/renders/06_noskirt_comp_full_white.png",
+      "size_bytes": 4056312,
+      "source_sha256": "4414d8ee88f5fd34a3a8c69f365ef07fc7f5113d1c98f4f515b4281c74050cff",
+      "destination": "hiakari-inori/history/v5/renders/06_noskirt_comp_full_white.png",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v5/renders/07_noskirt_legs_white.png",
+      "size_bytes": 1161943,
+      "source_sha256": "ad61b3ce9a74304ed98c15329afee50cabd76ae68f1d0b0682fdc8a2bdc327ae",
+      "destination": "hiakari-inori/history/v5/renders/07_noskirt_legs_white.png",
+      "kind": "release"
+    },
+    {
+      "source": "Hiakari_Inori_v5/renders/08_master_vs_v5_vs_noskirt.png",
+      "size_bytes": 2783306,
+      "source_sha256": "14b619e4be5dbfacc45f74b3ea84bc4816949bb67d8d10bc27d14c1c2aa29a6a",
+      "destination": "hiakari-inori/history/v5/renders/08_master_vs_v5_vs_noskirt.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_archive/conversation/record-1",
+      "size_bytes": 133873,
+      "source_sha256": "cdf49d06862174319bb39cda73a6c46c776173c61fcf7f1349bd54f5d5a8b5ff",
+      "destination": "cases/hiakari-inori/workflow/chronology.md",
+      "kind": "summarized-private-record"
+    },
+    {
+      "source": "Live2D_archive/conversation/record-2",
+      "size_bytes": 17231,
+      "source_sha256": "82cfd5989d059a6e5cd04e81182cd82254fbf0022e38c12854e2185f6e469c90",
+      "destination": "cases/hiakari-inori/workflow/chronology.md",
+      "kind": "summarized-private-record"
+    },
+    {
+      "source": "Live2D_archive/conversation/record-3",
+      "size_bytes": 401,
+      "source_sha256": "aaf22ce5726f5fdd7f197db5c94e02e9fa4e2eefd560fbd9b97f2b9a3403e3a5",
+      "destination": "cases/hiakari-inori/workflow/chronology.md",
+      "kind": "summarized-private-record"
+    },
+    {
+      "source": "Live2D_archive/docs/char.md",
+      "size_bytes": 1312,
+      "source_sha256": "9f8a0bb15fa99090293f0fc04af2896deab4c33b4cb88dd1ea4abae4b382b2d6",
+      "destination": "cases/hiakari-inori/workflow/history/docs/char.md",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/docs/deliver_inori/Live2D_PSD2Live_完整流程手册.md",
+      "size_bytes": 73473,
+      "source_sha256": "225d870929b1308488389ade21ad0d0f850500188c790eea83b343df813a68ae",
+      "destination": "cases/hiakari-inori/workflow/guide.md",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/docs/deliver_inori/README.md",
+      "size_bytes": 3202,
+      "source_sha256": "55361aa6b66a8becb0a3946cfce28328114d0dbeb9a20189a4a15bee79168b1b",
+      "destination": "cases/hiakari-inori/workflow/history/v4/README.md",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/docs/deliver_inori/source_art/char.md",
+      "size_bytes": 1312,
+      "source_sha256": "9f8a0bb15fa99090293f0fc04af2896deab4c33b4cb88dd1ea4abae4b382b2d6",
+      "destination": "cases/hiakari-inori/workflow/history/docs/char.md",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/docs/deliver_inori/体验与建模笔记.md",
+      "size_bytes": 6643,
+      "source_sha256": "f9fecf4a0b585bb501cc04935b2c29d260ab4735e8372b0ecb98671b3ac9d85f",
+      "destination": "cases/hiakari-inori/workflow/history/v4/experience.md",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/docs/deliver_inori_v3/README.md",
+      "size_bytes": 2401,
+      "source_sha256": "a288c86b303420c1ca0f8e463f01426e787d0dd099d2f4a03f0f300e189d4c15",
+      "destination": "cases/hiakari-inori/workflow/history/docs/deliver_inori_v3/README.md",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/docs/deliver_inori_v3/source_art/char.md",
+      "size_bytes": 1312,
+      "source_sha256": "9f8a0bb15fa99090293f0fc04af2896deab4c33b4cb88dd1ea4abae4b382b2d6",
+      "destination": "cases/hiakari-inori/workflow/history/docs/char.md",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/docs/deliver_inori_v3/体验与建模笔记.md",
+      "size_bytes": 6290,
+      "source_sha256": "85558b293a7e9a99457611a8071958e8acee1048ee6bc5d8e3370ec4dad42b21",
+      "destination": "cases/hiakari-inori/workflow/history/docs/deliver_inori_v3/体验与建模笔记.md",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/docs/Live2D_PSD2Live_完整流程手册.md",
+      "size_bytes": 73473,
+      "source_sha256": "225d870929b1308488389ade21ad0d0f850500188c790eea83b343df813a68ae",
+      "destination": "cases/hiakari-inori/workflow/guide.md",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/docs/notes/experience_notes_draft.md",
+      "size_bytes": 965,
+      "source_sha256": "0443b23b21e4065aed23b546aecf5467cf5c9a2aec60cd4503841ee7aa2ea71b",
+      "destination": "cases/hiakari-inori/workflow/history/docs/notes/experience_notes_draft.md",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/docs/notes/install_log.md",
+      "size_bytes": 7266,
+      "source_sha256": "c6861c0a6d2677714a104a63e05d1e8e26dc43119af574ba7de95c6df15c0bef",
+      "destination": "cases/hiakari-inori/workflow/history/docs/notes/install_log.md",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/docs/notes/live2d_research.md",
+      "size_bytes": 44451,
+      "source_sha256": "7756d28caae7d052cc72c5139bbd5887efe16a112616641d39d68aca6d87420a",
+      "destination": "cases/hiakari-inori/workflow/history/docs/notes/live2d_research.md",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/docs/notes/psd2live_requirements.md",
+      "size_bytes": 17930,
+      "source_sha256": "851f0d53ed3844a921a66709184d841ee8094cee977f03009f2af3bfc522f3a8",
+      "destination": "cases/hiakari-inori/workflow/history/docs/notes/psd2live_requirements.md",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/index.md",
+      "size_bytes": 736,
+      "source_sha256": "e9e1de719f9ce1f9a8d9eda8433f5ba7f4059bb02db6ee0d382b8364acb9e46e",
+      "destination": "cases/hiakari-inori/workflow/history/index.md",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/memory/memory.md",
+      "size_bytes": 1392,
+      "source_sha256": "94d845e46bdee0166735c9aa6bb5e96f19b3d82887ab222ebc3500490b38d9cd",
+      "destination": "cases/hiakari-inori/workflow/chronology.md",
+      "kind": "summarized-private-record"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs/boot_L/prompt.txt",
+      "size_bytes": 1009,
+      "source_sha256": "c532a81357fc132726bd0bfcb74fdc7c0049bb3d4ac0f60d6a21de4c11155948",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs/boot_L/prompt.txt",
+      "kind": "text"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs/foot_L/prompt.txt",
+      "size_bytes": 1022,
+      "source_sha256": "2fc2b8928b589fffacfe857227a9a23118cd4b3cb776f30614b8472bda64c7b5",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs/foot_L/prompt.txt",
+      "kind": "text"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs/foot_R/prompt.txt",
+      "size_bytes": 1022,
+      "source_sha256": "533e77688bafa15adf6c733731044fac493703b215194b0143d01e546e4d2873",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs/foot_R/prompt.txt",
+      "kind": "text"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs/knee_L/prompt.txt",
+      "size_bytes": 1025,
+      "source_sha256": "e338e25ef7f8f9e1679ba24a726b7c9e3d39ed5e1eecf3f3b45c6f41691094ab",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs/knee_L/prompt.txt",
+      "kind": "text"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs/thigh_L/prompt.txt",
+      "size_bytes": 1081,
+      "source_sha256": "2053aa21611ced9955d430bbbeb5b2752e293d0db445c75eaf48a2ee4970a140",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs/thigh_L/prompt.txt",
+      "kind": "text"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs/thigh_R/prompt.txt",
+      "size_bytes": 1086,
+      "source_sha256": "2dfa4cf66752fa02cdec023b6a4a56cee709d302583968469251e3a1373c531e",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs/thigh_R/prompt.txt",
+      "kind": "text"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/knee/prompt.txt",
+      "size_bytes": 657,
+      "source_sha256": "83d2c3a9dcc5cec913b6b2a07aa0d8a4989ff63011bebdd69527f5055f70c4c1",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/knee/prompt.txt",
+      "kind": "text"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/knee2/prompt.txt",
+      "size_bytes": 975,
+      "source_sha256": "f582979874013fa2b9d7e6f664e11b4dd39681fddee61194b28f042e9db5feff",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/knee2/prompt.txt",
+      "kind": "text"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/knee2_g1/prompt.txt",
+      "size_bytes": 975,
+      "source_sha256": "f582979874013fa2b9d7e6f664e11b4dd39681fddee61194b28f042e9db5feff",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/knee2/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/knee2_g2/prompt.txt",
+      "size_bytes": 975,
+      "source_sha256": "f582979874013fa2b9d7e6f664e11b4dd39681fddee61194b28f042e9db5feff",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/knee2/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/knee2_g3/prompt.txt",
+      "size_bytes": 975,
+      "source_sha256": "f582979874013fa2b9d7e6f664e11b4dd39681fddee61194b28f042e9db5feff",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/knee2/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/knee3/prompt.txt",
+      "size_bytes": 975,
+      "source_sha256": "f582979874013fa2b9d7e6f664e11b4dd39681fddee61194b28f042e9db5feff",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/knee2/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/knee3_g1/prompt.txt",
+      "size_bytes": 975,
+      "source_sha256": "f582979874013fa2b9d7e6f664e11b4dd39681fddee61194b28f042e9db5feff",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/knee2/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/knee3_g2/prompt.txt",
+      "size_bytes": 975,
+      "source_sha256": "f582979874013fa2b9d7e6f664e11b4dd39681fddee61194b28f042e9db5feff",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/knee2/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/knee3_g3/prompt.txt",
+      "size_bytes": 975,
+      "source_sha256": "f582979874013fa2b9d7e6f664e11b4dd39681fddee61194b28f042e9db5feff",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/knee2/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/knee4/prompt.txt",
+      "size_bytes": 850,
+      "source_sha256": "835b9297ca916a622757c0e628e7e648f1c86c215f2c73e4d5b14bcb289ca18a",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/knee4/prompt.txt",
+      "kind": "text"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/knee4_g1/prompt.txt",
+      "size_bytes": 850,
+      "source_sha256": "835b9297ca916a622757c0e628e7e648f1c86c215f2c73e4d5b14bcb289ca18a",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/knee4/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/knee4_g2/prompt.txt",
+      "size_bytes": 850,
+      "source_sha256": "835b9297ca916a622757c0e628e7e648f1c86c215f2c73e4d5b14bcb289ca18a",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/knee4/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/knee4_g3/prompt.txt",
+      "size_bytes": 850,
+      "source_sha256": "835b9297ca916a622757c0e628e7e648f1c86c215f2c73e4d5b14bcb289ca18a",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/knee4/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/knee_c1/prompt.txt",
+      "size_bytes": 657,
+      "source_sha256": "83d2c3a9dcc5cec913b6b2a07aa0d8a4989ff63011bebdd69527f5055f70c4c1",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/knee/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/knee_c2/prompt.txt",
+      "size_bytes": 657,
+      "source_sha256": "83d2c3a9dcc5cec913b6b2a07aa0d8a4989ff63011bebdd69527f5055f70c4c1",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/knee/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/knee_g1/prompt.txt",
+      "size_bytes": 657,
+      "source_sha256": "83d2c3a9dcc5cec913b6b2a07aa0d8a4989ff63011bebdd69527f5055f70c4c1",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/knee/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/knee_g2/prompt.txt",
+      "size_bytes": 975,
+      "source_sha256": "f582979874013fa2b9d7e6f664e11b4dd39681fddee61194b28f042e9db5feff",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/knee2/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/knee_g3/prompt.txt",
+      "size_bytes": 975,
+      "source_sha256": "f582979874013fa2b9d7e6f664e11b4dd39681fddee61194b28f042e9db5feff",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/knee2/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/knee_g4/prompt.txt",
+      "size_bytes": 975,
+      "source_sha256": "f582979874013fa2b9d7e6f664e11b4dd39681fddee61194b28f042e9db5feff",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/knee2/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh4_L/prompt.txt",
+      "size_bytes": 1223,
+      "source_sha256": "9c1372e72f838223cc403219e00fbd4a4aaa5282731b2400e09d1b81e754a013",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh4_L/prompt.txt",
+      "kind": "text"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh4_L_g1/prompt.txt",
+      "size_bytes": 1223,
+      "source_sha256": "9c1372e72f838223cc403219e00fbd4a4aaa5282731b2400e09d1b81e754a013",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh4_L/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh4_L_g2/prompt.txt",
+      "size_bytes": 1223,
+      "source_sha256": "9c1372e72f838223cc403219e00fbd4a4aaa5282731b2400e09d1b81e754a013",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh4_L/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh4_L_g3/prompt.txt",
+      "size_bytes": 1223,
+      "source_sha256": "9c1372e72f838223cc403219e00fbd4a4aaa5282731b2400e09d1b81e754a013",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh4_L/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh4_L_g4/prompt.txt",
+      "size_bytes": 1223,
+      "source_sha256": "9c1372e72f838223cc403219e00fbd4a4aaa5282731b2400e09d1b81e754a013",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh4_L/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh4_R/prompt.txt",
+      "size_bytes": 1223,
+      "source_sha256": "15d8f1a344bdf703d7be5b64388cfce7980595c9c0c7ef7af3a5e95329311cfc",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh4_R/prompt.txt",
+      "kind": "text"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh4_R_g1/prompt.txt",
+      "size_bytes": 1223,
+      "source_sha256": "15d8f1a344bdf703d7be5b64388cfce7980595c9c0c7ef7af3a5e95329311cfc",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh4_R/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh4_R_g2/prompt.txt",
+      "size_bytes": 1223,
+      "source_sha256": "15d8f1a344bdf703d7be5b64388cfce7980595c9c0c7ef7af3a5e95329311cfc",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh4_R/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh4_R_g3/prompt.txt",
+      "size_bytes": 1223,
+      "source_sha256": "15d8f1a344bdf703d7be5b64388cfce7980595c9c0c7ef7af3a5e95329311cfc",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh4_R/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh4_R_g4/prompt.txt",
+      "size_bytes": 1223,
+      "source_sha256": "15d8f1a344bdf703d7be5b64388cfce7980595c9c0c7ef7af3a5e95329311cfc",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh4_R/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh5_L/prompt.txt",
+      "size_bytes": 813,
+      "source_sha256": "70b164bfe6498debf299538597dc4bb90dc34f3e2c6760ab43954ff6131150fb",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh5_L/prompt.txt",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh5_L_g1/prompt.txt",
+      "size_bytes": 813,
+      "source_sha256": "70b164bfe6498debf299538597dc4bb90dc34f3e2c6760ab43954ff6131150fb",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh5_L/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh5_L_g2/prompt.txt",
+      "size_bytes": 813,
+      "source_sha256": "70b164bfe6498debf299538597dc4bb90dc34f3e2c6760ab43954ff6131150fb",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh5_L/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh5_L_g3/prompt.txt",
+      "size_bytes": 813,
+      "source_sha256": "70b164bfe6498debf299538597dc4bb90dc34f3e2c6760ab43954ff6131150fb",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh5_L/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh5_R/prompt.txt",
+      "size_bytes": 813,
+      "source_sha256": "70b164bfe6498debf299538597dc4bb90dc34f3e2c6760ab43954ff6131150fb",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh5_L/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh5_R_g1/prompt.txt",
+      "size_bytes": 813,
+      "source_sha256": "70b164bfe6498debf299538597dc4bb90dc34f3e2c6760ab43954ff6131150fb",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh5_L/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh5_R_g2/prompt.txt",
+      "size_bytes": 813,
+      "source_sha256": "70b164bfe6498debf299538597dc4bb90dc34f3e2c6760ab43954ff6131150fb",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh5_L/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh5_R_g3/prompt.txt",
+      "size_bytes": 813,
+      "source_sha256": "70b164bfe6498debf299538597dc4bb90dc34f3e2c6760ab43954ff6131150fb",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh5_L/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh6_R/prompt.txt",
+      "size_bytes": 1201,
+      "source_sha256": "3e578d2f7550aec2c189fe400416166fb88190781d9b7c930bedb35c7e640e68",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh6_R/prompt.txt",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh6_R_c1/prompt.txt",
+      "size_bytes": 1201,
+      "source_sha256": "3e578d2f7550aec2c189fe400416166fb88190781d9b7c930bedb35c7e640e68",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh6_R/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh6_R_c2/prompt.txt",
+      "size_bytes": 1201,
+      "source_sha256": "3e578d2f7550aec2c189fe400416166fb88190781d9b7c930bedb35c7e640e68",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh6_R/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh6_R_c3/prompt.txt",
+      "size_bytes": 1201,
+      "source_sha256": "3e578d2f7550aec2c189fe400416166fb88190781d9b7c930bedb35c7e640e68",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh6_R/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh6_R_c4/prompt.txt",
+      "size_bytes": 1201,
+      "source_sha256": "3e578d2f7550aec2c189fe400416166fb88190781d9b7c930bedb35c7e640e68",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh6_R/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh6_R_c5/prompt.txt",
+      "size_bytes": 1201,
+      "source_sha256": "3e578d2f7550aec2c189fe400416166fb88190781d9b7c930bedb35c7e640e68",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh6_R/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh6_R_c6/prompt.txt",
+      "size_bytes": 1201,
+      "source_sha256": "3e578d2f7550aec2c189fe400416166fb88190781d9b7c930bedb35c7e640e68",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh6_R/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh6_R_g1/prompt.txt",
+      "size_bytes": 1201,
+      "source_sha256": "3e578d2f7550aec2c189fe400416166fb88190781d9b7c930bedb35c7e640e68",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh6_R/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh6_R_g2/prompt.txt",
+      "size_bytes": 1201,
+      "source_sha256": "3e578d2f7550aec2c189fe400416166fb88190781d9b7c930bedb35c7e640e68",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh6_R/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh6_R_g3/prompt.txt",
+      "size_bytes": 1201,
+      "source_sha256": "3e578d2f7550aec2c189fe400416166fb88190781d9b7c930bedb35c7e640e68",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh6_R/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh6_R_g4/prompt.txt",
+      "size_bytes": 1201,
+      "source_sha256": "3e578d2f7550aec2c189fe400416166fb88190781d9b7c930bedb35c7e640e68",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh6_R/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh_L/prompt.txt",
+      "size_bytes": 1046,
+      "source_sha256": "9736f50858bdcf25b0bce7ea90e499bf923b2caad5d272cfe003915dcdf695de",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh_L/prompt.txt",
+      "kind": "text"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh_L_c1/prompt.txt",
+      "size_bytes": 1046,
+      "source_sha256": "9736f50858bdcf25b0bce7ea90e499bf923b2caad5d272cfe003915dcdf695de",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh_L/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh_L_c2/prompt.txt",
+      "size_bytes": 1046,
+      "source_sha256": "9736f50858bdcf25b0bce7ea90e499bf923b2caad5d272cfe003915dcdf695de",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh_L/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh_L_c3/prompt.txt",
+      "size_bytes": 1046,
+      "source_sha256": "9736f50858bdcf25b0bce7ea90e499bf923b2caad5d272cfe003915dcdf695de",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh_L/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh_L_c4/prompt.txt",
+      "size_bytes": 1046,
+      "source_sha256": "9736f50858bdcf25b0bce7ea90e499bf923b2caad5d272cfe003915dcdf695de",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh_L/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh_L_g1/prompt.txt",
+      "size_bytes": 1046,
+      "source_sha256": "9736f50858bdcf25b0bce7ea90e499bf923b2caad5d272cfe003915dcdf695de",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh_L/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh_L_g2/prompt.txt",
+      "size_bytes": 1046,
+      "source_sha256": "9736f50858bdcf25b0bce7ea90e499bf923b2caad5d272cfe003915dcdf695de",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh_L/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh_L_g3/prompt.txt",
+      "size_bytes": 1046,
+      "source_sha256": "9736f50858bdcf25b0bce7ea90e499bf923b2caad5d272cfe003915dcdf695de",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh_L/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh_L_g4/prompt.txt",
+      "size_bytes": 1363,
+      "source_sha256": "3a74d58acf2a9744489fd05463a88be10b0b0b053350d35cfad4a577c0132588",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh_L_g4/prompt.txt",
+      "kind": "text"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh_L_g5/prompt.txt",
+      "size_bytes": 1046,
+      "source_sha256": "9736f50858bdcf25b0bce7ea90e499bf923b2caad5d272cfe003915dcdf695de",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh_L/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh_L_g6/prompt.txt",
+      "size_bytes": 1046,
+      "source_sha256": "9736f50858bdcf25b0bce7ea90e499bf923b2caad5d272cfe003915dcdf695de",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh_L/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh_L_g7/prompt.txt",
+      "size_bytes": 1046,
+      "source_sha256": "9736f50858bdcf25b0bce7ea90e499bf923b2caad5d272cfe003915dcdf695de",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh_L/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh_L_g8/prompt.txt",
+      "size_bytes": 1046,
+      "source_sha256": "9736f50858bdcf25b0bce7ea90e499bf923b2caad5d272cfe003915dcdf695de",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh_L/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh_L_g9/prompt.txt",
+      "size_bytes": 1046,
+      "source_sha256": "9736f50858bdcf25b0bce7ea90e499bf923b2caad5d272cfe003915dcdf695de",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh_L/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh_R/prompt.txt",
+      "size_bytes": 1046,
+      "source_sha256": "87a4cfb871aa402d8fc12ef57847865f10cacdf0a40133602dacc8757026dca9",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh_R/prompt.txt",
+      "kind": "text"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh_R_c1/prompt.txt",
+      "size_bytes": 1046,
+      "source_sha256": "87a4cfb871aa402d8fc12ef57847865f10cacdf0a40133602dacc8757026dca9",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh_R/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh_R_c2/prompt.txt",
+      "size_bytes": 1046,
+      "source_sha256": "87a4cfb871aa402d8fc12ef57847865f10cacdf0a40133602dacc8757026dca9",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh_R/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh_R_g1/prompt.txt",
+      "size_bytes": 1046,
+      "source_sha256": "87a4cfb871aa402d8fc12ef57847865f10cacdf0a40133602dacc8757026dca9",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh_R/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh_R_g2/prompt.txt",
+      "size_bytes": 1046,
+      "source_sha256": "87a4cfb871aa402d8fc12ef57847865f10cacdf0a40133602dacc8757026dca9",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh_R/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh_R_g4/prompt.txt",
+      "size_bytes": 1363,
+      "source_sha256": "ae1788ad9aa258001d7fdb7acebb48d481b1eae23ccab67e7ba2dd21485bf5dc",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh_R_g4/prompt.txt",
+      "kind": "text"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh_R_g5/prompt.txt",
+      "size_bytes": 1046,
+      "source_sha256": "87a4cfb871aa402d8fc12ef57847865f10cacdf0a40133602dacc8757026dca9",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh_R/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh_R_g6/prompt.txt",
+      "size_bytes": 1046,
+      "source_sha256": "87a4cfb871aa402d8fc12ef57847865f10cacdf0a40133602dacc8757026dca9",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh_R/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/legs/jobs3/thigh_R_g7/prompt.txt",
+      "size_bytes": 1046,
+      "source_sha256": "87a4cfb871aa402d8fc12ef57847865f10cacdf0a40133602dacc8757026dca9",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh_R/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/v4/legs/jobs/L_briefs_c1/prompt.txt",
+      "size_bytes": 1631,
+      "source_sha256": "a478f3270ff88365dac874a90a2c756c7fb046b3b5db844d0eaaa1f8f4655cd8",
+      "destination": "cases/hiakari-inori/prompts/art/inori/v4/legs/jobs/L_briefs_c1/prompt.txt",
+      "kind": "text"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/v4/legs/jobs/L_briefs_c2/prompt.txt",
+      "size_bytes": 1631,
+      "source_sha256": "a478f3270ff88365dac874a90a2c756c7fb046b3b5db844d0eaaa1f8f4655cd8",
+      "destination": "cases/hiakari-inori/prompts/art/inori/v4/legs/jobs/L_briefs_c1/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/v4/legs/jobs/L_briefs_c3/prompt.txt",
+      "size_bytes": 1631,
+      "source_sha256": "a478f3270ff88365dac874a90a2c756c7fb046b3b5db844d0eaaa1f8f4655cd8",
+      "destination": "cases/hiakari-inori/prompts/art/inori/v4/legs/jobs/L_briefs_c1/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/v4/legs/jobs/L_r2_c1/prompt.txt",
+      "size_bytes": 1217,
+      "source_sha256": "083d37f86b9c7ab8a0dd340f443eff9cecc7961668fd0020ce18b7c67292dd8e",
+      "destination": "cases/hiakari-inori/prompts/art/inori/v4/legs/jobs/L_r2_c1/prompt.txt",
+      "kind": "text"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/v4/legs/jobs/L_r2_c2/prompt.txt",
+      "size_bytes": 1217,
+      "source_sha256": "083d37f86b9c7ab8a0dd340f443eff9cecc7961668fd0020ce18b7c67292dd8e",
+      "destination": "cases/hiakari-inori/prompts/art/inori/v4/legs/jobs/L_r2_c1/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/v4/legs/jobs/L_r2_c3/prompt.txt",
+      "size_bytes": 1217,
+      "source_sha256": "083d37f86b9c7ab8a0dd340f443eff9cecc7961668fd0020ce18b7c67292dd8e",
+      "destination": "cases/hiakari-inori/prompts/art/inori/v4/legs/jobs/L_r2_c1/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/v4/legs/jobs/L_shorts_c1/prompt.txt",
+      "size_bytes": 1583,
+      "source_sha256": "6bb3c6750ae7e5dd231d91a356e687ea7d20b65755e64a4cdbdd0e7050588fdc",
+      "destination": "cases/hiakari-inori/prompts/art/inori/v4/legs/jobs/L_shorts_c1/prompt.txt",
+      "kind": "text"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/v4/legs/jobs/L_shorts_c2/prompt.txt",
+      "size_bytes": 1583,
+      "source_sha256": "6bb3c6750ae7e5dd231d91a356e687ea7d20b65755e64a4cdbdd0e7050588fdc",
+      "destination": "cases/hiakari-inori/prompts/art/inori/v4/legs/jobs/L_shorts_c1/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/v4/legs/jobs/L_shorts_c3/prompt.txt",
+      "size_bytes": 1583,
+      "source_sha256": "6bb3c6750ae7e5dd231d91a356e687ea7d20b65755e64a4cdbdd0e7050588fdc",
+      "destination": "cases/hiakari-inori/prompts/art/inori/v4/legs/jobs/L_shorts_c1/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/v4/legs/jobs/R_briefs_c1/prompt.txt",
+      "size_bytes": 1631,
+      "source_sha256": "c1eb5b6a2079e39af2b5e90629f2e94885ccc43a4e64db723124ab1401557662",
+      "destination": "cases/hiakari-inori/prompts/art/inori/v4/legs/jobs/R_briefs_c1/prompt.txt",
+      "kind": "text"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/v4/legs/jobs/R_briefs_c2/prompt.txt",
+      "size_bytes": 1631,
+      "source_sha256": "c1eb5b6a2079e39af2b5e90629f2e94885ccc43a4e64db723124ab1401557662",
+      "destination": "cases/hiakari-inori/prompts/art/inori/v4/legs/jobs/R_briefs_c1/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/v4/legs/jobs/R_briefs_c3/prompt.txt",
+      "size_bytes": 1631,
+      "source_sha256": "c1eb5b6a2079e39af2b5e90629f2e94885ccc43a4e64db723124ab1401557662",
+      "destination": "cases/hiakari-inori/prompts/art/inori/v4/legs/jobs/R_briefs_c1/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/v4/legs/jobs/R_r2_c1/prompt.txt",
+      "size_bytes": 1217,
+      "source_sha256": "61d0a4531ee50089df6583933bda3cd09b12ffcc368c26d163b24d5696bf29cb",
+      "destination": "cases/hiakari-inori/prompts/art/inori/v4/legs/jobs/R_r2_c1/prompt.txt",
+      "kind": "text"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/v4/legs/jobs/R_r2_c2/prompt.txt",
+      "size_bytes": 1217,
+      "source_sha256": "61d0a4531ee50089df6583933bda3cd09b12ffcc368c26d163b24d5696bf29cb",
+      "destination": "cases/hiakari-inori/prompts/art/inori/v4/legs/jobs/R_r2_c1/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/v4/legs/jobs/R_r2_c3/prompt.txt",
+      "size_bytes": 1217,
+      "source_sha256": "61d0a4531ee50089df6583933bda3cd09b12ffcc368c26d163b24d5696bf29cb",
+      "destination": "cases/hiakari-inori/prompts/art/inori/v4/legs/jobs/R_r2_c1/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/v4/legs/jobs/R_shorts_c1/prompt.txt",
+      "size_bytes": 1583,
+      "source_sha256": "be45bf81a36cf5a4d57814a04969796723ececdb328586846d048979bc0b178d",
+      "destination": "cases/hiakari-inori/prompts/art/inori/v4/legs/jobs/R_shorts_c1/prompt.txt",
+      "kind": "text"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/v4/legs/jobs/R_shorts_c2/prompt.txt",
+      "size_bytes": 1583,
+      "source_sha256": "be45bf81a36cf5a4d57814a04969796723ececdb328586846d048979bc0b178d",
+      "destination": "cases/hiakari-inori/prompts/art/inori/v4/legs/jobs/R_shorts_c1/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/art/inori/v4/legs/jobs/R_shorts_c3/prompt.txt",
+      "size_bytes": 1583,
+      "source_sha256": "be45bf81a36cf5a4d57814a04969796723ececdb328586846d048979bc0b178d",
+      "destination": "cases/hiakari-inori/prompts/art/inori/v4/legs/jobs/R_shorts_c1/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_archive/prompts/embedded_prompts.md",
+      "size_bytes": 1415,
+      "source_sha256": "98c405d5f7887fd19d51116fb4e8943ded197c9c52db2dcb4f9d34e06602732b",
+      "destination": "cases/hiakari-inori/prompts/embedded_prompts.md",
+      "kind": "text"
+    },
+    {
+      "source": "Live2D_archive/prompts/logs/cli_ds.log",
+      "size_bytes": 1142,
+      "source_sha256": "0efafa06749f378866b60d8ec25633adce0319d0fe421a8b4f42c7057e8193b4",
+      "destination": "cases/hiakari-inori/workflow/chronology.md",
+      "kind": "summarized-private-record"
+    },
+    {
+      "source": "Live2D_archive/prompts/logs/codex_login.log",
+      "size_bytes": 499,
+      "source_sha256": "7d0d90d1d78cb60027bfe6937780696ad857e6c0de422767d084788bfc69de32",
+      "destination": "cases/hiakari-inori/workflow/chronology.md",
+      "kind": "summarized-private-record"
+    },
+    {
+      "source": "Live2D_archive/prompts/logs/grok_login.log",
+      "size_bytes": 306,
+      "source_sha256": "f72921eae3581abfdb2e5807a23875af8f908f52f8ed2cd45e285d5361d3b1e6",
+      "destination": "cases/hiakari-inori/workflow/chronology.md",
+      "kind": "summarized-private-record"
+    },
+    {
+      "source": "Live2D_archive/prompts/logs/psd2live_gui.log",
+      "size_bytes": 384,
+      "source_sha256": "be783a0f54efa6435b8ef293c9d50dc1c2b827721418e26b57a419c91d409233",
+      "destination": "cases/hiakari-inori/workflow/chronology.md",
+      "kind": "summarized-private-record"
+    },
+    {
+      "source": "Live2D_archive/prompts/logs/psd2live_gui2.log",
+      "size_bytes": 385,
+      "source_sha256": "215e7bc0a134e067d467a3a78b0721a68cdf4d7522b8e6d241127d8d0223e664",
+      "destination": "cases/hiakari-inori/workflow/chronology.md",
+      "kind": "summarized-private-record"
+    },
+    {
+      "source": "Live2D_archive/prompts/logs/psd2live_gui3.log",
+      "size_bytes": 85,
+      "source_sha256": "023524feb7694c3349dfcd21fb3775467b170136c0e0c1c6f658a5ca6b66902c",
+      "destination": "cases/hiakari-inori/workflow/chronology.md",
+      "kind": "summarized-private-record"
+    },
+    {
+      "source": "Live2D_archive/prompts/logs/psd2live_gui4.log",
+      "size_bytes": 3515,
+      "source_sha256": "8cb82a5702f6d7f7d7e02abd17fecb589ace848776fa2b91ce224a0401993a98",
+      "destination": "cases/hiakari-inori/workflow/chronology.md",
+      "kind": "summarized-private-record"
+    },
+    {
+      "source": "Live2D_archive/prompts/run_edits.sh",
+      "size_bytes": 684,
+      "source_sha256": "4c4fb50a53bf6ea2cac998becdcc14ff8da67b9e08e93344b754b59754395738",
+      "destination": "cases/hiakari-inori/prompts/run_edits.sh",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/align.py",
+      "size_bytes": 2843,
+      "source_sha256": "1c6eb87f612e851f3c7ab3890970fe0c5271ca954c2fc71428c43d6fb84c7f60",
+      "destination": "cases/hiakari-inori/workflow/tools/align.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/assemble3.py",
+      "size_bytes": 1825,
+      "source_sha256": "ba899b899cc7df1fd77edde665dd60788c39efb5dd3a2d415f112210fc732ccf",
+      "destination": "cases/hiakari-inori/workflow/tools/assemble3.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/bodycomp.py",
+      "size_bytes": 1111,
+      "source_sha256": "a60a0d0cf716b97b96cb9f534ae67e252a342feecc3640b02b14152fb32bed50",
+      "destination": "cases/hiakari-inori/workflow/tools/bodycomp.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/bodyfit.py",
+      "size_bytes": 1258,
+      "source_sha256": "f3a92a4a350e79ad612a62e51eb2a3db3640090d8a641afdfac44ee857c7a216",
+      "destination": "cases/hiakari-inori/workflow/tools/bodyfit.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/build2x.py",
+      "size_bytes": 1194,
+      "source_sha256": "28b45cd3a1ecb11e78b25a20caca663256657fb87d3c45082accebeab2617850",
+      "destination": "cases/hiakari-inori/workflow/tools/build2x.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/build_psd_full.py",
+      "size_bytes": 1197,
+      "source_sha256": "2153aed1171b71628e2e2b5f9c0ea6e38800031f5688b3270861173246ae16d5",
+      "destination": "cases/hiakari-inori/workflow/tools/build_psd_full.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/compnpz.py",
+      "size_bytes": 737,
+      "source_sha256": "0116325880b930597245d822e44b11a6cfd9a8629c0c44588c94e549d2a03965",
+      "destination": "cases/hiakari-inori/workflow/tools/compnpz.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/compose.py",
+      "size_bytes": 6178,
+      "source_sha256": "a997a8981f580d4a6d702d44d6841e168d4ee4d953891ae7ceb3a14198ff53d6",
+      "destination": "cases/hiakari-inori/workflow/tools/compose.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/compose_full.py",
+      "size_bytes": 3163,
+      "source_sha256": "82ee3250bbb5f73e41754942a0ef4fa384ecfeafe2005ecc84d889c3568e0d9c",
+      "destination": "cases/hiakari-inori/workflow/tools/compose_full.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/ecc.py",
+      "size_bytes": 1754,
+      "source_sha256": "60027dfa03e0cbce6490b7d34c26f9d3d96dae0481516fb4155979c25b4c4cf1",
+      "destination": "cases/hiakari-inori/workflow/tools/ecc.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/ecc_body.py",
+      "size_bytes": 1753,
+      "source_sha256": "f057ad49f3dd3c1b49029fc9cb4a817468b2776331874b2745a54f02885e5010",
+      "destination": "cases/hiakari-inori/workflow/tools/ecc_body.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/fixeyes.py",
+      "size_bytes": 931,
+      "source_sha256": "baacd26a8b935ad5599b6c787badd87db0e41d67dc438cc273738e33cf8eb6c7",
+      "destination": "cases/hiakari-inori/workflow/tools/fixeyes.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/gk_comp.py",
+      "size_bytes": 519,
+      "source_sha256": "efbb1177107a974bb3cfc39751877e7fee93e12f4935514a3891a7b8b2781d54",
+      "destination": "cases/hiakari-inori/workflow/tools/gk_comp.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/gk_score.py",
+      "size_bytes": 672,
+      "source_sha256": "f1044ab6400f2b7a3c2406baab7ba27cfa757758986103993d2d62bea7992194",
+      "destination": "cases/hiakari-inori/workflow/tools/gk_score.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/headbuild3.py",
+      "size_bytes": 2395,
+      "source_sha256": "f63ba98366c964cecee22951657eb80f79b4a0ce7f41c63ccbe1d299bd7adec0",
+      "destination": "cases/hiakari-inori/workflow/tools/headbuild3.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/headcomp.py",
+      "size_bytes": 1186,
+      "source_sha256": "26d2e865147230e633482a1abdc26fe7fe5cbfa23ee1a2e793a02144c0ac047c",
+      "destination": "cases/hiakari-inori/workflow/tools/headcomp.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/headcomp3.py",
+      "size_bytes": 1195,
+      "source_sha256": "e667720643a94398d092ba838455d3e33b97548368117580084c0dee0da583fd",
+      "destination": "cases/hiakari-inori/workflow/tools/headcomp3.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/headfit.py",
+      "size_bytes": 2078,
+      "source_sha256": "1df5399f460564675eb2e8f8288c3bbd9fcab9f24b014d05fcbbce24c8e9cb80",
+      "destination": "cases/hiakari-inori/workflow/tools/headfit.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/headfit3.py",
+      "size_bytes": 3454,
+      "source_sha256": "e406c27c55408f41c12c486451bb9c99c86cee3ecfa90ed23acbafafc75ff70b",
+      "destination": "cases/hiakari-inori/workflow/tools/headfit3.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/hf_edit.py",
+      "size_bytes": 4240,
+      "source_sha256": "fd2da0eec951da888e67b9eacf166194925d3f50e094096bdf6a775b10ebed58",
+      "destination": "cases/hiakari-inori/workflow/tools/hf_edit.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/hsearch.py",
+      "size_bytes": 1332,
+      "source_sha256": "8318676a9d591b24496baed6d75a932dab2b88a6b56990ef42eef0fecf2d5fbe",
+      "destination": "cases/hiakari-inori/workflow/tools/hsearch.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/ino_align.py",
+      "size_bytes": 3429,
+      "source_sha256": "5ac178c8edb49f03c00915acacf847b1509e0d8321c1d5aca7c0ce3dd11e3fac",
+      "destination": "cases/hiakari-inori/workflow/tools/ino_align.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/ino_align2.py",
+      "size_bytes": 4016,
+      "source_sha256": "986ac700c0678f0d01033a144ef2c46d334be59e098bc12302c7b1720a5313fb",
+      "destination": "cases/hiakari-inori/workflow/tools/ino_align2.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/ino_align3.py",
+      "size_bytes": 3618,
+      "source_sha256": "be9a3f972d748864cba583a5c608588920742e20de380207bf601431f85a4b72",
+      "destination": "cases/hiakari-inori/workflow/tools/ino_align3.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/ino_align5.py",
+      "size_bytes": 1345,
+      "source_sha256": "fe23047fafca31edc88be192b01d68b10c8f02cf1f9f1ba6afb91822702aa273",
+      "destination": "cases/hiakari-inori/workflow/tools/ino_align5.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/ino_build.py",
+      "size_bytes": 2682,
+      "source_sha256": "840d8cdb5c888f8688cdd60fb849929643b75d5cab573962fa6bf80973430924",
+      "destination": "cases/hiakari-inori/workflow/tools/ino_build.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/ino_comp.py",
+      "size_bytes": 721,
+      "source_sha256": "93bab893c0c9b8b751db47ec8c0b2b78ee37adb79a02517dcf5d899383db057e",
+      "destination": "cases/hiakari-inori/workflow/tools/ino_comp.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/ino_gen.py",
+      "size_bytes": 7709,
+      "source_sha256": "4a6e739bca7ab2b0546564d6476b29e599033201ef888ab87ba5076b43f0a8a1",
+      "destination": "cases/hiakari-inori/workflow/tools/ino_gen.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/ino_psd.py",
+      "size_bytes": 1571,
+      "source_sha256": "3da8419233e13f836eb946a6f5365117bd817ebd6c54902a4a25dc160725bae9",
+      "destination": "cases/hiakari-inori/workflow/tools/ino_psd.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/ino_psd2.py",
+      "size_bytes": 1793,
+      "source_sha256": "59c6d6a97354d433a56a58e73c0b46a8c02f258d6186ef2604c6a8a98a6d5fca",
+      "destination": "cases/hiakari-inori/workflow/tools/ino_psd2.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/ino_psd3.py",
+      "size_bytes": 1794,
+      "source_sha256": "034ecc16c8b26b0618cce68929f56b3b6fc461dd13f81d46ab56077769b7f086",
+      "destination": "cases/hiakari-inori/workflow/tools/ino_psd3.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/ino_psd4.py",
+      "size_bytes": 1889,
+      "source_sha256": "f4409f7c467a9624ca6177922286cde7d02f8b4482195adc0829dbace2b31524",
+      "destination": "cases/hiakari-inori/workflow/tools/ino_psd4.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/ino_psd4_noskirt.py",
+      "size_bytes": 1933,
+      "source_sha256": "7074703f20287f4aa81d0f4049e3bbe3a14fed0ae77c91af9a5bdcba9ed44869",
+      "destination": "cases/hiakari-inori/workflow/tools/ino_psd4_noskirt.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/ino_sift.py",
+      "size_bytes": 2059,
+      "source_sha256": "56488ac664d7c9d90307ef49573430a0be5e522d8f179d3227cf06f33db8610d",
+      "destination": "cases/hiakari-inori/workflow/tools/ino_sift.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/iou2.py",
+      "size_bytes": 1278,
+      "source_sha256": "742ed46ed643984fe0ce0cf4c3ab292cea625a7bb53bf6b6f5b40abac63e223a",
+      "destination": "cases/hiakari-inori/workflow/tools/iou2.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/key.py",
+      "size_bytes": 1328,
+      "source_sha256": "9edf1e1365852644897e761c3a5189b3e4469d10e481f5d7bf81221d3b8ddef1",
+      "destination": "cases/hiakari-inori/workflow/tools/key.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/leg_assemble.py",
+      "size_bytes": 2560,
+      "source_sha256": "7e0b5ec0002347776c3589974f1ea55d75ebf48b848f6abd01ba5b59f0538c80",
+      "destination": "cases/hiakari-inori/workflow/tools/leg_assemble.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/leg_assemble3.py",
+      "size_bytes": 3338,
+      "source_sha256": "cec4d6fb7a875204d6dc2de1d9b60180084ec0ea12de49d6f5ddc91397928e14",
+      "destination": "cases/hiakari-inori/workflow/tools/leg_assemble3.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/leg_check.py",
+      "size_bytes": 1506,
+      "source_sha256": "c39c8561552c9c7d72854249c4661d86484dec861b954ecaaa8d5161d1e0c39f",
+      "destination": "cases/hiakari-inori/workflow/tools/leg_check.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/leg_check3.py",
+      "size_bytes": 1511,
+      "source_sha256": "72af7f64f155c40a741caf6a17be7d5f196e4a46a35d598c9888dd2ad072f47d",
+      "destination": "cases/hiakari-inori/workflow/tools/leg_check3.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/leg_jobs.py",
+      "size_bytes": 2977,
+      "source_sha256": "b47a251ed8a07ecc075eb739c6605bb78661c202fa9e8fbe0012f504893e26c9",
+      "destination": "cases/hiakari-inori/workflow/tools/leg_jobs.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/leg_knee3.py",
+      "size_bytes": 1734,
+      "source_sha256": "3c85127d3bd86b457a39de229e5ff08d4b12d802e0347d412ee8e2ef70f849a6",
+      "destination": "cases/hiakari-inori/workflow/tools/leg_knee3.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/leg_mask.py",
+      "size_bytes": 996,
+      "source_sha256": "e73d90c72c040957b99a6cded347d27c78f8bdcc16399cada1f6434cbc741546",
+      "destination": "cases/hiakari-inori/workflow/tools/leg_mask.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/leg_split.py",
+      "size_bytes": 3862,
+      "source_sha256": "fe661d0bad32be1c02c50db1895131c2c12e6b8619ffcd4bbc0b22c4879e812d",
+      "destination": "cases/hiakari-inori/workflow/tools/leg_split.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/leg_sr.py",
+      "size_bytes": 424,
+      "source_sha256": "54bfe9162aa5ea887a413de950f2ec98c76776d08024a161fc1329c98575165a",
+      "destination": "cases/hiakari-inori/workflow/tools/leg_sr.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/leg_thigh3.py",
+      "size_bytes": 3016,
+      "source_sha256": "b3b3550bfb84a8f9565f03c026621ebfc2399a6969bcb061efc36cb89dafdd88",
+      "destination": "cases/hiakari-inori/workflow/tools/leg_thigh3.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/m.py",
+      "size_bytes": 421,
+      "source_sha256": "fa4cbdd5ca511ad62bf06afaab6017e95719f1dd1b6e6df5e7ce1bff20a312b8",
+      "destination": "cases/hiakari-inori/workflow/tools/m.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/mkcomp.py",
+      "size_bytes": 1886,
+      "source_sha256": "b6db70eff6b02ca9a458e149dedf8d882d639f2d4684750090598a584e644c86",
+      "destination": "cases/hiakari-inori/workflow/tools/mkcomp.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/mkpsd.py",
+      "size_bytes": 1117,
+      "source_sha256": "7c65d7d8ff67d9c54b0feec53cdafb6658f137a5d48365ae1864ed4299bac838",
+      "destination": "cases/hiakari-inori/workflow/tools/mkpsd.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/mt.py",
+      "size_bytes": 1748,
+      "source_sha256": "89f0738ce3017d4782fba2718113fc33baef01a360464781946a49e506cbde0b",
+      "destination": "cases/hiakari-inori/workflow/tools/mt.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/mview.py",
+      "size_bytes": 590,
+      "source_sha256": "23e4ae150f3e22339c1555aa7a79f3741a792f1c11626f6b3b62bd81e41ea586",
+      "destination": "cases/hiakari-inori/workflow/tools/mview.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/p2l.py",
+      "size_bytes": 765,
+      "source_sha256": "f30f595ec5799ea14246860cb767ae382d00b67e444c60796306a9aabb24fdc7",
+      "destination": "cases/hiakari-inori/workflow/tools/p2l.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/p2l_v3.py",
+      "size_bytes": 1942,
+      "source_sha256": "4089890b0c0cecea6c0b65bb941e3537f5836d6fd9bb3d983bb6d8b17ded9b74",
+      "destination": "cases/hiakari-inori/workflow/tools/p2l_v3.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/p2l_v3exp.py",
+      "size_bytes": 651,
+      "source_sha256": "a85fce8e5b4c237084e0569149055a225e89b3f0b972fc330e44ae3899ddd6e0",
+      "destination": "cases/hiakari-inori/workflow/tools/p2l_v3exp.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/p2l_v4.py",
+      "size_bytes": 1942,
+      "source_sha256": "f8ca917e7dbbad9a44c7f1d0e3cf95f7200403286743af4badc6bb86e36913cf",
+      "destination": "cases/hiakari-inori/workflow/tools/p2l_v4.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/p2l_v4exp.py",
+      "size_bytes": 651,
+      "source_sha256": "823b94d5a389cb3bff3ddf092425296c650a48ce006d5acc579600f2e476d92f",
+      "destination": "cases/hiakari-inori/workflow/tools/p2l_v4exp.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/p2l_v4ns.py",
+      "size_bytes": 1950,
+      "source_sha256": "39c943d1c69c98ba8d3f3dea054c0134fe460dd9ecd35142db2025004fe31755",
+      "destination": "cases/hiakari-inori/workflow/tools/p2l_v4ns.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/p2l_w.py",
+      "size_bytes": 395,
+      "source_sha256": "a6b2312dde69eb77dfc6437f71d7d907991f9c9075c483934fcf8a1f34a39b75",
+      "destination": "cases/hiakari-inori/workflow/tools/p2l_w.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/probe_spaces.py",
+      "size_bytes": 683,
+      "source_sha256": "bd4a564cb74e9a1767f8bda1230a8647700de129606378c9651476055eb28409",
+      "destination": "cases/hiakari-inori/workflow/tools/probe_spaces.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/reg.py",
+      "size_bytes": 1038,
+      "source_sha256": "393531bb5c65124563014c28170481ad60b3b2bac9f538f73383ae3ff01b28e5",
+      "destination": "cases/hiakari-inori/workflow/tools/reg.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/rv.sh",
+      "size_bytes": 400,
+      "source_sha256": "5cb69529f6563b021cdb04ec98894893e107401e2db37f779b0e71a34f55e5b7",
+      "destination": "cases/hiakari-inori/workflow/tools/rv.sh",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/sr.py",
+      "size_bytes": 4770,
+      "source_sha256": "f3ceee24fe498934994223d7120ad2b638c77542de500d0c98e8419e380e0531",
+      "destination": "cases/hiakari-inori/workflow/tools/sr.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/symmetrize.py",
+      "size_bytes": 1475,
+      "source_sha256": "6ccceaceb791a32688bacbd6f354052c108d6f811f986e61329e98cbaa0a9a3f",
+      "destination": "cases/hiakari-inori/workflow/tools/symmetrize.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/tm.py",
+      "size_bytes": 1566,
+      "source_sha256": "f3f13b64acef654548b4879ff5431336859a48546c6c67833bd3260c30c5cdd6",
+      "destination": "cases/hiakari-inori/workflow/tools/tm.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/try_edit.py",
+      "size_bytes": 864,
+      "source_sha256": "31847c2236e9d8eacbd99fe73f2c578147749ee690f05714e7bb92c3712454f4",
+      "destination": "cases/hiakari-inori/workflow/tools/try_edit.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/up_all.py",
+      "size_bytes": 771,
+      "source_sha256": "7bf3839946667993674d7bb92c3b1308423c2331fabb5851688e25fda977c686",
+      "destination": "cases/hiakari-inori/workflow/tools/up_all.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/upscale.py",
+      "size_bytes": 4133,
+      "source_sha256": "66466971eb3af08366635577448166351c2625c60c7b5384f41c7885b9fbb53c",
+      "destination": "cases/hiakari-inori/workflow/tools/upscale.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/v4_assemble.py",
+      "size_bytes": 2900,
+      "source_sha256": "6ef810b4a9bb5ebf1284fdcac215f723e2fe926ed1e3960f8202301c81671b71",
+      "destination": "cases/hiakari-inori/workflow/tools/v4_assemble.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/v4_comp.py",
+      "size_bytes": 896,
+      "source_sha256": "5277c926e4557240ff14be5d9def723a53b37517c5784f5045ace008cc11edf1",
+      "destination": "cases/hiakari-inori/workflow/tools/v4_comp.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/v4_jobs.py",
+      "size_bytes": 2243,
+      "source_sha256": "426ba8a54cd58215b873b68aa97cc74b0fe7049bb55cb8a72a2a919e9a0ffb36",
+      "destination": "cases/hiakari-inori/workflow/tools/v4_jobs.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/v4_mask.py",
+      "size_bytes": 2270,
+      "source_sha256": "24514777391654db66726e0da7796da71ecd19ded57b424435b3bd4f2bd7fab4",
+      "destination": "cases/hiakari-inori/workflow/tools/v4_mask.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/v4_mkjobs.py",
+      "size_bytes": 2788,
+      "source_sha256": "f6c23d903e674b81f613cc06326e792a62ac22126cf5f76129269b9153405619",
+      "destination": "cases/hiakari-inori/workflow/tools/v4_mkjobs.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/v4_round2.py",
+      "size_bytes": 2791,
+      "source_sha256": "457137e20422940c87ec383288cfb04a1243dbb83bbccfa80a00c9574101c144",
+      "destination": "cases/hiakari-inori/workflow/tools/v4_round2.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/v4_sr.py",
+      "size_bytes": 456,
+      "source_sha256": "d7464585d750c203484e5818657a5c2863a6cb0f4fe6692bff4009f22f43f522",
+      "destination": "cases/hiakari-inori/workflow/tools/v4_sr.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/v4_srleg.py",
+      "size_bytes": 367,
+      "source_sha256": "0818b1c2f6dea802e976c875520871930d1429e1ef085fd0710d4cb38da16d0a",
+      "destination": "cases/hiakari-inori/workflow/tools/v4_srleg.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/v5_align.py",
+      "size_bytes": 2723,
+      "source_sha256": "fd9d2221b29e159b94dc3bd86555514ef19cc080e7fa68d9ed7951ce141d85a1",
+      "destination": "cases/hiakari-inori/workflow/tools/v5_align.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/v5_body.py",
+      "size_bytes": 1510,
+      "source_sha256": "205d1fa2a456afe9344a20f2a7498d2a6c3fdc1db75e3b409a65eac649b51703",
+      "destination": "cases/hiakari-inori/workflow/tools/v5_body.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/v5_cloth.py",
+      "size_bytes": 969,
+      "source_sha256": "ae586150831da4a84001eb3ed7145f82f30ff3880d8b31a3ef6ce4cc2affc783",
+      "destination": "cases/hiakari-inori/workflow/tools/v5_cloth.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_archive/tools/v5_sr.py",
+      "size_bytes": 348,
+      "source_sha256": "ab4ddc62be2c40c1b0eb5bb420a1321d31ddee68919293b8b9d6bb2ea28061bc",
+      "destination": "cases/hiakari-inori/workflow/tools/v5_sr.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/export_cubism/inori_v2.4096/texture_00.png",
+      "size_bytes": 11005062,
+      "source_sha256": "e8ee7739a7a2defd44b198b99adbee64e50282792fe3d3386bd81cef6e5dc707",
+      "destination": "hiakari-inori/history/v3/export_cubism/inori_v2.4096/texture_00.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/export_cubism/inori_v2.blink.motion3.json",
+      "size_bytes": 1155,
+      "source_sha256": "399f91b7bfac0666f589ab7c6daace5e33e5c6d6e7c6e7ca4024b6db48a65110",
+      "destination": "hiakari-inori/history/v3/export_cubism/inori_v2.blink.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/export_cubism/inori_v2.cdi3.json",
+      "size_bytes": 5655,
+      "source_sha256": "5fd7ae25ba688bcb393ac4700b665fd58f81f71cd7e23b279e86191e97bb130a",
+      "destination": "hiakari-inori/history/v3/export_cubism/inori_v2.cdi3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/export_cubism/inori_v2.idle.motion3.json",
+      "size_bytes": 15999,
+      "source_sha256": "14674d50d8765df706ac253975629f7cffe97a2442248a41af59f68d9cd3f2dc",
+      "destination": "hiakari-inori/history/v3/export_cubism/inori_v2.idle.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/export_cubism/inori_v2.moc3",
+      "size_bytes": 395712,
+      "source_sha256": "9c0c4d5783ad5d8663a92c28096eba5259ae18390864b86434cf056bd3c1ba3d",
+      "destination": "hiakari-inori/history/v3/export_cubism/inori_v2.moc3",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/export_cubism/inori_v2.moc3.report.json",
+      "size_bytes": 291,
+      "source_sha256": "95f208ef7d53b6a46cea8270f5fdf17b78d9ea8d4f068cba8f72c1c8b82118a7",
+      "destination": "hiakari-inori/history/v3/export_cubism/inori_v2.moc3.report.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/export_cubism/inori_v2.model3.json",
+      "size_bytes": 741,
+      "source_sha256": "56023cb5601587d757f97b913a2fa5b2cd426d86254f586c0da1f844d6d9e0f4",
+      "destination": "hiakari-inori/history/v3/export_cubism/inori_v2.model3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/export_cubism/inori_v2.nod.motion3.json",
+      "size_bytes": 1751,
+      "source_sha256": "bfd9a247d5ec8479145c2dddfd5fdbf03e1c46df8d7460f07badd146c1e19418",
+      "destination": "hiakari-inori/history/v3/export_cubism/inori_v2.nod.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/export_cubism/inori_v2.physics3.json",
+      "size_bytes": 11817,
+      "source_sha256": "1dbb49432a24aa62c2f3ac284a7650d04b70632bee68fdcf3d096e6490fd0926",
+      "destination": "hiakari-inori/history/v3/export_cubism/inori_v2.physics3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/export_cubism/inori_v2.shake.motion3.json",
+      "size_bytes": 1573,
+      "source_sha256": "81f50690b925cab5487c64cd1fc9781485a141f758a1f7085d36f0596bbfe54b",
+      "destination": "hiakari-inori/history/v3/export_cubism/inori_v2.shake.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/export_cubism/inori_v3.4096/texture_00.png",
+      "size_bytes": 10990600,
+      "source_sha256": "8c4baed8ff0d8fa9f1d10cd25d0c7887779361508ca7f1e65106d294818ab808",
+      "destination": "hiakari-inori/history/v3/export_cubism/inori_v3.4096/texture_00.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/export_cubism/inori_v3.blink.motion3.json",
+      "size_bytes": 1155,
+      "source_sha256": "399f91b7bfac0666f589ab7c6daace5e33e5c6d6e7c6e7ca4024b6db48a65110",
+      "destination": "hiakari-inori/history/v3/export_cubism/inori_v3.blink.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/export_cubism/inori_v3.cdi3.json",
+      "size_bytes": 5912,
+      "source_sha256": "42fa0e5d34332cfb502612505640c09afdfd968370e3c48b5d37221eab9fe2a1",
+      "destination": "hiakari-inori/history/v3/export_cubism/inori_v3.cdi3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/export_cubism/inori_v3.idle.motion3.json",
+      "size_bytes": 15999,
+      "source_sha256": "14674d50d8765df706ac253975629f7cffe97a2442248a41af59f68d9cd3f2dc",
+      "destination": "hiakari-inori/history/v3/export_cubism/inori_v3.idle.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/export_cubism/inori_v3.moc3",
+      "size_bytes": 504896,
+      "source_sha256": "4c0618462363588dd31ff1681afe62b2ad66c7e1b35b60357d0b2d434c95eb68",
+      "destination": "hiakari-inori/history/v3/export_cubism/inori_v3.moc3",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/export_cubism/inori_v3.moc3.report.json",
+      "size_bytes": 424,
+      "source_sha256": "1db1c541f92ec723bc3eb9f9e11269f42691f8de9ab95dbde916b0bf5b8a43f3",
+      "destination": "hiakari-inori/history/v3/export_cubism/inori_v3.moc3.report.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/export_cubism/inori_v3.model3.json",
+      "size_bytes": 741,
+      "source_sha256": "6e78ab47b49faa03be0f0961b4594b1fc09d634d9f4e19859e7c43e4f3e54dda",
+      "destination": "hiakari-inori/history/v3/export_cubism/inori_v3.model3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/export_cubism/inori_v3.nod.motion3.json",
+      "size_bytes": 1751,
+      "source_sha256": "bfd9a247d5ec8479145c2dddfd5fdbf03e1c46df8d7460f07badd146c1e19418",
+      "destination": "hiakari-inori/history/v3/export_cubism/inori_v3.nod.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/export_cubism/inori_v3.physics3.json",
+      "size_bytes": 11817,
+      "source_sha256": "1dbb49432a24aa62c2f3ac284a7650d04b70632bee68fdcf3d096e6490fd0926",
+      "destination": "hiakari-inori/history/v3/export_cubism/inori_v3.physics3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/export_cubism/inori_v3.shake.motion3.json",
+      "size_bytes": 1573,
+      "source_sha256": "81f50690b925cab5487c64cd1fc9781485a141f758a1f7085d36f0596bbfe54b",
+      "destination": "hiakari-inori/history/v3/export_cubism/inori_v3.shake.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/export_vtube_studio/inori_v2.4096/texture_00.png",
+      "size_bytes": 11005062,
+      "source_sha256": "e8ee7739a7a2defd44b198b99adbee64e50282792fe3d3386bd81cef6e5dc707",
+      "destination": "hiakari-inori/history/v3/export_vtube_studio/inori_v2.4096/texture_00.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/export_vtube_studio/inori_v2.blink.motion3.json",
+      "size_bytes": 1155,
+      "source_sha256": "399f91b7bfac0666f589ab7c6daace5e33e5c6d6e7c6e7ca4024b6db48a65110",
+      "destination": "hiakari-inori/history/v3/export_vtube_studio/inori_v2.blink.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/export_vtube_studio/inori_v2.cdi3.json",
+      "size_bytes": 5655,
+      "source_sha256": "5fd7ae25ba688bcb393ac4700b665fd58f81f71cd7e23b279e86191e97bb130a",
+      "destination": "hiakari-inori/history/v3/export_vtube_studio/inori_v2.cdi3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/export_vtube_studio/inori_v2.idle.motion3.json",
+      "size_bytes": 15999,
+      "source_sha256": "14674d50d8765df706ac253975629f7cffe97a2442248a41af59f68d9cd3f2dc",
+      "destination": "hiakari-inori/history/v3/export_vtube_studio/inori_v2.idle.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/export_vtube_studio/inori_v2.moc3",
+      "size_bytes": 395712,
+      "source_sha256": "9c0c4d5783ad5d8663a92c28096eba5259ae18390864b86434cf056bd3c1ba3d",
+      "destination": "hiakari-inori/history/v3/export_vtube_studio/inori_v2.moc3",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/export_vtube_studio/inori_v2.model3.json",
+      "size_bytes": 741,
+      "source_sha256": "56023cb5601587d757f97b913a2fa5b2cd426d86254f586c0da1f844d6d9e0f4",
+      "destination": "hiakari-inori/history/v3/export_vtube_studio/inori_v2.model3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/export_vtube_studio/inori_v2.nod.motion3.json",
+      "size_bytes": 1751,
+      "source_sha256": "bfd9a247d5ec8479145c2dddfd5fdbf03e1c46df8d7460f07badd146c1e19418",
+      "destination": "hiakari-inori/history/v3/export_vtube_studio/inori_v2.nod.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/export_vtube_studio/inori_v2.physics3.json",
+      "size_bytes": 11817,
+      "source_sha256": "1dbb49432a24aa62c2f3ac284a7650d04b70632bee68fdcf3d096e6490fd0926",
+      "destination": "hiakari-inori/history/v3/export_vtube_studio/inori_v2.physics3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/export_vtube_studio/inori_v2.shake.motion3.json",
+      "size_bytes": 1573,
+      "source_sha256": "81f50690b925cab5487c64cd1fc9781485a141f758a1f7085d36f0596bbfe54b",
+      "destination": "hiakari-inori/history/v3/export_vtube_studio/inori_v2.shake.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/export_vtube_studio/inori_v2.vtube-studio.report.json",
+      "size_bytes": 452,
+      "source_sha256": "0e1c5db35728a9db07bb3e4c4bc926de7d8245cdee858f997ede53a02d4c8dcd",
+      "destination": "hiakari-inori/history/v3/export_vtube_studio/inori_v2.vtube-studio.report.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/export_vtube_studio/inori_v2.vtube.json",
+      "size_bytes": 10276,
+      "source_sha256": "d77185e2b708ab5b922d797868449d3a2fbf6d5038b1b03c0a76af6fe99aed67",
+      "destination": "hiakari-inori/history/v3/export_vtube_studio/inori_v2.vtube.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/export_vtube_studio/inori_v3.4096/texture_00.png",
+      "size_bytes": 10990600,
+      "source_sha256": "8c4baed8ff0d8fa9f1d10cd25d0c7887779361508ca7f1e65106d294818ab808",
+      "destination": "hiakari-inori/history/v3/export_vtube_studio/inori_v3.4096/texture_00.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/export_vtube_studio/inori_v3.blink.motion3.json",
+      "size_bytes": 1155,
+      "source_sha256": "399f91b7bfac0666f589ab7c6daace5e33e5c6d6e7c6e7ca4024b6db48a65110",
+      "destination": "hiakari-inori/history/v3/export_vtube_studio/inori_v3.blink.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/export_vtube_studio/inori_v3.cdi3.json",
+      "size_bytes": 5912,
+      "source_sha256": "42fa0e5d34332cfb502612505640c09afdfd968370e3c48b5d37221eab9fe2a1",
+      "destination": "hiakari-inori/history/v3/export_vtube_studio/inori_v3.cdi3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/export_vtube_studio/inori_v3.idle.motion3.json",
+      "size_bytes": 15999,
+      "source_sha256": "14674d50d8765df706ac253975629f7cffe97a2442248a41af59f68d9cd3f2dc",
+      "destination": "hiakari-inori/history/v3/export_vtube_studio/inori_v3.idle.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/export_vtube_studio/inori_v3.moc3",
+      "size_bytes": 504896,
+      "source_sha256": "4c0618462363588dd31ff1681afe62b2ad66c7e1b35b60357d0b2d434c95eb68",
+      "destination": "hiakari-inori/history/v3/export_vtube_studio/inori_v3.moc3",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/export_vtube_studio/inori_v3.model3.json",
+      "size_bytes": 741,
+      "source_sha256": "6e78ab47b49faa03be0f0961b4594b1fc09d634d9f4e19859e7c43e4f3e54dda",
+      "destination": "hiakari-inori/history/v3/export_vtube_studio/inori_v3.model3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/export_vtube_studio/inori_v3.nod.motion3.json",
+      "size_bytes": 1751,
+      "source_sha256": "bfd9a247d5ec8479145c2dddfd5fdbf03e1c46df8d7460f07badd146c1e19418",
+      "destination": "hiakari-inori/history/v3/export_vtube_studio/inori_v3.nod.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/export_vtube_studio/inori_v3.physics3.json",
+      "size_bytes": 11817,
+      "source_sha256": "1dbb49432a24aa62c2f3ac284a7650d04b70632bee68fdcf3d096e6490fd0926",
+      "destination": "hiakari-inori/history/v3/export_vtube_studio/inori_v3.physics3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/export_vtube_studio/inori_v3.shake.motion3.json",
+      "size_bytes": 1573,
+      "source_sha256": "81f50690b925cab5487c64cd1fc9781485a141f758a1f7085d36f0596bbfe54b",
+      "destination": "hiakari-inori/history/v3/export_vtube_studio/inori_v3.shake.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/export_vtube_studio/inori_v3.vtube-studio.report.json",
+      "size_bytes": 586,
+      "source_sha256": "7826e5848d726d734d344005b6e5c6392b9e0cc8372bcf68aefcfb425c5957bb",
+      "destination": "hiakari-inori/history/v3/export_vtube_studio/inori_v3.vtube-studio.report.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/export_vtube_studio/inori_v3.vtube.json",
+      "size_bytes": 10276,
+      "source_sha256": "aeefdc99c83d8a316e3b29af803da3ef0c028eecca9a76543e45584130913e4a",
+      "destination": "hiakari-inori/history/v3/export_vtube_studio/inori_v3.vtube.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/hiakari_inori_layers_v2.psd",
+      "size_bytes": 37994798,
+      "source_sha256": "9a6b9491dcc823d7fd576a31d3a14d9c62e373dee12e6b7e76f3380556254060",
+      "destination": "hiakari-inori/history/v3/hiakari_inori_layers_v2.psd",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/hiakari_inori_layers_v3.psd",
+      "size_bytes": 17948542,
+      "source_sha256": "696c18bffe930ebe904c1f03c184ba91f147e34c715c6e8bc2f3b36f2b78d1ec",
+      "destination": "hiakari-inori/history/v3/hiakari_inori_layers_v3.psd",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/hiakari_inori_v3.psd2live",
+      "size_bytes": 33654751,
+      "source_sha256": "c6659e8c74e72175a9034f773e74e015d21c18fb7da23b2b91e72e14cb0b8db0",
+      "destination": "hiakari-inori/history/v3/hiakari_inori_v3.psd2live",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/Live2D_PSD2Live_完整流程手册.md",
+      "size_bytes": 73473,
+      "source_sha256": "225d870929b1308488389ade21ad0d0f850500188c790eea83b343df813a68ae",
+      "destination": "cases/hiakari-inori/workflow/guide.md",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/pipeline/ino_align3.py",
+      "size_bytes": 3618,
+      "source_sha256": "be9a3f972d748864cba583a5c608588920742e20de380207bf601431f85a4b72",
+      "destination": "cases/hiakari-inori/workflow/tools/ino_align3.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/pipeline/ino_align5.py",
+      "size_bytes": 1345,
+      "source_sha256": "fe23047fafca31edc88be192b01d68b10c8f02cf1f9f1ba6afb91822702aa273",
+      "destination": "cases/hiakari-inori/workflow/tools/ino_align5.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/pipeline/ino_build.py",
+      "size_bytes": 2682,
+      "source_sha256": "840d8cdb5c888f8688cdd60fb849929643b75d5cab573962fa6bf80973430924",
+      "destination": "cases/hiakari-inori/workflow/tools/ino_build.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/pipeline/ino_comp.py",
+      "size_bytes": 721,
+      "source_sha256": "93bab893c0c9b8b751db47ec8c0b2b78ee37adb79a02517dcf5d899383db057e",
+      "destination": "cases/hiakari-inori/workflow/tools/ino_comp.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/pipeline/ino_gen.py",
+      "size_bytes": 7709,
+      "source_sha256": "4a6e739bca7ab2b0546564d6476b29e599033201ef888ab87ba5076b43f0a8a1",
+      "destination": "cases/hiakari-inori/workflow/tools/ino_gen.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/pipeline/ino_psd.py",
+      "size_bytes": 1571,
+      "source_sha256": "3da8419233e13f836eb946a6f5365117bd817ebd6c54902a4a25dc160725bae9",
+      "destination": "cases/hiakari-inori/workflow/tools/ino_psd.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/pipeline/ino_psd2.py",
+      "size_bytes": 1793,
+      "source_sha256": "59c6d6a97354d433a56a58e73c0b46a8c02f258d6186ef2604c6a8a98a6d5fca",
+      "destination": "cases/hiakari-inori/workflow/tools/ino_psd2.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/pipeline/ino_psd3.py",
+      "size_bytes": 1794,
+      "source_sha256": "034ecc16c8b26b0618cce68929f56b3b6fc461dd13f81d46ab56077769b7f086",
+      "destination": "cases/hiakari-inori/workflow/tools/ino_psd3.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/pipeline/ino_sift.py",
+      "size_bytes": 2059,
+      "source_sha256": "56488ac664d7c9d90307ef49573430a0be5e522d8f179d3227cf06f33db8610d",
+      "destination": "cases/hiakari-inori/workflow/tools/ino_sift.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/pipeline/leg_assemble.py",
+      "size_bytes": 2560,
+      "source_sha256": "7e0b5ec0002347776c3589974f1ea55d75ebf48b848f6abd01ba5b59f0538c80",
+      "destination": "cases/hiakari-inori/workflow/tools/leg_assemble.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/pipeline/leg_assemble3.py",
+      "size_bytes": 3338,
+      "source_sha256": "cec4d6fb7a875204d6dc2de1d9b60180084ec0ea12de49d6f5ddc91397928e14",
+      "destination": "cases/hiakari-inori/workflow/tools/leg_assemble3.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/pipeline/leg_check.py",
+      "size_bytes": 1506,
+      "source_sha256": "c39c8561552c9c7d72854249c4661d86484dec861b954ecaaa8d5161d1e0c39f",
+      "destination": "cases/hiakari-inori/workflow/tools/leg_check.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/pipeline/leg_jobs.py",
+      "size_bytes": 2977,
+      "source_sha256": "b47a251ed8a07ecc075eb739c6605bb78661c202fa9e8fbe0012f504893e26c9",
+      "destination": "cases/hiakari-inori/workflow/tools/leg_jobs.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/pipeline/leg_knee3.py",
+      "size_bytes": 1734,
+      "source_sha256": "3c85127d3bd86b457a39de229e5ff08d4b12d802e0347d412ee8e2ef70f849a6",
+      "destination": "cases/hiakari-inori/workflow/tools/leg_knee3.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/pipeline/leg_mask.py",
+      "size_bytes": 996,
+      "source_sha256": "e73d90c72c040957b99a6cded347d27c78f8bdcc16399cada1f6434cbc741546",
+      "destination": "cases/hiakari-inori/workflow/tools/leg_mask.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/pipeline/leg_split.py",
+      "size_bytes": 3862,
+      "source_sha256": "fe661d0bad32be1c02c50db1895131c2c12e6b8619ffcd4bbc0b22c4879e812d",
+      "destination": "cases/hiakari-inori/workflow/tools/leg_split.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/pipeline/leg_sr.py",
+      "size_bytes": 424,
+      "source_sha256": "54bfe9162aa5ea887a413de950f2ec98c76776d08024a161fc1329c98575165a",
+      "destination": "cases/hiakari-inori/workflow/tools/leg_sr.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/pipeline/leg_thigh3.py",
+      "size_bytes": 3016,
+      "source_sha256": "b3b3550bfb84a8f9565f03c026621ebfc2399a6969bcb061efc36cb89dafdd88",
+      "destination": "cases/hiakari-inori/workflow/tools/leg_thigh3.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/pipeline/p2l.py",
+      "size_bytes": 765,
+      "source_sha256": "f30f595ec5799ea14246860cb767ae382d00b67e444c60796306a9aabb24fdc7",
+      "destination": "cases/hiakari-inori/workflow/tools/p2l.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/pipeline/p2l_v3.py",
+      "size_bytes": 1942,
+      "source_sha256": "4089890b0c0cecea6c0b65bb941e3537f5836d6fd9bb3d983bb6d8b17ded9b74",
+      "destination": "cases/hiakari-inori/workflow/tools/p2l_v3.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/pipeline/p2l_v3exp.py",
+      "size_bytes": 651,
+      "source_sha256": "a85fce8e5b4c237084e0569149055a225e89b3f0b972fc330e44ae3899ddd6e0",
+      "destination": "cases/hiakari-inori/workflow/tools/p2l_v3exp.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/pipeline/p2l_w.py",
+      "size_bytes": 395,
+      "source_sha256": "a6b2312dde69eb77dfc6437f71d7d907991f9c9075c483934fcf8a1f34a39b75",
+      "destination": "cases/hiakari-inori/workflow/tools/p2l_w.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/preview/inori_v2.webm",
+      "size_bytes": 7621041,
+      "source_sha256": "a6641de66a5c3099c23d239e5f850bb698447833a9c33f0c579642f67a0470a1",
+      "destination": "hiakari-inori/history/v3/preview/inori_v2.webm",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/preview/inori_v2.webm.report.json",
+      "size_bytes": 204,
+      "source_sha256": "2a2ad412d2437ebe4a4ededfccc9f63fbd47c8d237deea5283bb75f22b68e9d4",
+      "destination": "hiakari-inori/history/v3/preview/inori_v2.webm.report.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/preview/inori_v3.webm",
+      "size_bytes": 7614186,
+      "source_sha256": "537e134b42f7684955fc83b2955b529ceb163adede406a195de208fe72cbca5d",
+      "destination": "hiakari-inori/history/v3/preview/inori_v3.webm",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/preview/inori_v3.webm.report.json",
+      "size_bytes": 204,
+      "source_sha256": "9a19de0d459f1170779cd2f3252f5cd2ecd56a4c4cf588180e55802a6e322b31",
+      "destination": "hiakari-inori/history/v3/preview/inori_v3.webm.report.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/README.md",
+      "size_bytes": 3202,
+      "source_sha256": "55361aa6b66a8becb0a3946cfce28328114d0dbeb9a20189a4a15bee79168b1b",
+      "destination": "cases/hiakari-inori/workflow/history/v4/README.md",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/renders/01_fullbody_transparent.png",
+      "size_bytes": 2732235,
+      "source_sha256": "6f25235acb58c1591c1299f2c380073b61d0f8cfb90ceda4e8e8bcf3a62bf901",
+      "destination": "hiakari-inori/history/v3/renders/01_fullbody_transparent.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/renders/01_fullbody_white.png",
+      "size_bytes": 2378508,
+      "source_sha256": "f2c4f6600dd2b42ca991cce88727e16cb0d657f77acc54e7db32a46d0eb232f2",
+      "destination": "hiakari-inori/history/v3/renders/01_fullbody_white.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/renders/02_head_transparent.png",
+      "size_bytes": 1954579,
+      "source_sha256": "ad752200d0aa932ef293c48698fa1c202a59c8ef2bbbedaf2f57bbfb140a2a41",
+      "destination": "hiakari-inori/history/v3/renders/02_head_transparent.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/renders/02_head_white.png",
+      "size_bytes": 1698170,
+      "source_sha256": "2cdfd854419198cd57fa248689dd638da63822c64c1553bb61cea89e9847b615",
+      "destination": "hiakari-inori/history/v3/renders/02_head_white.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/renders/03_expression_sheet.png",
+      "size_bytes": 2438691,
+      "source_sha256": "77a6af62f4a396b88fbb7d6975f8921ec08a188d0faac90d13fb5476c6c4c508",
+      "destination": "hiakari-inori/history/v3/renders/03_expression_sheet.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/renders/v2/04_v2_fullbody_transparent.png",
+      "size_bytes": 1375960,
+      "source_sha256": "e61fb4acbd41a5218c9e29fcdcc7345e528a4ea0391d03c61fa99cd20786c1df",
+      "destination": "hiakari-inori/history/v3/renders/v2/04_v2_fullbody_transparent.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/renders/v2/04_v2_fullbody_white.png",
+      "size_bytes": 1199123,
+      "source_sha256": "a36e1baeebb5a7c21058321ec685292a3668afb5e93d5a6c630c3a01931323dd",
+      "destination": "hiakari-inori/history/v3/renders/v2/04_v2_fullbody_white.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/renders/v2/05_v2_pose_bodyX_tails_transparent.png",
+      "size_bytes": 1395991,
+      "source_sha256": "4442565c4ed407e2547b0d8360a6c9de7f7923eaf29be8a571b2b8cc905173ab",
+      "destination": "hiakari-inori/history/v3/renders/v2/05_v2_pose_bodyX_tails_transparent.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/renders/v2/05_v2_pose_bodyX_tails_white.png",
+      "size_bytes": 1215783,
+      "source_sha256": "a200a379c67a08bc7ef651a45cb96809f7de580b0195d757f85c7688f50d3ab4",
+      "destination": "hiakari-inori/history/v3/renders/v2/05_v2_pose_bodyX_tails_white.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/renders/v2/06_v2_legs_zoom_transparent.png",
+      "size_bytes": 962372,
+      "source_sha256": "ab9f36b174c402870dd929751f7595a30de27f2bcece75bd7392fc50df62b174",
+      "destination": "hiakari-inori/history/v3/renders/v2/06_v2_legs_zoom_transparent.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/renders/v2/06_v2_legs_zoom_white.png",
+      "size_bytes": 842868,
+      "source_sha256": "ad188fcd9ccb95628b05602c57070375db3efc22cd08f0b40d0df71c23007ee3",
+      "destination": "hiakari-inori/history/v3/renders/v2/06_v2_legs_zoom_white.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/renders/v2/align_diff.json",
+      "size_bytes": 414,
+      "source_sha256": "1cef50e8ae76177dfbf9dfe7e4a7a2cd86ddad4ef8edb7d309c06067e5db042c",
+      "destination": "hiakari-inori/history/v3/renders/v2/align_diff.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/renders/v2/ov_legs_v2.png",
+      "size_bytes": 614431,
+      "source_sha256": "020699420d81656b64c58cc039098085e2c69e27d98f5a58f3251a5cc91eada4",
+      "destination": "hiakari-inori/history/v3/renders/v2/ov_legs_v2.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/renders/v3/01_v3_full_transparent.png",
+      "size_bytes": 1906798,
+      "source_sha256": "6d2251543212cdf77d94af5ed44f145377a13cbeec916763a859b26533a70455",
+      "destination": "hiakari-inori/history/v3/renders/v3/01_v3_full_transparent.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/renders/v3/01_v3_full_white.png",
+      "size_bytes": 1197717,
+      "source_sha256": "b5f88398a4d9ff900fb82c583501ea1ac278fa1fab6f54665b98387da263687a",
+      "destination": "hiakari-inori/history/v3/renders/v3/01_v3_full_white.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/renders/v3/02_v3_pose_bodyX_tails_transparent.png",
+      "size_bytes": 1924380,
+      "source_sha256": "23762344cf7e71cf08ef36e4cc94447522fe79acddb1ead2910af7227b3a0ca7",
+      "destination": "hiakari-inori/history/v3/renders/v3/02_v3_pose_bodyX_tails_transparent.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/renders/v3/02_v3_pose_bodyX_tails_white.png",
+      "size_bytes": 1210326,
+      "source_sha256": "460256d3ce52621102246c002b3667e85a6be36a038a00a41a6096193206498a",
+      "destination": "hiakari-inori/history/v3/renders/v3/02_v3_pose_bodyX_tails_white.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/renders/v3/03_v3_legs_zoom_transparent.png",
+      "size_bytes": 1520391,
+      "source_sha256": "915d2ea406664a7b67ff18356e811b66a373ca282e79b1ea3d653d05caf78725",
+      "destination": "hiakari-inori/history/v3/renders/v3/03_v3_legs_zoom_transparent.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/renders/v3/03_v3_legs_zoom_white.png",
+      "size_bytes": 898343,
+      "source_sha256": "e104afa100d6872efc52c90736237be1602a5f33236155cae5cfd04e594898df",
+      "destination": "hiakari-inori/history/v3/renders/v3/03_v3_legs_zoom_white.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/renders/v3/04_v3_noskirt_full_transparent.png",
+      "size_bytes": 1722171,
+      "source_sha256": "25e1e51afd0196240ac59d6be1fb686e1e290f1d0d126f2f8fb301c23f226f99",
+      "destination": "hiakari-inori/history/v3/renders/v3/04_v3_noskirt_full_transparent.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/renders/v3/04_v3_noskirt_full_white.png",
+      "size_bytes": 1096456,
+      "source_sha256": "67c96328172bc54ccad67859c09d7392203e11806975e719847ea2326eba95b3",
+      "destination": "hiakari-inori/history/v3/renders/v3/04_v3_noskirt_full_white.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/renders/v3/05_v3_noskirt_legs_transparent.png",
+      "size_bytes": 1084829,
+      "source_sha256": "ce53a1899012f23834ca4cfaeb8ef85e0389915f5f693139cd8c27dc3b8d0a9b",
+      "destination": "hiakari-inori/history/v3/renders/v3/05_v3_noskirt_legs_transparent.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/renders/v3/05_v3_noskirt_legs_white.png",
+      "size_bytes": 667381,
+      "source_sha256": "a014e40b7a59de35ff5a7559e487f8eb54809d46d08e0f071d0a4d9b72c0e297",
+      "destination": "hiakari-inori/history/v3/renders/v3/05_v3_noskirt_legs_white.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/renders/v3/06_v3_noskirt_legs_swayR_transparent.png",
+      "size_bytes": 1090180,
+      "source_sha256": "ddd43857e8342feab1349eb1ca9890cb93361ecd58a88faf753621da8c4aa95d",
+      "destination": "hiakari-inori/history/v3/renders/v3/06_v3_noskirt_legs_swayR_transparent.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/renders/v3/06_v3_noskirt_legs_swayR_white.png",
+      "size_bytes": 673087,
+      "source_sha256": "75d4207c4c1f091007ac34259837408fbc9d9005744d9983b5990fa5032cc4ab",
+      "destination": "hiakari-inori/history/v3/renders/v3/06_v3_noskirt_legs_swayR_white.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/renders/v3/07_v3_noskirt_legs_swayL_transparent.png",
+      "size_bytes": 1118744,
+      "source_sha256": "3badfea9caeadf93008c0e86947914b92a240d9d846171e8ed2da59e21a604c0",
+      "destination": "hiakari-inori/history/v3/renders/v3/07_v3_noskirt_legs_swayL_transparent.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/renders/v3/07_v3_noskirt_legs_swayL_white.png",
+      "size_bytes": 696486,
+      "source_sha256": "bd1fcca77c3f2b0c3f0596f885c2da6af2e12c46080692b36fe320a79983a5cc",
+      "destination": "hiakari-inori/history/v3/renders/v3/07_v3_noskirt_legs_swayL_white.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/renders/v3/08_v3_legs_only_noskirt_nogarter_transparent.png",
+      "size_bytes": 668402,
+      "source_sha256": "dc337674740d3a7768a28bca73ecedf3813451a6a98378f8303856fe2ab0f777",
+      "destination": "hiakari-inori/history/v3/renders/v3/08_v3_legs_only_noskirt_nogarter_transparent.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/renders/v3/08_v3_legs_only_noskirt_nogarter_white.png",
+      "size_bytes": 415110,
+      "source_sha256": "94255f21f46d59c5087c6cbe6fbf147e0794b139a2097940d0f80a953ff70909",
+      "destination": "hiakari-inori/history/v3/renders/v3/08_v3_legs_only_noskirt_nogarter_white.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/renders/v3/09_v3_knee_zoom_transparent.png",
+      "size_bytes": 803320,
+      "source_sha256": "634e1e8094827722118e85da24e39a48511908243ecae3ddaa6f6aedb6e68d15",
+      "destination": "hiakari-inori/history/v3/renders/v3/09_v3_knee_zoom_transparent.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/renders/v3/09_v3_knee_zoom_white.png",
+      "size_bytes": 446097,
+      "source_sha256": "2dd95d0ec45b73cbb716f83f0430c762f9cce2063dbc514e2a69f975a30d26ad",
+      "destination": "hiakari-inori/history/v3/renders/v3/09_v3_knee_zoom_white.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/renders/v3/align_diff_v3.json",
+      "size_bytes": 250,
+      "source_sha256": "763d90e4aa5f8852e2031ccc55b0d1a07b9b30f463e55478d578d20c3f2b512e",
+      "destination": "hiakari-inori/history/v3/renders/v3/align_diff_v3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/char.md",
+      "size_bytes": 1312,
+      "source_sha256": "9f8a0bb15fa99090293f0fc04af2896deab4c33b4cb88dd1ea4abae4b382b2d6",
+      "destination": "cases/hiakari-inori/workflow/history/docs/char.md",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/gen_layers/ahoge.png",
+      "size_bytes": 1177356,
+      "source_sha256": "38be6b5a636048bb73d9ba196d208701e25c8fa55081f4992daadff5a38fe29f",
+      "destination": "hiakari-inori/history/v3/source_art/gen_layers/ahoge.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/gen_layers/arm_L.png",
+      "size_bytes": 1167072,
+      "source_sha256": "87bdbc219641b36241eb81728049fb200d00f7151fcc45eabc44350ca8833549",
+      "destination": "hiakari-inori/history/v3/source_art/gen_layers/arm_L.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/gen_layers/arm_R.png",
+      "size_bytes": 1174235,
+      "source_sha256": "678d58e66eb6b5a70b5c2d4f2fe3e7a2df780ac3b4a733bacedca6cc5b71966e",
+      "destination": "hiakari-inori/history/v3/source_art/gen_layers/arm_R.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/gen_layers/back_hair.png",
+      "size_bytes": 2131697,
+      "source_sha256": "318fc116107f5418915c92f19d78b795960df3af29d9326cc067cdb6ac06b0fc",
+      "destination": "hiakari-inori/history/v3/source_art/gen_layers/back_hair.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/gen_layers/boots.png",
+      "size_bytes": 1220918,
+      "source_sha256": "d8ac1ddd82fc4f0e9ded8ac4f191809540d241f0dcb0e184af283e871920b8f0",
+      "destination": "hiakari-inori/history/v3/source_art/gen_layers/boots.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/gen_layers/braid.png",
+      "size_bytes": 1171351,
+      "source_sha256": "55660a469594e100ae385dbb654839d5c5da6a5a5a1e72fc45544c8255d279fb",
+      "destination": "hiakari-inori/history/v3/source_art/gen_layers/braid.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/gen_layers/choker.png",
+      "size_bytes": 1238262,
+      "source_sha256": "fc7a6923f17a865bd5b0bd5b156023e6898c13568a7e98c5a57f9a16279190f3",
+      "destination": "hiakari-inori/history/v3/source_art/gen_layers/choker.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/gen_layers/ear_L.png",
+      "size_bytes": 1274235,
+      "source_sha256": "8e2bfaa9a726c5dce138371d890ef21933b41fd22dc848202065b425b3d90b1d",
+      "destination": "hiakari-inori/history/v3/source_art/gen_layers/ear_L.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/gen_layers/ear_R.png",
+      "size_bytes": 1307065,
+      "source_sha256": "c5999b8cab09e273ea9ac567b569c7d650676d0032955da74129c3e100f95e1d",
+      "destination": "hiakari-inori/history/v3/source_art/gen_layers/ear_R.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/gen_layers/eye_white.png",
+      "size_bytes": 1186333,
+      "source_sha256": "7f5f7fc49804a802cc70684b2860e3689f4fad1a7fd756ea3ad100ffd33e512c",
+      "destination": "hiakari-inori/history/v3/source_art/gen_layers/eye_white.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/gen_layers/eyebrow.png",
+      "size_bytes": 1167645,
+      "source_sha256": "72f07cd324549035cc0588aa03341079bc2b5f7f820c10ac581d62f91b25497b",
+      "destination": "hiakari-inori/history/v3/source_art/gen_layers/eyebrow.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/gen_layers/eyelash.png",
+      "size_bytes": 1189657,
+      "source_sha256": "0539ba3348717c14bd45e5eb859e8f7b3438111f1253381dc7333fd69b0b58fb",
+      "destination": "hiakari-inori/history/v3/source_art/gen_layers/eyelash.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/gen_layers/face_base.png",
+      "size_bytes": 1231234,
+      "source_sha256": "8f615664c58d8371de16e8af7b187abc2af25a1205c6bb8b527513c310ed7bda",
+      "destination": "hiakari-inori/history/v3/source_art/gen_layers/face_base.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/gen_layers/front_hair.png",
+      "size_bytes": 1665809,
+      "source_sha256": "96fbdd41b12266536ae6626afb5d25fd7a0b2d97025751c0c4f62e473f582118",
+      "destination": "hiakari-inori/history/v3/source_art/gen_layers/front_hair.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/gen_layers/iris.png",
+      "size_bytes": 1158728,
+      "source_sha256": "419c3590ed0f2ff196dd4691e528f8eade4cbf0ab295c46e05156ba3e0a890fe",
+      "destination": "hiakari-inori/history/v3/source_art/gen_layers/iris.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/gen_layers/legwear.png",
+      "size_bytes": 1278031,
+      "source_sha256": "57c3c2edb9d4426041dd72e27af3ae6e4f8622c3cfc83fddaf582e92cfeab41d",
+      "destination": "hiakari-inori/history/v3/source_art/gen_layers/legwear.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/gen_layers/mask.png",
+      "size_bytes": 1275272,
+      "source_sha256": "1b237860868b676f2d7f7b17eaae515cb53df288e656740fb8206aee0a871e1e",
+      "destination": "hiakari-inori/history/v3/source_art/gen_layers/mask.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/gen_layers/mouth.png",
+      "size_bytes": 1164424,
+      "source_sha256": "528a73830a034e8dfe89040676a8bb34064ab9a66dba81ca79b48f286b127f1a",
+      "destination": "hiakari-inori/history/v3/source_art/gen_layers/mouth.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/gen_layers/mouth_open.png",
+      "size_bytes": 1167933,
+      "source_sha256": "7e6044679726ff217fe2e9d318cec5acdf56b97c294b8d5b3e153651d27b0004",
+      "destination": "hiakari-inori/history/v3/source_art/gen_layers/mouth_open.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/gen_layers/neck.png",
+      "size_bytes": 1259584,
+      "source_sha256": "8e6d6a355b6215f2264ab277a1de4910fed580a35d5a180921993c5d1663fa0a",
+      "destination": "hiakari-inori/history/v3/source_art/gen_layers/neck.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/gen_layers/nose.png",
+      "size_bytes": 1162676,
+      "source_sha256": "62008ceb21323eeda0f2d776330b14d1994460f5f3436a7e4edc1c16336422f1",
+      "destination": "hiakari-inori/history/v3/source_art/gen_layers/nose.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/gen_layers/obi.png",
+      "size_bytes": 1213496,
+      "source_sha256": "37580878b05bfd3b70cb516866cacf4d9dd0e8aa92df42571b93b1579814ce52",
+      "destination": "hiakari-inori/history/v3/source_art/gen_layers/obi.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/gen_layers/ribbon.png",
+      "size_bytes": 1248035,
+      "source_sha256": "0d6dad2a6557dd74c194b43088dd2f9543340679d9a62e00f59d9b53ab8fca10",
+      "destination": "hiakari-inori/history/v3/source_art/gen_layers/ribbon.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/gen_layers/skirt.png",
+      "size_bytes": 1354793,
+      "source_sha256": "b9d87c3efed6271422ed6ef7693fc36cc3799494d0dacad8b9a5761f16ccbee0",
+      "destination": "hiakari-inori/history/v3/source_art/gen_layers/skirt.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/gen_layers/sleeve_L.png",
+      "size_bytes": 1259433,
+      "source_sha256": "0041cf30a89c0f1de9976d7053a7d2332e70b23631f1424b289339c07fc40dae",
+      "destination": "hiakari-inori/history/v3/source_art/gen_layers/sleeve_L.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/gen_layers/sleeve_R.png",
+      "size_bytes": 1233330,
+      "source_sha256": "20b9c83b41433329267d832551535427c27550b2c1b7aa5e9248dc7d9549b793",
+      "destination": "hiakari-inori/history/v3/source_art/gen_layers/sleeve_R.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/gen_layers/tail_C.png",
+      "size_bytes": 1291530,
+      "source_sha256": "a163993e38bbfa6563360713cd9fc4b3d163d9943b83507ee792b97e28c869cf",
+      "destination": "hiakari-inori/history/v3/source_art/gen_layers/tail_C.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/gen_layers/tail_L.png",
+      "size_bytes": 1234188,
+      "source_sha256": "75d8d887a4c83064725e5c46cd0885bfa4b891553320bf6edba12ec30b771a28",
+      "destination": "hiakari-inori/history/v3/source_art/gen_layers/tail_L.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/gen_layers/tail_R.png",
+      "size_bytes": 1310735,
+      "source_sha256": "89aca1c48554b3b1c478e4ed756c15ecfa4a7c2f6646e2e5e1af69771b6898ab",
+      "destination": "hiakari-inori/history/v3/source_art/gen_layers/tail_R.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/gen_layers/top.png",
+      "size_bytes": 1213981,
+      "source_sha256": "68c3696acb395ba637be930550f62458dbe58f6203e4e03f3687afd30472b919",
+      "destination": "hiakari-inori/history/v3/source_art/gen_layers/top.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/gen_layers/twintail.png",
+      "size_bytes": 1175298,
+      "source_sha256": "80e0dd7bc1a7784d10b6f1e0db2c55ebf9d4241a0d6619d7498b2a3b33ea9eaf",
+      "destination": "hiakari-inori/history/v3/source_art/gen_layers/twintail.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/head_1.png",
+      "size_bytes": 2394755,
+      "source_sha256": "a39be1d5f19695ef0c75974a0185efc5b5e34a72f7f4ec828b49a3c029ed98db",
+      "destination": "hiakari-inori/history/v3/source_art/head_1.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v2/boot_L.png",
+      "size_bytes": 182121,
+      "source_sha256": "d61c8a0f4a1782a8402890c34db7d26af7c84d728636c4c79c2be1227a52381d",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v2/boot_L.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v2/boot_R.png",
+      "size_bytes": 179235,
+      "source_sha256": "89ba89a70d5e2f70bf23e7da567d64efa299e9a78611a878be3cd873bd7195c0",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v2/boot_R.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v2/codex_jobs/boot_L/input.png",
+      "size_bytes": 73594,
+      "source_sha256": "8efaf931d7e32c1595af2eb996f2a705ece0ba13ee2792c9ab1fa30ae76c5421",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v2/codex_jobs/boot_L/input.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v2/codex_jobs/boot_L/mask.png",
+      "size_bytes": 1192,
+      "source_sha256": "0ca15e4baea87021915fb4b3629b2ea8d76ff0c826ccf6bd3d2b9d6e06aa0a45",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v2/codex_jobs/boot_L/mask.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v2/codex_jobs/boot_L/output.png",
+      "size_bytes": 80647,
+      "source_sha256": "e8fa9e18d15237047261dd6ace56f032c9b7978dd48cf714c5d06e7a9137a8ad",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v2/codex_jobs/boot_L/output.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v2/codex_jobs/boot_L/prompt.txt",
+      "size_bytes": 1009,
+      "source_sha256": "c532a81357fc132726bd0bfcb74fdc7c0049bb3d4ac0f60d6a21de4c11155948",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs/boot_L/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v2/codex_jobs/foot_L/input.png",
+      "size_bytes": 7821,
+      "source_sha256": "fb7b39a065ad154093ee73a2553f05899ebb8d4b70c6444712cf3c0fa26a8042",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v2/codex_jobs/foot_L/input.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v2/codex_jobs/foot_L/mask.png",
+      "size_bytes": 1306,
+      "source_sha256": "3d9ced5a32511c8edbc99dcc63a11730178d18db6d9eec0c629384f01dd83046",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v2/codex_jobs/foot_L/mask.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v2/codex_jobs/foot_L/output.png",
+      "size_bytes": 49522,
+      "source_sha256": "abefc8ed5d5b2e4ca61f5b45639be92dc8993127b724a06bceefede3240b9306",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v2/codex_jobs/foot_L/output.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v2/codex_jobs/foot_L/prompt.txt",
+      "size_bytes": 1022,
+      "source_sha256": "2fc2b8928b589fffacfe857227a9a23118cd4b3cb776f30614b8472bda64c7b5",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs/foot_L/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v2/codex_jobs/foot_R/input.png",
+      "size_bytes": 8114,
+      "source_sha256": "06de88a93b402c2fdab5d208b01ffa10cf15aab359f6fd4df4b63c9a0aeb5d3a",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v2/codex_jobs/foot_R/input.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v2/codex_jobs/foot_R/mask.png",
+      "size_bytes": 1405,
+      "source_sha256": "9c2f24a05bf07d272cdc93d7165437c9f901f6a4c0f0c0dd20f6ea29e2605725",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v2/codex_jobs/foot_R/mask.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v2/codex_jobs/foot_R/output.png",
+      "size_bytes": 50186,
+      "source_sha256": "afebbbac94c79e295a1ab279b73267d3b5402d309399363049cc9ca95fd566fc",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v2/codex_jobs/foot_R/output.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v2/codex_jobs/foot_R/prompt.txt",
+      "size_bytes": 1022,
+      "source_sha256": "533e77688bafa15adf6c733731044fac493703b215194b0143d01e546e4d2873",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs/foot_R/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v2/codex_jobs/knee_L/input.png",
+      "size_bytes": 37026,
+      "source_sha256": "0e5614bc97d8f878bb16ac42deb4d831c8f4d887a4319a8f32d5cc2092c4b40a",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v2/codex_jobs/knee_L/input.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v2/codex_jobs/knee_L/mask.png",
+      "size_bytes": 1067,
+      "source_sha256": "5fac74cf9f7a3d48684680bae08c509fde4abd7471d154fe090f7831432b3f80",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v2/codex_jobs/knee_L/mask.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v2/codex_jobs/knee_L/output.png",
+      "size_bytes": 49183,
+      "source_sha256": "9fb4d3624ae52392eb9ffa365635e306a8a39365e8bc5f89ad3525acc682ec33",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v2/codex_jobs/knee_L/output.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v2/codex_jobs/knee_L/prompt.txt",
+      "size_bytes": 1025,
+      "source_sha256": "e338e25ef7f8f9e1679ba24a726b7c9e3d39ed5e1eecf3f3b45c6f41691094ab",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs/knee_L/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v2/codex_jobs/meta.json",
+      "size_bytes": 1701,
+      "source_sha256": "65637f0ff27c6a225abb6d0dc1a9511d322e859c800ca252bc033a914c46cfcf",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v2/codex_jobs/meta.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v2/codex_jobs/thigh_L/input.png",
+      "size_bytes": 63498,
+      "source_sha256": "531484ac5e2b665771e3117349c529781e36dfeb4655c1f779a37c691594bdbe",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v2/codex_jobs/thigh_L/input.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v2/codex_jobs/thigh_L/mask.png",
+      "size_bytes": 3633,
+      "source_sha256": "cffb3b0e2e12472b50c60f045b8d1b15811647f2a1ddbff1509603c7df785e63",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v2/codex_jobs/thigh_L/mask.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v2/codex_jobs/thigh_L/output.png",
+      "size_bytes": 100932,
+      "source_sha256": "93094e2f53573b29dcbdb6ceadb6483ea650ea288ac901ccd2eb050a666025ed",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v2/codex_jobs/thigh_L/output.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v2/codex_jobs/thigh_L/prompt.txt",
+      "size_bytes": 1081,
+      "source_sha256": "2053aa21611ced9955d430bbbeb5b2752e293d0db445c75eaf48a2ee4970a140",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs/thigh_L/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v2/codex_jobs/thigh_R/input.png",
+      "size_bytes": 68702,
+      "source_sha256": "9dc5a00ee059e946de55f871ba28c4b3405f4f7a74e1a52c5d614816936bfbfb",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v2/codex_jobs/thigh_R/input.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v2/codex_jobs/thigh_R/mask.png",
+      "size_bytes": 3272,
+      "source_sha256": "132f88dad30f8d5b5c41aaf0d5ec3f996c2c959a429c7e0ad72d8a1811b8f75b",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v2/codex_jobs/thigh_R/mask.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v2/codex_jobs/thigh_R/output.png",
+      "size_bytes": 94793,
+      "source_sha256": "cc37d67a06f94631c4caf5702a5755267f782752278ac0e5b2b8c82804a11e25",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v2/codex_jobs/thigh_R/output.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v2/codex_jobs/thigh_R/prompt.txt",
+      "size_bytes": 1086,
+      "source_sha256": "2dfa4cf66752fa02cdec023b6a4a56cee709d302583968469251e3a1373c531e",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs/thigh_R/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v2/garter_L.png",
+      "size_bytes": 62366,
+      "source_sha256": "50285fab188341b10312f1246951bc8d72d6494a6f0289f7027f9d391c90e453",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v2/garter_L.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v2/garter_R.png",
+      "size_bytes": 93306,
+      "source_sha256": "7cb87f756dba0b396e35bcdfa8c3485a8dacc4cee04839199267c46d0b7e3a73",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v2/garter_R.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v2/shin_L.png",
+      "size_bytes": 256522,
+      "source_sha256": "1cb82bc4d1a236ccd02ae5ca674f4dc0254b07fa46fa8b0f6a008d8a8e9e78e9",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v2/shin_L.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v2/shin_R.png",
+      "size_bytes": 272814,
+      "source_sha256": "7febfbe5ca15d4bab603e9a73d343064a528d237c0d5b370ae89a8f4733eb156",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v2/shin_R.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v2/skirt_nogarter.png",
+      "size_bytes": 965012,
+      "source_sha256": "a64329d95f0d01cda2ea95790feec23ce1f579c98e63dca680c8dcf439eae174",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v2/skirt_nogarter.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v2/thigh_L.png",
+      "size_bytes": 257192,
+      "source_sha256": "7c95d5cfa4934759c99b7687ce7f7486fa7e631448905a6b3bafcce3ffde03b8",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v2/thigh_L.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v2/thigh_R.png",
+      "size_bytes": 274006,
+      "source_sha256": "b6893376cd08dde442d8868a7a43bb749cc46b4cc59bf996cb02d3bf759f0c8f",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v2/thigh_R.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v3/boot_L.png",
+      "size_bytes": 182121,
+      "source_sha256": "d61c8a0f4a1782a8402890c34db7d26af7c84d728636c4c79c2be1227a52381d",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v3/boot_L.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v3/boot_R.png",
+      "size_bytes": 179235,
+      "source_sha256": "89ba89a70d5e2f70bf23e7da567d64efa299e9a78611a878be3cd873bd7195c0",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v3/boot_R.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v3/garter_L.png",
+      "size_bytes": 62366,
+      "source_sha256": "50285fab188341b10312f1246951bc8d72d6494a6f0289f7027f9d391c90e453",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v3/garter_L.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v3/garter_R.png",
+      "size_bytes": 93306,
+      "source_sha256": "7cb87f756dba0b396e35bcdfa8c3485a8dacc4cee04839199267c46d0b7e3a73",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v3/garter_R.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v3/jobs/knee4/input.png",
+      "size_bytes": 29998,
+      "source_sha256": "51ff564975a0d826a99966fa22eb44cea3630ea695f6d22ada0d8220e2a126de",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v3/jobs/knee4/input.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v3/jobs/knee4/mask.png",
+      "size_bytes": 1205,
+      "source_sha256": "7020200c17131954290cb0debae6f00abc960042d6fcd5c83ecc7bcd3252f338",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v3/jobs/knee4/mask.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v3/jobs/knee4/prompt.txt",
+      "size_bytes": 850,
+      "source_sha256": "835b9297ca916a622757c0e628e7e648f1c86c215f2c73e4d5b14bcb289ca18a",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/knee4/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v3/jobs/knee4_g2/input.png",
+      "size_bytes": 29998,
+      "source_sha256": "51ff564975a0d826a99966fa22eb44cea3630ea695f6d22ada0d8220e2a126de",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v3/jobs/knee4_g2/input.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v3/jobs/knee4_g2/mask.png",
+      "size_bytes": 1205,
+      "source_sha256": "7020200c17131954290cb0debae6f00abc960042d6fcd5c83ecc7bcd3252f338",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v3/jobs/knee4_g2/mask.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v3/jobs/knee4_g2/output.png",
+      "size_bytes": 35305,
+      "source_sha256": "32a3712f69c520356f9f6f24fc392a1afe77730b2473a3ade133b4da958713e0",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v3/jobs/knee4_g2/output.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v3/jobs/knee4_g2/prompt.txt",
+      "size_bytes": 850,
+      "source_sha256": "835b9297ca916a622757c0e628e7e648f1c86c215f2c73e4d5b14bcb289ca18a",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/knee4/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v3/jobs/thigh4_L/input.png",
+      "size_bytes": 59844,
+      "source_sha256": "4d9c92ff658df8c5c7f85726c56f6cecfc9c045c0298e843038dd86fb48ed68b",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v3/jobs/thigh4_L/input.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v3/jobs/thigh4_L/mask.png",
+      "size_bytes": 3872,
+      "source_sha256": "b3ad277e9b68dc6337e1a8f60057cddf6b88097653803b565da30ce9a9511488",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v3/jobs/thigh4_L/mask.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v3/jobs/thigh4_L/prompt.txt",
+      "size_bytes": 1223,
+      "source_sha256": "9c1372e72f838223cc403219e00fbd4a4aaa5282731b2400e09d1b81e754a013",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh4_L/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v3/jobs/thigh4_L_g3/input.png",
+      "size_bytes": 59844,
+      "source_sha256": "4d9c92ff658df8c5c7f85726c56f6cecfc9c045c0298e843038dd86fb48ed68b",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v3/jobs/thigh4_L_g3/input.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v3/jobs/thigh4_L_g3/mask.png",
+      "size_bytes": 3872,
+      "source_sha256": "b3ad277e9b68dc6337e1a8f60057cddf6b88097653803b565da30ce9a9511488",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v3/jobs/thigh4_L_g3/mask.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v3/jobs/thigh4_L_g3/output.png",
+      "size_bytes": 99372,
+      "source_sha256": "48cba22d6fee17586a3ac67ee1e5fb951bcc6b334dce34717de0f73b0e2afdac",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v3/jobs/thigh4_L_g3/output.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v3/jobs/thigh4_L_g3/prompt.txt",
+      "size_bytes": 1223,
+      "source_sha256": "9c1372e72f838223cc403219e00fbd4a4aaa5282731b2400e09d1b81e754a013",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh4_L/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v3/jobs/thigh4_R/input.png",
+      "size_bytes": 54206,
+      "source_sha256": "98a8fcefd1f1fbba08cd553b36e2faae94f5e2cc7534b818c2914f302dd58e4b",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v3/jobs/thigh4_R/input.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v3/jobs/thigh4_R/mask.png",
+      "size_bytes": 3026,
+      "source_sha256": "f8d9c793c2fb7b9be7d7bd243530b4312b0d310ed3129d658155a36cff9fdc8a",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v3/jobs/thigh4_R/mask.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v3/jobs/thigh4_R/prompt.txt",
+      "size_bytes": 1223,
+      "source_sha256": "15d8f1a344bdf703d7be5b64388cfce7980595c9c0c7ef7af3a5e95329311cfc",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh4_R/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v3/jobs/thigh5_L/input.png",
+      "size_bytes": 85508,
+      "source_sha256": "f2ebada944c95822e7ee10050171cadfa812995f2d5d114d58cff46768e70957",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v3/jobs/thigh5_L/input.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v3/jobs/thigh5_L/mask.png",
+      "size_bytes": 721,
+      "source_sha256": "b8db5e4193adb6760e71abc1e798610ac99913efc067fe1722670f28772304e2",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v3/jobs/thigh5_L/mask.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v3/jobs/thigh5_L/prompt.txt",
+      "size_bytes": 813,
+      "source_sha256": "70b164bfe6498debf299538597dc4bb90dc34f3e2c6760ab43954ff6131150fb",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh5_L/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v3/jobs/thigh5_L_g3/input.png",
+      "size_bytes": 85508,
+      "source_sha256": "f2ebada944c95822e7ee10050171cadfa812995f2d5d114d58cff46768e70957",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v3/jobs/thigh5_L_g3/input.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v3/jobs/thigh5_L_g3/mask.png",
+      "size_bytes": 721,
+      "source_sha256": "b8db5e4193adb6760e71abc1e798610ac99913efc067fe1722670f28772304e2",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v3/jobs/thigh5_L_g3/mask.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v3/jobs/thigh5_L_g3/output.png",
+      "size_bytes": 100886,
+      "source_sha256": "779b41b4d4f293ad58b28dcee5e4120625436b3371be2e397139ae857c2a0700",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v3/jobs/thigh5_L_g3/output.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v3/jobs/thigh5_L_g3/prompt.txt",
+      "size_bytes": 813,
+      "source_sha256": "70b164bfe6498debf299538597dc4bb90dc34f3e2c6760ab43954ff6131150fb",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh5_L/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v3/jobs/thigh6_R/input.png",
+      "size_bytes": 48131,
+      "source_sha256": "514d8ce75044ef75a7e68eca0b1136932c24fa1101c6f699e232e59d18d281bd",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v3/jobs/thigh6_R/input.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v3/jobs/thigh6_R/mask.png",
+      "size_bytes": 2791,
+      "source_sha256": "8b820e68c9f4f93afa7e3287e9a6b93d4d250eb7077c4dbf8cae517110ee2b06",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v3/jobs/thigh6_R/mask.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v3/jobs/thigh6_R/prompt.txt",
+      "size_bytes": 1201,
+      "source_sha256": "3e578d2f7550aec2c189fe400416166fb88190781d9b7c930bedb35c7e640e68",
+      "destination": "cases/hiakari-inori/prompts/art/inori/legs/jobs3/thigh6_R/prompt.txt",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v3/jobs/thigh6_R/reference.png",
+      "size_bytes": 101153,
+      "source_sha256": "125381c7423046c4e2e2f47a706f2e93ad8b05748c93dd9ae2707fda74ee2621",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v3/jobs/thigh6_R/reference.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v3/jobs/thigh6_R_mirror/output.png",
+      "size_bytes": 100147,
+      "source_sha256": "eea3a5b9b844744d14d1ecbe532f666c48fc79d4b66c2e3df83b5ab44fc33219",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v3/jobs/thigh6_R_mirror/output.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v3/shin_L.png",
+      "size_bytes": 259896,
+      "source_sha256": "2f4bf19a0640a1fcdb46398856406df712eb6f0aaf6666b30368c5ae123fd6f1",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v3/shin_L.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v3/shin_R.png",
+      "size_bytes": 276068,
+      "source_sha256": "9df408a4e1352f7a60b11b2df0388e66e707c3e6627798b9817344b1d3b46338",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v3/shin_R.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v3/skirt_nogarter.png",
+      "size_bytes": 965012,
+      "source_sha256": "a64329d95f0d01cda2ea95790feec23ce1f579c98e63dca680c8dcf439eae174",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v3/skirt_nogarter.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v3/thigh_L.png",
+      "size_bytes": 261270,
+      "source_sha256": "1c73509efd93210ebab099c773ae75c9c0d406b2a3ccb3ffd5456e9fb6997bf4",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v3/thigh_L.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/legs_v3/thigh_R.png",
+      "size_bytes": 276865,
+      "source_sha256": "97f9011d22c3736e33200fc4e7439bc2d4367781b22a466aaabc2e84a42ed858",
+      "destination": "hiakari-inori/history/v3/source_art/legs_v3/thigh_R.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/source_art/master_1.png",
+      "size_bytes": 1887159,
+      "source_sha256": "9962a45222efe8a29828b4f6280f5cfb176597ddd81ed496d1a70dd560262f62",
+      "destination": "hiakari-inori/history/v3/source_art/master_1.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Hiakari_Inori_v3/体验与建模笔记.md",
+      "size_bytes": 6643,
+      "source_sha256": "f9fecf4a0b585bb501cc04935b2c29d260ab4735e8372b0ecb98671b3ac9d85f",
+      "destination": "cases/hiakari-inori/workflow/history/v4/experience.md",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_final/Kirishima_Mio_v5/export_cubism/kirishima_full_k1.4096/texture_00.png",
+      "size_bytes": 4534337,
+      "source_sha256": "de4b757fe6b3192bbc3dbf079a6ec3071ea7342491d8b1002b73aee6745183f5",
+      "destination": "kirishima-mio/export_cubism/kirishima_full_k1.4096/texture_00.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Kirishima_Mio_v5/export_cubism/kirishima_full_k1.blink.motion3.json",
+      "size_bytes": 1155,
+      "source_sha256": "399f91b7bfac0666f589ab7c6daace5e33e5c6d6e7c6e7ca4024b6db48a65110",
+      "destination": "kirishima-mio/export_cubism/kirishima_full_k1.blink.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Kirishima_Mio_v5/export_cubism/kirishima_full_k1.cdi3.json",
+      "size_bytes": 4570,
+      "source_sha256": "11d28d57aab030cd5c3d55669f7d5cc5ed651dce5c0640d0f30a944ba3fd50c8",
+      "destination": "kirishima-mio/export_cubism/kirishima_full_k1.cdi3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Kirishima_Mio_v5/export_cubism/kirishima_full_k1.idle.motion3.json",
+      "size_bytes": 15999,
+      "source_sha256": "14674d50d8765df706ac253975629f7cffe97a2442248a41af59f68d9cd3f2dc",
+      "destination": "kirishima-mio/export_cubism/kirishima_full_k1.idle.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Kirishima_Mio_v5/export_cubism/kirishima_full_k1.moc3",
+      "size_bytes": 286272,
+      "source_sha256": "5d701d8ceebf3e01d35c425c60a102ed2795a792081f3c2f5b35e138a5eac540",
+      "destination": "kirishima-mio/export_cubism/kirishima_full_k1.moc3",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Kirishima_Mio_v5/export_cubism/kirishima_full_k1.moc3.report.json",
+      "size_bytes": 372,
+      "source_sha256": "2a7f4565a2151f7c95724e36a4e53c7aedfb087a6b262023f459b5c0905b9cd9",
+      "destination": "kirishima-mio/export_cubism/kirishima_full_k1.moc3.report.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Kirishima_Mio_v5/export_cubism/kirishima_full_k1.model3.json",
+      "size_bytes": 813,
+      "source_sha256": "cbe7f14e850f0cc229fe15594813fa69da4492235c325051ab4b694492160ae4",
+      "destination": "kirishima-mio/export_cubism/kirishima_full_k1.model3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Kirishima_Mio_v5/export_cubism/kirishima_full_k1.nod.motion3.json",
+      "size_bytes": 1751,
+      "source_sha256": "bfd9a247d5ec8479145c2dddfd5fdbf03e1c46df8d7460f07badd146c1e19418",
+      "destination": "kirishima-mio/export_cubism/kirishima_full_k1.nod.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Kirishima_Mio_v5/export_cubism/kirishima_full_k1.physics3.json",
+      "size_bytes": 8581,
+      "source_sha256": "71cb582301f81b1514db003938989b7adea3af85dc102b1d99c9a5e0aa537798",
+      "destination": "kirishima-mio/export_cubism/kirishima_full_k1.physics3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Kirishima_Mio_v5/export_cubism/kirishima_full_k1.shake.motion3.json",
+      "size_bytes": 1573,
+      "source_sha256": "81f50690b925cab5487c64cd1fc9781485a141f758a1f7085d36f0596bbfe54b",
+      "destination": "kirishima-mio/export_cubism/kirishima_full_k1.shake.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Kirishima_Mio_v5/export_vtube_studio/kirishima_full_k1.4096/texture_00.png",
+      "size_bytes": 4534337,
+      "source_sha256": "de4b757fe6b3192bbc3dbf079a6ec3071ea7342491d8b1002b73aee6745183f5",
+      "destination": "kirishima-mio/export_vtube_studio/kirishima_full_k1.4096/texture_00.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Kirishima_Mio_v5/export_vtube_studio/kirishima_full_k1.blink.motion3.json",
+      "size_bytes": 1155,
+      "source_sha256": "399f91b7bfac0666f589ab7c6daace5e33e5c6d6e7c6e7ca4024b6db48a65110",
+      "destination": "kirishima-mio/export_vtube_studio/kirishima_full_k1.blink.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Kirishima_Mio_v5/export_vtube_studio/kirishima_full_k1.cdi3.json",
+      "size_bytes": 4570,
+      "source_sha256": "11d28d57aab030cd5c3d55669f7d5cc5ed651dce5c0640d0f30a944ba3fd50c8",
+      "destination": "kirishima-mio/export_vtube_studio/kirishima_full_k1.cdi3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Kirishima_Mio_v5/export_vtube_studio/kirishima_full_k1.idle.motion3.json",
+      "size_bytes": 15999,
+      "source_sha256": "14674d50d8765df706ac253975629f7cffe97a2442248a41af59f68d9cd3f2dc",
+      "destination": "kirishima-mio/export_vtube_studio/kirishima_full_k1.idle.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Kirishima_Mio_v5/export_vtube_studio/kirishima_full_k1.moc3",
+      "size_bytes": 286272,
+      "source_sha256": "5d701d8ceebf3e01d35c425c60a102ed2795a792081f3c2f5b35e138a5eac540",
+      "destination": "kirishima-mio/export_vtube_studio/kirishima_full_k1.moc3",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Kirishima_Mio_v5/export_vtube_studio/kirishima_full_k1.model3.json",
+      "size_bytes": 813,
+      "source_sha256": "cbe7f14e850f0cc229fe15594813fa69da4492235c325051ab4b694492160ae4",
+      "destination": "kirishima-mio/export_vtube_studio/kirishima_full_k1.model3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Kirishima_Mio_v5/export_vtube_studio/kirishima_full_k1.nod.motion3.json",
+      "size_bytes": 1751,
+      "source_sha256": "bfd9a247d5ec8479145c2dddfd5fdbf03e1c46df8d7460f07badd146c1e19418",
+      "destination": "kirishima-mio/export_vtube_studio/kirishima_full_k1.nod.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Kirishima_Mio_v5/export_vtube_studio/kirishima_full_k1.physics3.json",
+      "size_bytes": 8581,
+      "source_sha256": "71cb582301f81b1514db003938989b7adea3af85dc102b1d99c9a5e0aa537798",
+      "destination": "kirishima-mio/export_vtube_studio/kirishima_full_k1.physics3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Kirishima_Mio_v5/export_vtube_studio/kirishima_full_k1.shake.motion3.json",
+      "size_bytes": 1573,
+      "source_sha256": "81f50690b925cab5487c64cd1fc9781485a141f758a1f7085d36f0596bbfe54b",
+      "destination": "kirishima-mio/export_vtube_studio/kirishima_full_k1.shake.motion3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Kirishima_Mio_v5/export_vtube_studio/kirishima_full_k1.vtube-studio.report.json",
+      "size_bytes": 542,
+      "source_sha256": "127607ef7d129ca9731399a6b1e1cb289da06fdd9933cf40215c11fc44850955",
+      "destination": "kirishima-mio/export_vtube_studio/kirishima_full_k1.vtube-studio.report.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Kirishima_Mio_v5/export_vtube_studio/kirishima_full_k1.vtube.json",
+      "size_bytes": 10330,
+      "source_sha256": "1bbf78b16dadb3159c4b0e618669da111a0a66bbaf834b4033062418093bd563",
+      "destination": "kirishima-mio/export_vtube_studio/kirishima_full_k1.vtube.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Kirishima_Mio_v5/kirishima_mio_fullbody.psd2live",
+      "size_bytes": 61155449,
+      "source_sha256": "374e20b431e638ce24961c8803ed5d30488fca6ebb4ca312752d5923eacc0104",
+      "destination": "kirishima-mio/kirishima_mio_fullbody.psd2live",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Kirishima_Mio_v5/kirishima_mio_fullbody_layers.psd",
+      "size_bytes": 31646422,
+      "source_sha256": "616ba22bc67a73e023e1e13f7a520351b97cce53be6b77dbd8cf2fab05823797",
+      "destination": "kirishima-mio/kirishima_mio_fullbody_layers.psd",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Kirishima_Mio_v5/pipeline/assemble3.py",
+      "size_bytes": 1825,
+      "source_sha256": "ba899b899cc7df1fd77edde665dd60788c39efb5dd3a2d415f112210fc732ccf",
+      "destination": "cases/hiakari-inori/workflow/tools/assemble3.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/Kirishima_Mio_v5/pipeline/build_psd_full.py",
+      "size_bytes": 1197,
+      "source_sha256": "2153aed1171b71628e2e2b5f9c0ea6e38800031f5688b3270861173246ae16d5",
+      "destination": "cases/hiakari-inori/workflow/tools/build_psd_full.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/Kirishima_Mio_v5/pipeline/headbuild3.py",
+      "size_bytes": 2395,
+      "source_sha256": "f63ba98366c964cecee22951657eb80f79b4a0ce7f41c63ccbe1d299bd7adec0",
+      "destination": "cases/hiakari-inori/workflow/tools/headbuild3.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/Kirishima_Mio_v5/pipeline/headparams3.json",
+      "size_bytes": 168,
+      "source_sha256": "89784a2c0c532f5c72c1dbdd382c159d0b5e1c67ff4165fc9ba8fd8e06b2b37f",
+      "destination": "kirishima-mio/pipeline/headparams3.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Kirishima_Mio_v5/pipeline/key.py",
+      "size_bytes": 1328,
+      "source_sha256": "9edf1e1365852644897e761c3a5189b3e4469d10e481f5d7bf81221d3b8ddef1",
+      "destination": "cases/hiakari-inori/workflow/tools/key.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/Kirishima_Mio_v5/pipeline/mkpsd.py",
+      "size_bytes": 1117,
+      "source_sha256": "7c65d7d8ff67d9c54b0feec53cdafb6658f137a5d48365ae1864ed4299bac838",
+      "destination": "cases/hiakari-inori/workflow/tools/mkpsd.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/Kirishima_Mio_v5/preview/kirishima_full_k1.webm",
+      "size_bytes": 2461724,
+      "source_sha256": "c9985989c1a44c82b4a48bee1b020f36d4c6aa03a94a2a69ad600d4281efcf57",
+      "destination": "kirishima-mio/preview/kirishima_full_k1.webm",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Kirishima_Mio_v5/preview/kirishima_full_k1.webm.report.json",
+      "size_bytes": 213,
+      "source_sha256": "23292a4c8a83c72e3e089375a19389b563866aecd0e1e3cc3edaaf0fbf9ca96d",
+      "destination": "kirishima-mio/preview/kirishima_full_k1.webm.report.json",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Kirishima_Mio_v5/PSD2Live_体验笔记.md",
+      "size_bytes": 12569,
+      "source_sha256": "11007dee1d6e6a53bbde58acf63c9699633c7e33d42709b75318758607abd72c",
+      "destination": "cases/kirishima-mio/workflow/experience.md",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/Kirishima_Mio_v5/README.md",
+      "size_bytes": 1237,
+      "source_sha256": "5807fad1adc8ce75c0167c628488249261f24e3df8a6c91e528c9423a14f66bc",
+      "destination": "cases/kirishima-mio/workflow/historical-README.md",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/Kirishima_Mio_v5/renders/01_fullbody_transparent.png",
+      "size_bytes": 2038307,
+      "source_sha256": "dce8fbb3543581a0401d6048c67052f61ec3802d97c71ab6994209da1682e339",
+      "destination": "kirishima-mio/renders/01_fullbody_transparent.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Kirishima_Mio_v5/renders/01_fullbody_white.png",
+      "size_bytes": 1752550,
+      "source_sha256": "fe4490b4da62330bc380ae3861982e9c479f9dd9ec35ea7cb7fc750929c7054d",
+      "destination": "kirishima-mio/renders/01_fullbody_white.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Kirishima_Mio_v5/renders/02_head_transparent.png",
+      "size_bytes": 1461790,
+      "source_sha256": "fefc0ddeb01835be8e14621ed3118e9f3d99a297d7237f3970f82b03e04d2331",
+      "destination": "kirishima-mio/renders/02_head_transparent.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Kirishima_Mio_v5/renders/02_head_white.png",
+      "size_bytes": 1266963,
+      "source_sha256": "ce715314abc7591df52130b104a594df2330d34d127af5c94fcaf153a404b473",
+      "destination": "kirishima-mio/renders/02_head_white.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Kirishima_Mio_v5/renders/03_expression_sheet.png",
+      "size_bytes": 1527421,
+      "source_sha256": "23f3af54b723bdd837e232a26247591a0acea98b9926c26623eaeb14cc368cfb",
+      "destination": "kirishima-mio/renders/03_expression_sheet.png",
+      "kind": "release"
+    },
+    {
+      "source": "Live2D_final/Live2D_PSD2Live_完整流程手册.md",
+      "size_bytes": 73473,
+      "source_sha256": "225d870929b1308488389ade21ad0d0f850500188c790eea83b343df813a68ae",
+      "destination": "cases/hiakari-inori/workflow/guide.md",
+      "kind": "duplicate"
+    },
+    {
+      "source": "Live2D_final/tools/align.py",
+      "size_bytes": 2843,
+      "source_sha256": "1c6eb87f612e851f3c7ab3890970fe0c5271ca954c2fc71428c43d6fb84c7f60",
+      "destination": "cases/hiakari-inori/workflow/tools/align.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/assemble3.py",
+      "size_bytes": 1825,
+      "source_sha256": "ba899b899cc7df1fd77edde665dd60788c39efb5dd3a2d415f112210fc732ccf",
+      "destination": "cases/hiakari-inori/workflow/tools/assemble3.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/bodycomp.py",
+      "size_bytes": 1111,
+      "source_sha256": "a60a0d0cf716b97b96cb9f534ae67e252a342feecc3640b02b14152fb32bed50",
+      "destination": "cases/hiakari-inori/workflow/tools/bodycomp.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/bodyfit.py",
+      "size_bytes": 1258,
+      "source_sha256": "f3a92a4a350e79ad612a62e51eb2a3db3640090d8a641afdfac44ee857c7a216",
+      "destination": "cases/hiakari-inori/workflow/tools/bodyfit.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/build2x.py",
+      "size_bytes": 1194,
+      "source_sha256": "28b45cd3a1ecb11e78b25a20caca663256657fb87d3c45082accebeab2617850",
+      "destination": "cases/hiakari-inori/workflow/tools/build2x.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/build_psd_full.py",
+      "size_bytes": 1197,
+      "source_sha256": "2153aed1171b71628e2e2b5f9c0ea6e38800031f5688b3270861173246ae16d5",
+      "destination": "cases/hiakari-inori/workflow/tools/build_psd_full.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/compnpz.py",
+      "size_bytes": 737,
+      "source_sha256": "0116325880b930597245d822e44b11a6cfd9a8629c0c44588c94e549d2a03965",
+      "destination": "cases/hiakari-inori/workflow/tools/compnpz.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/compose.py",
+      "size_bytes": 6178,
+      "source_sha256": "a997a8981f580d4a6d702d44d6841e168d4ee4d953891ae7ceb3a14198ff53d6",
+      "destination": "cases/hiakari-inori/workflow/tools/compose.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/compose_full.py",
+      "size_bytes": 3163,
+      "source_sha256": "82ee3250bbb5f73e41754942a0ef4fa384ecfeafe2005ecc84d889c3568e0d9c",
+      "destination": "cases/hiakari-inori/workflow/tools/compose_full.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/ecc.py",
+      "size_bytes": 1754,
+      "source_sha256": "60027dfa03e0cbce6490b7d34c26f9d3d96dae0481516fb4155979c25b4c4cf1",
+      "destination": "cases/hiakari-inori/workflow/tools/ecc.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/ecc_body.py",
+      "size_bytes": 1753,
+      "source_sha256": "f057ad49f3dd3c1b49029fc9cb4a817468b2776331874b2745a54f02885e5010",
+      "destination": "cases/hiakari-inori/workflow/tools/ecc_body.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/fixeyes.py",
+      "size_bytes": 931,
+      "source_sha256": "baacd26a8b935ad5599b6c787badd87db0e41d67dc438cc273738e33cf8eb6c7",
+      "destination": "cases/hiakari-inori/workflow/tools/fixeyes.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/gk_comp.py",
+      "size_bytes": 519,
+      "source_sha256": "efbb1177107a974bb3cfc39751877e7fee93e12f4935514a3891a7b8b2781d54",
+      "destination": "cases/hiakari-inori/workflow/tools/gk_comp.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/gk_score.py",
+      "size_bytes": 672,
+      "source_sha256": "f1044ab6400f2b7a3c2406baab7ba27cfa757758986103993d2d62bea7992194",
+      "destination": "cases/hiakari-inori/workflow/tools/gk_score.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/headbuild3.py",
+      "size_bytes": 2395,
+      "source_sha256": "f63ba98366c964cecee22951657eb80f79b4a0ce7f41c63ccbe1d299bd7adec0",
+      "destination": "cases/hiakari-inori/workflow/tools/headbuild3.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/headcomp.py",
+      "size_bytes": 1186,
+      "source_sha256": "26d2e865147230e633482a1abdc26fe7fe5cbfa23ee1a2e793a02144c0ac047c",
+      "destination": "cases/hiakari-inori/workflow/tools/headcomp.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/headcomp3.py",
+      "size_bytes": 1195,
+      "source_sha256": "e667720643a94398d092ba838455d3e33b97548368117580084c0dee0da583fd",
+      "destination": "cases/hiakari-inori/workflow/tools/headcomp3.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/headfit.py",
+      "size_bytes": 2078,
+      "source_sha256": "1df5399f460564675eb2e8f8288c3bbd9fcab9f24b014d05fcbbce24c8e9cb80",
+      "destination": "cases/hiakari-inori/workflow/tools/headfit.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/headfit3.py",
+      "size_bytes": 3454,
+      "source_sha256": "e406c27c55408f41c12c486451bb9c99c86cee3ecfa90ed23acbafafc75ff70b",
+      "destination": "cases/hiakari-inori/workflow/tools/headfit3.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/hf_edit.py",
+      "size_bytes": 4240,
+      "source_sha256": "fd2da0eec951da888e67b9eacf166194925d3f50e094096bdf6a775b10ebed58",
+      "destination": "cases/hiakari-inori/workflow/tools/hf_edit.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/hsearch.py",
+      "size_bytes": 1332,
+      "source_sha256": "8318676a9d591b24496baed6d75a932dab2b88a6b56990ef42eef0fecf2d5fbe",
+      "destination": "cases/hiakari-inori/workflow/tools/hsearch.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/ino_align.py",
+      "size_bytes": 3429,
+      "source_sha256": "5ac178c8edb49f03c00915acacf847b1509e0d8321c1d5aca7c0ce3dd11e3fac",
+      "destination": "cases/hiakari-inori/workflow/tools/ino_align.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/ino_align2.py",
+      "size_bytes": 4016,
+      "source_sha256": "986ac700c0678f0d01033a144ef2c46d334be59e098bc12302c7b1720a5313fb",
+      "destination": "cases/hiakari-inori/workflow/tools/ino_align2.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/ino_align3.py",
+      "size_bytes": 3618,
+      "source_sha256": "be9a3f972d748864cba583a5c608588920742e20de380207bf601431f85a4b72",
+      "destination": "cases/hiakari-inori/workflow/tools/ino_align3.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/ino_align5.py",
+      "size_bytes": 1345,
+      "source_sha256": "fe23047fafca31edc88be192b01d68b10c8f02cf1f9f1ba6afb91822702aa273",
+      "destination": "cases/hiakari-inori/workflow/tools/ino_align5.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/ino_build.py",
+      "size_bytes": 2682,
+      "source_sha256": "840d8cdb5c888f8688cdd60fb849929643b75d5cab573962fa6bf80973430924",
+      "destination": "cases/hiakari-inori/workflow/tools/ino_build.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/ino_comp.py",
+      "size_bytes": 721,
+      "source_sha256": "93bab893c0c9b8b751db47ec8c0b2b78ee37adb79a02517dcf5d899383db057e",
+      "destination": "cases/hiakari-inori/workflow/tools/ino_comp.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/ino_gen.py",
+      "size_bytes": 7709,
+      "source_sha256": "4a6e739bca7ab2b0546564d6476b29e599033201ef888ab87ba5076b43f0a8a1",
+      "destination": "cases/hiakari-inori/workflow/tools/ino_gen.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/ino_psd.py",
+      "size_bytes": 1571,
+      "source_sha256": "3da8419233e13f836eb946a6f5365117bd817ebd6c54902a4a25dc160725bae9",
+      "destination": "cases/hiakari-inori/workflow/tools/ino_psd.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/ino_psd2.py",
+      "size_bytes": 1793,
+      "source_sha256": "59c6d6a97354d433a56a58e73c0b46a8c02f258d6186ef2604c6a8a98a6d5fca",
+      "destination": "cases/hiakari-inori/workflow/tools/ino_psd2.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/ino_psd3.py",
+      "size_bytes": 1794,
+      "source_sha256": "034ecc16c8b26b0618cce68929f56b3b6fc461dd13f81d46ab56077769b7f086",
+      "destination": "cases/hiakari-inori/workflow/tools/ino_psd3.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/ino_sift.py",
+      "size_bytes": 2059,
+      "source_sha256": "56488ac664d7c9d90307ef49573430a0be5e522d8f179d3227cf06f33db8610d",
+      "destination": "cases/hiakari-inori/workflow/tools/ino_sift.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/iou2.py",
+      "size_bytes": 1278,
+      "source_sha256": "742ed46ed643984fe0ce0cf4c3ab292cea625a7bb53bf6b6f5b40abac63e223a",
+      "destination": "cases/hiakari-inori/workflow/tools/iou2.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/key.py",
+      "size_bytes": 1328,
+      "source_sha256": "9edf1e1365852644897e761c3a5189b3e4469d10e481f5d7bf81221d3b8ddef1",
+      "destination": "cases/hiakari-inori/workflow/tools/key.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/leg_assemble.py",
+      "size_bytes": 2560,
+      "source_sha256": "7e0b5ec0002347776c3589974f1ea55d75ebf48b848f6abd01ba5b59f0538c80",
+      "destination": "cases/hiakari-inori/workflow/tools/leg_assemble.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/leg_assemble3.py",
+      "size_bytes": 3338,
+      "source_sha256": "cec4d6fb7a875204d6dc2de1d9b60180084ec0ea12de49d6f5ddc91397928e14",
+      "destination": "cases/hiakari-inori/workflow/tools/leg_assemble3.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/leg_check.py",
+      "size_bytes": 1506,
+      "source_sha256": "c39c8561552c9c7d72854249c4661d86484dec861b954ecaaa8d5161d1e0c39f",
+      "destination": "cases/hiakari-inori/workflow/tools/leg_check.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/leg_check3.py",
+      "size_bytes": 1511,
+      "source_sha256": "72af7f64f155c40a741caf6a17be7d5f196e4a46a35d598c9888dd2ad072f47d",
+      "destination": "cases/hiakari-inori/workflow/tools/leg_check3.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/leg_jobs.py",
+      "size_bytes": 2977,
+      "source_sha256": "b47a251ed8a07ecc075eb739c6605bb78661c202fa9e8fbe0012f504893e26c9",
+      "destination": "cases/hiakari-inori/workflow/tools/leg_jobs.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/leg_knee3.py",
+      "size_bytes": 1734,
+      "source_sha256": "3c85127d3bd86b457a39de229e5ff08d4b12d802e0347d412ee8e2ef70f849a6",
+      "destination": "cases/hiakari-inori/workflow/tools/leg_knee3.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/leg_mask.py",
+      "size_bytes": 996,
+      "source_sha256": "e73d90c72c040957b99a6cded347d27c78f8bdcc16399cada1f6434cbc741546",
+      "destination": "cases/hiakari-inori/workflow/tools/leg_mask.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/leg_split.py",
+      "size_bytes": 3862,
+      "source_sha256": "fe661d0bad32be1c02c50db1895131c2c12e6b8619ffcd4bbc0b22c4879e812d",
+      "destination": "cases/hiakari-inori/workflow/tools/leg_split.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/leg_sr.py",
+      "size_bytes": 424,
+      "source_sha256": "54bfe9162aa5ea887a413de950f2ec98c76776d08024a161fc1329c98575165a",
+      "destination": "cases/hiakari-inori/workflow/tools/leg_sr.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/leg_thigh3.py",
+      "size_bytes": 3016,
+      "source_sha256": "b3b3550bfb84a8f9565f03c026621ebfc2399a6969bcb061efc36cb89dafdd88",
+      "destination": "cases/hiakari-inori/workflow/tools/leg_thigh3.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/m.py",
+      "size_bytes": 421,
+      "source_sha256": "fa4cbdd5ca511ad62bf06afaab6017e95719f1dd1b6e6df5e7ce1bff20a312b8",
+      "destination": "cases/hiakari-inori/workflow/tools/m.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/mkcomp.py",
+      "size_bytes": 1886,
+      "source_sha256": "b6db70eff6b02ca9a458e149dedf8d882d639f2d4684750090598a584e644c86",
+      "destination": "cases/hiakari-inori/workflow/tools/mkcomp.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/mkpsd.py",
+      "size_bytes": 1117,
+      "source_sha256": "7c65d7d8ff67d9c54b0feec53cdafb6658f137a5d48365ae1864ed4299bac838",
+      "destination": "cases/hiakari-inori/workflow/tools/mkpsd.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/mt.py",
+      "size_bytes": 1748,
+      "source_sha256": "89f0738ce3017d4782fba2718113fc33baef01a360464781946a49e506cbde0b",
+      "destination": "cases/hiakari-inori/workflow/tools/mt.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/mview.py",
+      "size_bytes": 590,
+      "source_sha256": "23e4ae150f3e22339c1555aa7a79f3741a792f1c11626f6b3b62bd81e41ea586",
+      "destination": "cases/hiakari-inori/workflow/tools/mview.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/p2l.py",
+      "size_bytes": 765,
+      "source_sha256": "f30f595ec5799ea14246860cb767ae382d00b67e444c60796306a9aabb24fdc7",
+      "destination": "cases/hiakari-inori/workflow/tools/p2l.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/p2l_v3.py",
+      "size_bytes": 1942,
+      "source_sha256": "4089890b0c0cecea6c0b65bb941e3537f5836d6fd9bb3d983bb6d8b17ded9b74",
+      "destination": "cases/hiakari-inori/workflow/tools/p2l_v3.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/p2l_v3exp.py",
+      "size_bytes": 651,
+      "source_sha256": "a85fce8e5b4c237084e0569149055a225e89b3f0b972fc330e44ae3899ddd6e0",
+      "destination": "cases/hiakari-inori/workflow/tools/p2l_v3exp.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/p2l_w.py",
+      "size_bytes": 395,
+      "source_sha256": "a6b2312dde69eb77dfc6437f71d7d907991f9c9075c483934fcf8a1f34a39b75",
+      "destination": "cases/hiakari-inori/workflow/tools/p2l_w.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/probe_spaces.py",
+      "size_bytes": 683,
+      "source_sha256": "bd4a564cb74e9a1767f8bda1230a8647700de129606378c9651476055eb28409",
+      "destination": "cases/hiakari-inori/workflow/tools/probe_spaces.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/reg.py",
+      "size_bytes": 1038,
+      "source_sha256": "393531bb5c65124563014c28170481ad60b3b2bac9f538f73383ae3ff01b28e5",
+      "destination": "cases/hiakari-inori/workflow/tools/reg.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/rv.sh",
+      "size_bytes": 400,
+      "source_sha256": "5cb69529f6563b021cdb04ec98894893e107401e2db37f779b0e71a34f55e5b7",
+      "destination": "cases/hiakari-inori/workflow/tools/rv.sh",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/sr.py",
+      "size_bytes": 4770,
+      "source_sha256": "f3ceee24fe498934994223d7120ad2b638c77542de500d0c98e8419e380e0531",
+      "destination": "cases/hiakari-inori/workflow/tools/sr.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/symmetrize.py",
+      "size_bytes": 1475,
+      "source_sha256": "6ccceaceb791a32688bacbd6f354052c108d6f811f986e61329e98cbaa0a9a3f",
+      "destination": "cases/hiakari-inori/workflow/tools/symmetrize.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/tm.py",
+      "size_bytes": 1566,
+      "source_sha256": "f3f13b64acef654548b4879ff5431336859a48546c6c67833bd3260c30c5cdd6",
+      "destination": "cases/hiakari-inori/workflow/tools/tm.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/try_edit.py",
+      "size_bytes": 864,
+      "source_sha256": "31847c2236e9d8eacbd99fe73f2c578147749ee690f05714e7bb92c3712454f4",
+      "destination": "cases/hiakari-inori/workflow/tools/try_edit.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/up_all.py",
+      "size_bytes": 771,
+      "source_sha256": "7bf3839946667993674d7bb92c3b1308423c2331fabb5851688e25fda977c686",
+      "destination": "cases/hiakari-inori/workflow/tools/up_all.py",
+      "kind": "sanitized-text"
+    },
+    {
+      "source": "Live2D_final/tools/upscale.py",
+      "size_bytes": 4133,
+      "source_sha256": "66466971eb3af08366635577448166351c2625c60c7b5384f41c7885b9fbb53c",
+      "destination": "cases/hiakari-inori/workflow/tools/upscale.py",
+      "kind": "sanitized-text"
+    }
+  ]
+}

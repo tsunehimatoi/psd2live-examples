@@ -1,0 +1,22 @@
+{
+  "source_project": "project/hiakari_inori_layers_v3.psd2live",
+  "source_sha256": "1efc0f216fd726371e059e3fbb7c1f57004a4ffaf9882e54e14b8bc7e6cd5144",
+  "generator": "ReadmeShowcaseTool.bodyOrbit",
+  "product_commit": "372b9e7936df66e936606a4f0c20734da39b066c",
+  "parameters": {
+    "PSD2LIVE_ORBIT": "8,10",
+    "PSD2LIVE_ORBIT_PERIOD": "1.2",
+    "PSD2LIVE_ORBIT_SIZE": "600"
+  },
+  "png_frames_per_variant": 172,
+  "png_fps": 30,
+  "gif_size": [
+    320,
+    480
+  ],
+  "gif_frames": 86,
+  "gif_duration_ms": 5740,
+  "simulation_groups": 7,
+  "on_off_difference_observed": true,
+  "note": "源工程未改写；动作在内存副本中加入。GIF 为白底循环展示，不是像素级验收基准。"
+}

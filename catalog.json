@@ -13,6 +13,14 @@
     {
       "id": "star_lan",
       "manifest": "cases/star_lan/manifest.json"
+    },
+    {
+      "id": "hiakari-inori",
+      "manifest": "cases/hiakari-inori/manifest.json"
+    },
+    {
+      "id": "kirishima-mio",
+      "manifest": "cases/kirishima-mio/manifest.json"
     }
   ]
 }
