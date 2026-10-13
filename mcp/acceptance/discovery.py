@@ -82,7 +82,8 @@ def main():
         if not required.issubset(names):
             raise ValueError("Required workspace discovery tools are missing")
         result = client.call("tools/call", {"name": "workspace_list_operations", "arguments": {"limit": 1}})
-        if result.get("isError") or not result.get("structuredContent"):
+        content = result.get("structuredContent", {})
+        if result.get("isError") or content.get("error") or not content.get("data", {}).get("items"):
             raise ValueError("Operation discovery failed")
         print(f"MCP discovery passed: {len(names)} tools, protocol {client.version}")
     finally:
