@@ -28,7 +28,7 @@ python scripts/fetch.py --case tml
 
 ## 投稿
 
-无需 Git：在 [案例投稿](https://github.com/tsunehimatoi/psd2live-examples/issues/new/choose) 中描述目标、步骤和效果，附上素材（大文件贴网盘链接），维护者整理后发布。未完成或失败的尝试同样欢迎。
+无需 Git：在 [案例投稿](https://github.com/tsunehimatoi/psd2live-examples/issues/new/choose) 中附上示例（大文件贴网盘链接），写一两句做了什么、效果如何即可，维护者整理后发布。未完成或失败的尝试同样欢迎，不接受广告。
 
 提交 PR 及内容要求见 [投稿指南](CONTRIBUTING.md)。
 
