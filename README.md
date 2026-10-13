@@ -1,5 +1,7 @@
 # PSD2Live Examples
 
+[English](docs/en/README.md) · [日本語](docs/ja/README.md) · [한국어](docs/ko/README.md)
+
 [主项目](https://github.com/tsunehimatoi/psd2live) · [案例索引](cases/README.md) · [下载素材](https://github.com/tsunehimatoi/psd2live-examples/releases) · [案例投稿](https://github.com/tsunehimatoi/psd2live-examples/issues/new/choose) · [投稿指南](CONTRIBUTING.md)
 
 PSD2Live 的示例素材、工程、导出模型，以及制作经验、Prompt 和 Skill。下载即可复现，也欢迎分享你的案例。
@@ -28,7 +30,7 @@ python scripts/fetch.py --case tml
 
 ## 投稿
 
-无需 Git：在 [案例投稿](https://github.com/tsunehimatoi/psd2live-examples/issues/new/choose) 中附上示例（大文件贴网盘链接），写一两句做了什么、效果如何即可，维护者整理后发布。未完成或失败的尝试同样欢迎，不接受广告。
+无需 Git：在 [案例投稿](https://github.com/tsunehimatoi/psd2live-examples/issues/new/choose) 中附上示例（大文件贴网盘链接），写一两句做了什么、效果如何即可，维护者整理后发布。语言不限，未完成或失败的尝试同样欢迎，不接受广告。
 
 提交 PR 及内容要求见 [投稿指南](CONTRIBUTING.md)。
 

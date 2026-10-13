@@ -1,5 +1,7 @@
 # 案例索引
 
+[English](../docs/en/CASES.md) · [日本語](../docs/ja/CASES.md) · [한국어](../docs/ko/CASES.md)
+
 [返回首页](../README.md) · [案例投稿](https://github.com/tsunehimatoi/psd2live-examples/issues/new/choose) · [投稿指南](../CONTRIBUTING.md)
 
 <table>

@@ -1,11 +1,14 @@
 name: 分享案例
-description: 分享素材、模型、制作流程、Prompt、Skill 或 MCP 场景
+description: 分享素材、模型、制作流程、Prompt、Skill 或 MCP 场景 / Share assets, models, workflows, prompts, skills or MCP scenarios
 title: "[Case] "
 body:
+  - type: markdown
+    attributes:
+      value: 语言不限 · Any language · 言語不問 · 언어 무관。只需附上示例并写一两句说明，其余均可选；不接受广告。
   - type: checkboxes
     id: contents
     attributes:
-      label: 包含内容
+      label: 包含内容 / Contents
       options:
         - label: 素材或工程（PSD、.psd2live、导出模型）
         - label: 制作流程、脚本或经验
@@ -15,7 +18,7 @@ body:
   - type: textarea
     id: result
     attributes:
-      label: 简介与效果
+      label: 简介与效果 / Summary
       description: 一两句话说明做了什么、效果如何。有预览图或录屏可直接拖入。
       placeholder: 例：立绘拆层后自动生成，加了眨眼和摇头；头发物理正常。
     validations:
@@ -23,31 +26,31 @@ body:
   - type: textarea
     id: reproduction
     attributes:
-      label: 环境与步骤（可选）
+      label: 环境与步骤（可选）/ Environment and steps (optional)
       description: 制作所用的 PSD2Live 版本与主要步骤；使用 AI 时注明客户端、模型、Prompt 或 Skill。
   - type: textarea
     id: issues
     attributes:
-      label: 已知问题（可选）
+      label: 已知问题（可选）/ Known issues (optional)
       description: 效果不足之处与失败的尝试。
       placeholder: 例：袖子摆动穿模；眼睛细节在高清化后丢失。
   - type: textarea
     id: assets
     attributes:
-      label: 文件
+      label: 文件 / Files
       description: 示例本身。25 MB 以内直接拖入，更大的文件提供免登录下载链接。
     validations:
       required: true
   - type: textarea
     id: source
     attributes:
-      label: 作者与来源（可选）
+      label: 作者与来源（可选）/ Author and source (optional)
       description: 署名方式，素材来源；需要其他许可时在此注明，不填则按 CC0 1.0 发布。
       placeholder: 例：作者 grok bot；原画由 GPT Image 生成，未参考现有作品。
   - type: checkboxes
     id: terms
     attributes:
-      label: 确认
+      label: 确认 / Confirm
       options:
         - label: 我有权分享这些内容，并同意未注明许可的内容按 CC0 1.0 发布；内容中不含令牌或私人信息。
           required: true
