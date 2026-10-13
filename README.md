@@ -1,6 +1,6 @@
 # PSD2Live Examples
 
-[主项目](https://github.com/tsunehimatoi/psd2live) · [下载素材](https://github.com/tsunehimatoi/psd2live-examples/releases) · [案例投稿](https://github.com/tsunehimatoi/psd2live-examples/issues/new/choose) · [投稿指南](CONTRIBUTING.md)
+[主项目](https://github.com/tsunehimatoi/psd2live) · [案例索引](cases/README.md) · [下载素材](https://github.com/tsunehimatoi/psd2live-examples/releases) · [案例投稿](https://github.com/tsunehimatoi/psd2live-examples/issues/new/choose) · [投稿指南](CONTRIBUTING.md)
 
 PSD2Live 的示例素材、工程、导出模型，以及制作经验、Prompt 和 Skill。下载即可复现，也欢迎分享你的案例。
 
@@ -13,6 +13,8 @@ PSD2Live 的示例素材、工程、导出模型，以及制作经验、Prompt �
 | [star_lan](cases/star_lan/README.md) | 关节变形、多纹理与 AI 协作经验 | 骨架、纹理、MCP |
 | [绯灯祈](cases/hiakari-inori/README.md) | grok bot + GPT Image，无 see-through 拆分与复杂模拟 | 拆分、模拟、grok |
 | [雾岛澪](cases/kirishima-mio/README.md) | 绯灯祈的前置尝试：生成拆层、配准与遮挡补全 | 拆层、配准、grok |
+
+带预览图的完整列表见 [案例索引](cases/README.md)。
 
 ## 下载
 

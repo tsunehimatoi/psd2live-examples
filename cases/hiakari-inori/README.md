@@ -1,6 +1,6 @@
 # 绯灯祈 · 无 see-through 拆分与复杂模拟
 
-[案例索引](../../README.md) · [下载素材包](https://github.com/tsunehimatoi/psd2live-examples/releases/download/assets-v2/hiakari-inori-1.0.0.zip) · [文件清单](manifest.json)
+[案例索引](../README.md) · [下载素材包](https://github.com/tsunehimatoi/psd2live-examples/releases/download/assets-v2/hiakari-inori-1.0.0.zip) · [文件清单](manifest.json)
 
 ![动作与模拟预览](preview.gif)
 

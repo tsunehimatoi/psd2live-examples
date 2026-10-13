@@ -28,6 +28,7 @@ cases/
 - `<id>` 使用小写字母、数字、短横线或下划线，例如 `kirishima-mio`。
 - 只分享 Prompt 或 Skill 也是一份投稿，目录里放 `README.md` 和对应子目录即可。
 - 多个案例共用的内容放在其中一个案例下，其他案例用相对链接引用，不要复制。
+- 在 [案例索引](cases/README.md) 和首页案例表中各添加一项。
 
 ### README
 
@@ -52,7 +53,7 @@ cases/
 
 ### 预览图
 
-可在 PSD2Live 中通过“文件 → 导出为 → GIF…”生成。有导出模型时，也可用主项目编译的 Cubism 预览库直接渲染，得到与素材包一致、规格统一（320×480、15 fps、物理开启）的动图：
+能看清效果即可，格式与尺寸不限，静态图、GIF、WebP 均可。可在 PSD2Live 中通过“文件 → 导出为 → GIF…”生成；有导出模型时，也可用主项目编译的 Cubism 预览库直接渲染：
 
 ```sh
 python scripts/render_preview.py <模型>.model3.json cases/<id>/preview.webp --renderer <live2d_renderer 所在目录>

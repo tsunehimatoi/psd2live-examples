@@ -1,6 +1,6 @@
 # ds 动作与物理示例
 
-[案例索引](../../README.md) · [下载素材包](https://github.com/tsunehimatoi/psd2live-examples/releases/download/assets-v1/ds-1.0.0.zip) · [文件清单](manifest.json)
+[案例索引](../README.md) · [下载素材包](https://github.com/tsunehimatoi/psd2live-examples/releases/download/assets-v1/ds-1.0.0.zip) · [文件清单](manifest.json)
 
 ![导出模型的动作预览](preview.webp)
 
