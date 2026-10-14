@@ -21,6 +21,10 @@
     {
       "id": "kirishima-mio",
       "manifest": "cases/kirishima-mio/manifest.json"
+    },
+    {
+      "id": "ds-girl",
+      "manifest": "cases/ds-girl/manifest.json"
     }
   ]
 }
