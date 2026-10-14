@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "id": "ds-girl",
+  "version": "1.0.0",
+  "title": "ds-girl 鲸鱼女孩",
+  "description": "蓝色鲸鱼女孩",
+  "author": "Ruka2",
+  "attribution": "Live2D 建模贡献者：Ruka2；原始参考来源：Earmer Carey（https://x.com/Liearmer/status/2087206380013023361）；建模辅助：PSD2Live。",
+  "license": "CC-BY-NC-4.0",
+  "tags": [
+    "人机协作",
+    "实操经验"
+  ],
+  "status": "final-project",
+  "source": {
+    "kind": "local-import",
+    "name": "ds-girl 1.0.0 素材包",
+    "inventory_sha256": "d2d057e461772f140a2434f0118c7e9a5679e4e20ba48db70ed841ed723781db",
+    "imported_on": "2026-10-15"
+  },
+  "compatibility": {
+    "production_version": "PSD2Live 3.4.3 / macOS（早期工程曾使用 3.0.1）",
+    "note": "export/ 为早期 3.0.1 工程导出；跨版本兼容问题见案例 README，重新生成结果随版本和设置变化。"
+  },
+  "archive": {
+    "url": "https://github.com/Ruka2/psd2live-examples/releases/download/ds-girl-assets-v1.0.0/ds-girl-1.0.0.zip",
+    "size_bytes": 228509173,
+    "sha256": "517f34e406b54686b89c0dfbd55234166f5a60a5abc4e16b634e6e6dcf96371d"
+  },
+  "files": [
+    {
+      "path": "ds-girl/export/LICENSE.txt",
+      "size_bytes": 19347,
+      "sha256": "41003d4a74749c0220e33dd415042164b5a1093ed401f36277234f772d22d3d0"
+    },
+    {
+      "path": "ds-girl/export/README.txt",
+      "size_bytes": 1981,
+      "sha256": "9e696c23564123741efe4c62e5c4215c6ec3482d27810659dd0705740ca6be0d"
+    },
+    {
+      "path": "ds-girl/export/animations/ds-girl.blink.motion3.json",
+      "size_bytes": 1155,
+      "sha256": "399f91b7bfac0666f589ab7c6daace5e33e5c6d6e7c6e7ca4024b6db48a65110"
+    },
+    {
+      "path": "ds-girl/export/animations/ds-girl.idle.motion3.json",
+      "size_bytes": 15999,
+      "sha256": "14674d50d8765df706ac253975629f7cffe97a2442248a41af59f68d9cd3f2dc"
+    },
+    {
+      "path": "ds-girl/export/animations/ds-girl.nod.motion3.json",
+      "size_bytes": 1751,
+      "sha256": "bfd9a247d5ec8479145c2dddfd5fdbf03e1c46df8d7460f07badd146c1e19418"
+    },
+    {
+      "path": "ds-girl/export/animations/ds-girl.shake.motion3.json",
+      "size_bytes": 1573,
+      "sha256": "81f50690b925cab5487c64cd1fc9781485a141f758a1f7085d36f0596bbfe54b"
+    },
+    {
+      "path": "ds-girl/export/ds-girl.4096/texture_00.png",
+      "size_bytes": 4187655,
+      "sha256": "9a9d2e0ca57a33afd12bb5457f0573eb0b719ecf28d1110ddc49e7351b8df0f6"
+    },
+    {
+      "path": "ds-girl/export/ds-girl.cdi3.json",
+      "size_bytes": 8133,
+      "sha256": "bca3d7368bd79f3857f3bc1d0875101a64540edea48924db0d97f529dcff19cc"
+    },
+    {
+      "path": "ds-girl/export/ds-girl.moc3",
+      "size_bytes": 1009152,
+      "sha256": "96fa24e0f5cb02108f4b18c8078e7a16649a16943f4b888f5ce21cf41f318bb3"
+    },
+    {
+      "path": "ds-girl/export/ds-girl.model3.json",
+      "size_bytes": 919,
+      "sha256": "b0448f51499a38c5b8fc4b7757d254c44f3679d59d22bb5cd10bba730c0b309c"
+    },
+    {
+      "path": "ds-girl/export/ds-girl.physics3.json",
+      "size_bytes": 61123,
+      "sha256": "a85195991778e4d4e3393033f9d758d60c14bf0d95d09b94d76716c750c40af7"
+    },
+    {
+      "path": "ds-girl/export/ds-girl.vtube.json",
+      "size_bytes": 8435,
+      "sha256": "0ab24d58bd0cc857978bc0349c037fc088435ed1bdd66d5c4eaf932b05508da6"
+    },
+    {
+      "path": "ds-girl/export/icon.png",
+      "size_bytes": 304507,
+      "sha256": "7667417dd58b79dae09eaa7891a6f02df4931a98d039514123050403f411f04d"
+    },
+    {
+      "path": "ds-girl/project/ds-girl.psd2live",
+      "size_bytes": 246888364,
+      "sha256": "cdc36e9f828a7466e64be9d9b7a02a091e50ef7b9bd8be0fc9d241aaa9dee5e9"
+    },
+    {
+      "path": "ds-girl/psd-input/ds-girl.psd",
+      "size_bytes": 16156378,
+      "sha256": "4d031c8af7f81178c6c39ae8ac41150b48c663a6c8970be67c40de71ce88a08f"
+    }
+  ]
+}

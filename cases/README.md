@@ -33,7 +33,11 @@
 <b><a href="kirishima-mio/README.md">雾岛澪</a></b><br>
 <sub>绯灯祈的前置尝试：生成拆层、配准与遮挡补全<br>PSD2Live 3.4.2 · 拆层、配准、grok</sub>
 </td>
-<td width="33%"></td>
+<td width="33%" valign="top" align="center">
+<a href="ds-girl/README.md"><img src="ds-girl/preview.gif" width="200" alt="ds-girl 动作与物理预览"></a><br>
+<b><a href="ds-girl/README.md">ds-girl</a></b><br>
+<sub>完整角色，含 AI 协作经验，无 see-trough 拆分<br>PSD2Live 3.4.3 · 人机协作、实操经验</sub>
+</td>
 </tr>
 </table>
 
