@@ -1,0 +1,57 @@
+{
+  "fixture_kind": "original synthetic geometry, no character assets",
+  "source_size": [
+    96,
+    80
+  ],
+  "donor_size": [
+    60,
+    54
+  ],
+  "crop": [
+    5,
+    7,
+    53,
+    47
+  ],
+  "placement": [
+    23,
+    19,
+    71,
+    59
+  ],
+  "expected_allowed_pixels": 426,
+  "expected_mask_white_pixels": 427,
+  "expected_rgb_changes": 426,
+  "expected_naive_protected_contamination": 1494,
+  "expected_protected_changes": 0,
+  "expected_alpha_changes": 0,
+  "known_points": {
+    "repaired": [
+      32,
+      28
+    ],
+    "protected_cross": [
+      46,
+      30
+    ],
+    "asymmetric_wing": [
+      61,
+      42
+    ],
+    "white_outside_placement": [
+      2,
+      3
+    ],
+    "transparent_repair": [
+      36,
+      42
+    ],
+    "transparent_protected": [
+      1,
+      1
+    ]
+  },
+  "expected_image_oracle": "target_rgb and source_alpha evaluated directly over the whole canvas, without importing or calling adopt_donor",
+  "alpha_zero_note": "RGB changes under alpha=0 do not create visible content"
+}

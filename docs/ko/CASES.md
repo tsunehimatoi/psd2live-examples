@@ -39,6 +39,15 @@
 <sub>AI 협업 경험을 담은 완전한 캐릭터, see-through 없는 분할(중국어만 제공)<br>PSD2Live 3.4.3 · 사람–AI 협업, 실전 경험</sub>
 </td>
 </tr>
+<tr>
+<td width="33%" valign="top" align="center">
+<a href="../../cases/protected-rgb-donor-adoption/README.md"><img src="../../cases/protected-rgb-donor-adoption/preview.png" width="200" alt="protected-rgb-donor-adoption 자체 제작 테스트 이미지 비교"></a><br>
+<b><a href="../../cases/protected-rgb-donor-adoption/README.md">protected-rgb-donor-adoption</a></b><br>
+<sub>마스크가 허용한 영역에만 donor RGB를 적용하고 alpha와 보호 영역은 유지(중국어만 제공)<br>PSD2Live에서 미검증 · 스크립트, 마스크, 색 교체</sub>
+</td>
+<td width="33%"></td>
+<td width="33%"></td>
+</tr>
 </table>
 
 각 케이스 페이지는 투고자의 언어로 작성되어 있습니다. 미리보기 만드는 방법은 [기여 가이드](CONTRIBUTING.md#미리보기)를 참고하세요.

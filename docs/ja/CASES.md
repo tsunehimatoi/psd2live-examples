@@ -39,6 +39,15 @@
 <sub>AI との協働の記録を含む完全なキャラクター、see-through なしの分割（中国語のみ）<br>PSD2Live 3.4.3 · 人と AI の協働、実践ノウハウ</sub>
 </td>
 </tr>
+<tr>
+<td width="33%" valign="top" align="center">
+<a href="../../cases/protected-rgb-donor-adoption/README.md"><img src="../../cases/protected-rgb-donor-adoption/preview.png" width="200" alt="protected-rgb-donor-adoption の自作テスト画像比較"></a><br>
+<b><a href="../../cases/protected-rgb-donor-adoption/README.md">protected-rgb-donor-adoption</a></b><br>
+<sub>マスクで許可した領域だけ donor の RGB を採用し、alpha と保護領域を保持（中国語のみ）<br>PSD2Live では未検証 · スクリプト、マスク、色差し替え</sub>
+</td>
+<td width="33%"></td>
+<td width="33%"></td>
+</tr>
 </table>
 
 各ケースのページは投稿者の言語で書かれています。プレビューの作り方は [投稿ガイド](CONTRIBUTING.md#プレビュー) を参照してください。

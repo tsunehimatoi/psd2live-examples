@@ -39,6 +39,15 @@
 <sub>完整角色，含 AI 协作经验，无 see-through 拆分<br>PSD2Live 3.4.3 · 人机协作、实操经验</sub>
 </td>
 </tr>
+<tr>
+<td width="33%" valign="top" align="center">
+<a href="protected-rgb-donor-adoption/README.md"><img src="protected-rgb-donor-adoption/preview.png" width="200" alt="protected-rgb-donor-adoption 自制测试图对比"></a><br>
+<b><a href="protected-rgb-donor-adoption/README.md">protected-rgb-donor-adoption</a></b><br>
+<sub>只在 mask 允许区采用 donor RGB，保留 alpha 与保护区<br>未在 PSD2Live 中验证 · 脚本、遮罩、补色</sub>
+</td>
+<td width="33%"></td>
+<td width="33%"></td>
+</tr>
 </table>
 
 新增案例时在此添加一格，预览图的生成方法见 [投稿指南](../CONTRIBUTING.md#预览图)。

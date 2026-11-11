@@ -1,0 +1,8 @@
+{
+  "fixture_only": true,
+  "adopted_rgb_pixels": 426,
+  "protected_changes": 0,
+  "alpha_changes": 0,
+  "naive_protected_contamination": 1494,
+  "full_rgba_matches_independent_target": true
+}
