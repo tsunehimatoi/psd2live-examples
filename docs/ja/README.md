@@ -16,6 +16,7 @@ PSD2Live のサンプル素材、プロジェクト、書き出したモデル�
 | [緋灯祈（Hiakari Inori）](../../cases/hiakari-inori/README.md) | grok bot + GPT Image、see-through なしの分割と複雑なシミュレーション | 分割、シミュレーション、grok |
 | [霧島澪（Kirishima Mio）](../../cases/kirishima-mio/README.md) | 緋灯祈の前段の試み：生成レイヤー、位置合わせ、隠れ部分の補完 | レイヤー、位置合わせ、grok |
 | [ds-girl](../../cases/ds-girl/README.md) | AI との協働の記録、レイヤー分け PSD と PSD2Live プロジェクト付き（中国語のみ） | 人と AI の協働、実践ノウハウ |
+| [protected-rgb-donor-adoption](../../cases/protected-rgb-donor-adoption/README.md) | マスクで許可した領域だけ donor の RGB を採用し、alpha と保護領域を保持（Python/Pillow スクリプト、中国語のみ） | スクリプト、マスク、色差し替え |
 
 プレビュー付きの一覧は [ケース一覧](CASES.md) を参照してください。各ケースのページは投稿者の言語で書かれています。
 

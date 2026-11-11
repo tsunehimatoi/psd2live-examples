@@ -39,6 +39,15 @@
 <sub>A complete character with notes on working with AI, split without see-through (page in Chinese)<br>PSD2Live 3.4.3 · human–AI collaboration, hands-on notes</sub>
 </td>
 </tr>
+<tr>
+<td width="33%" valign="top" align="center">
+<a href="../../cases/protected-rgb-donor-adoption/README.md"><img src="../../cases/protected-rgb-donor-adoption/preview.png" width="200" alt="protected-rgb-donor-adoption synthetic fixture comparison"></a><br>
+<b><a href="../../cases/protected-rgb-donor-adoption/README.md">protected-rgb-donor-adoption</a></b><br>
+<sub>Adopt donor RGB only where the mask allows, keeping alpha and protected pixels (page in Chinese)<br>Not verified in PSD2Live · script, mask, recolor</sub>
+</td>
+<td width="33%"></td>
+<td width="33%"></td>
+</tr>
 </table>
 
 Case pages are written in the contributor's language. For how to make a preview, see [Contributing](CONTRIBUTING.md#preview).

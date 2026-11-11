@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "operation": "exact RGB crop and translation",
+  "inputs": {
+    "source": {
+      "name": "source.png",
+      "sha256": "9f367d4517ce26641f1337fdaba8519b0d35291d8517b2ec18b9eee0735fb219",
+      "dimensions": [
+        96,
+        80
+      ],
+      "encoded_bit_depth": 8,
+      "encoded_color_type": 6
+    },
+    "donor": {
+      "name": "donor-padded.png",
+      "sha256": "b104d90fd6d572f843b694b757f6e3ea489fc2348812108f5095423eea15822a",
+      "dimensions": [
+        60,
+        54
+      ],
+      "encoded_bit_depth": 8,
+      "encoded_color_type": 2
+    },
+    "mask": {
+      "name": "mask.png",
+      "sha256": "77d8f784bffcbed578f87ea0933d0b938e73318309e134f6cdfef517fed545c0",
+      "dimensions": [
+        96,
+        80
+      ],
+      "encoded_bit_depth": 8,
+      "encoded_color_type": 0
+    }
+  },
+  "mask_convention": "white-edit-black-protect",
+  "coordinate_convention": "integer xyxy, left/top inclusive, right/bottom exclusive",
+  "donor_crop": [
+    5,
+    7,
+    53,
+    47
+  ],
+  "placement": [
+    23,
+    19,
+    71,
+    59
+  ],
+  "source_dimensions": [
+    96,
+    80
+  ],
+  "output_mode": "RGBA",
+  "mask_white_pixels_total": 427,
+  "allowed_pixels": 426,
+  "actual_rgb_changed_pixels": 426,
+  "protected_rgba_changed_pixels": 0,
+  "alpha_changed_pixels": 0,
+  "rejected_donor_rgb_differences_in_placement_protected": 1494,
+  "rejected_comparison_scope": "Only donor crop mapped 1:1 to placement, where mask is black; no mapping claimed outside placement or for donor padding",
+  "color_policy": "numeric RGB preserved; no color-space conversion; color-management metadata rejected",
+  "alpha_policy": "all source alpha preserved; RGB may change under zero source alpha inside the effective mask",
+  "metadata_policy": "output PNGs carry no input metadata",
+  "outputs": {
+    "adopted.png": {
+      "sha256": "6868f0dc6d7a804faaf11959ff93aabe1514921b7c81506fbd66fec40954657c",
+      "dimensions": [
+        96,
+        80
+      ]
+    },
+    "adoption-preview.png": {
+      "sha256": "b566e4f5838646ef9b4ffc6d205496356c527fcc18acd19c886c72c2b46682d4",
+      "dimensions": [
+        96,
+        80
+      ]
+    }
+  }
+}

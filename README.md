@@ -16,6 +16,7 @@ PSD2Live 的示例素材、工程、导出模型，以及制作经验、Prompt �
 | [绯灯祈](cases/hiakari-inori/README.md) | grok bot + GPT Image，无 see-through 拆分与复杂模拟 | 拆分、模拟、grok |
 | [雾岛澪](cases/kirishima-mio/README.md) | 绯灯祈的前置尝试：生成拆层、配准与遮挡补全 | 拆层、配准、grok |
 | [ds-girl](cases/ds-girl/README.md) | AI 协作经验，含分层 PSD、PSD2Live 工程 | 人机协作、实操经验 |
+| [protected-rgb-donor-adoption](cases/protected-rgb-donor-adoption/README.md) | 只在 mask 允许区采用 donor RGB，保留 alpha 与保护区（Python/Pillow 脚本） | 脚本、遮罩、补色 |
 
 带预览图的完整列表见 [案例索引](cases/README.md)。
 

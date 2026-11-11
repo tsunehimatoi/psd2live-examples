@@ -1,0 +1,140 @@
+{
+  "status": "PASS",
+  "unittest_methods": 5,
+  "failures": 0,
+  "errors": 0,
+  "cases": [
+    {
+      "test": "whole_crop_paste_control",
+      "status": "PASS",
+      "protected_pixels_polluted": 1494,
+      "source_alpha_preserved_for_fair_comparison": true
+    },
+    {
+      "test": "protected_transparent_donor_pixel",
+      "status": "PASS"
+    },
+    {
+      "test": "normal_and_clean_replay",
+      "status": "PASS",
+      "full_rgba_equals_independent_expected": true,
+      "changed_rgb": 426,
+      "protected_rgba_changes": 0,
+      "alpha_changes": 0,
+      "ignored_protected_donor_changes_in_placement": 1494
+    },
+    {
+      "test": "size_mismatch",
+      "status": "REJECTED_AS_EXPECTED",
+      "exit_code": 2,
+      "error": "adopt_donor: donor crop and placement dimensions must match exactly; no resizing",
+      "success_outputs_exist": false
+    },
+    {
+      "test": "crop_out_of_bounds",
+      "status": "REJECTED_AS_EXPECTED",
+      "exit_code": 2,
+      "error": "adopt_donor: donor crop: rectangle is empty, reversed, or out of bounds",
+      "success_outputs_exist": false
+    },
+    {
+      "test": "place_out_of_bounds",
+      "status": "REJECTED_AS_EXPECTED",
+      "exit_code": 2,
+      "error": "adopt_donor: placement: rectangle is empty, reversed, or out of bounds",
+      "success_outputs_exist": false
+    },
+    {
+      "test": "reversed_crop",
+      "status": "REJECTED_AS_EXPECTED",
+      "exit_code": 2,
+      "error": "adopt_donor: donor crop: rectangle is empty, reversed, or out of bounds",
+      "success_outputs_exist": false
+    },
+    {
+      "test": "nonbinary_mask",
+      "status": "REJECTED_AS_EXPECTED",
+      "exit_code": 2,
+      "error": "adopt_donor: mask must be binary L: only 0 and 255",
+      "success_outputs_exist": false
+    },
+    {
+      "test": "wrong_mask_size",
+      "status": "REJECTED_AS_EXPECTED",
+      "exit_code": 2,
+      "error": "adopt_donor: mask dimensions must equal source dimensions",
+      "success_outputs_exist": false
+    },
+    {
+      "test": "mask_rgb_mode",
+      "status": "REJECTED_AS_EXPECTED",
+      "exit_code": 2,
+      "error": "adopt_donor: mask: requires 8-bit grayscale L PNG (encoded header)",
+      "success_outputs_exist": false
+    },
+    {
+      "test": "donor_not_opaque",
+      "status": "REJECTED_AS_EXPECTED",
+      "exit_code": 2,
+      "error": "adopt_donor: donor must be opaque at every adoptable pixel",
+      "success_outputs_exist": false
+    },
+    {
+      "test": "zero_adoption",
+      "status": "REJECTED_AS_EXPECTED",
+      "exit_code": 2,
+      "error": "adopt_donor: no adoptable pixels in placement intersect mask",
+      "success_outputs_exist": false
+    },
+    {
+      "test": "encoded_rgb16",
+      "status": "REJECTED_AS_EXPECTED",
+      "exit_code": 2,
+      "error": "adopt_donor: donor: requires 8-bit RGB or RGBA PNG (encoded header)",
+      "success_outputs_exist": false
+    },
+    {
+      "test": "gamma_metadata",
+      "status": "REJECTED_AS_EXPECTED",
+      "exit_code": 2,
+      "error": "adopt_donor: source: unsupported PNG metadata/chunk gAMA",
+      "success_outputs_exist": false
+    },
+    {
+      "test": "palette_input",
+      "status": "REJECTED_AS_EXPECTED",
+      "exit_code": 2,
+      "error": "adopt_donor: source: requires 8-bit RGB or RGBA PNG (encoded header)",
+      "success_outputs_exist": false
+    },
+    {
+      "test": "truncated_png",
+      "status": "REJECTED_AS_EXPECTED",
+      "exit_code": 2,
+      "error": "adopt_donor: source: truncated PNG chunk",
+      "success_outputs_exist": false
+    },
+    {
+      "test": "wrong_mask_convention",
+      "status": "REJECTED_AS_EXPECTED",
+      "exit_code": 2,
+      "error": "adopt_donor.py: error: argument --mask-convention: invalid choice: 'black-edit' (choose from white-edit-black-protect)",
+      "success_outputs_exist": false
+    },
+    {
+      "test": "existing_output",
+      "status": "REJECTED_AS_EXPECTED",
+      "sentinel_preserved": true
+    },
+    {
+      "test": "output_is_input",
+      "status": "REJECTED_AS_EXPECTED",
+      "input_bytes_preserved": true
+    },
+    {
+      "test": "rgb_source_rgba_donor",
+      "status": "PASS",
+      "output_alpha": 255
+    }
+  ]
+}
