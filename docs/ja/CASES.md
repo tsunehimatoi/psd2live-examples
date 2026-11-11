@@ -33,7 +33,11 @@
 <b><a href="../../cases/kirishima-mio/README.md">霧島澪（Kirishima Mio）</a></b><br>
 <sub>緋灯祈の前段の試み：生成レイヤー、位置合わせ、隠れ部分の補完<br>PSD2Live 3.4.2 · レイヤー、位置合わせ、grok</sub>
 </td>
-<td width="33%"></td>
+<td width="33%" valign="top" align="center">
+<a href="../../cases/ds-girl/README.md"><img src="../../cases/ds-girl/preview.gif" width="200" alt="ds-girl のモーションと物理プレビュー"></a><br>
+<b><a href="../../cases/ds-girl/README.md">ds-girl</a></b><br>
+<sub>AI との協働の記録を含む完全なキャラクター、see-through なしの分割（中国語のみ）<br>PSD2Live 3.4.3 · 人と AI の協働、実践ノウハウ</sub>
+</td>
 </tr>
 </table>
 

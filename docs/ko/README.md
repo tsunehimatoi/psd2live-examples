@@ -15,6 +15,7 @@ PSD2Live의 예제 소재, 프로젝트, 내보낸 모델과 제작 노트, 프�
 | [star_lan](../../cases/star_lan/README.md) | 관절 변형, 다중 텍스처, AI 협업 노트 | 스켈레톤, 텍스처, MCP |
 | [히아카리 이노리(Hiakari Inori)](../../cases/hiakari-inori/README.md) | grok bot + GPT Image, see-through 없는 분할과 복잡한 시뮬레이션 | 분할, 시뮬레이션, grok |
 | [키리시마 미오(Kirishima Mio)](../../cases/kirishima-mio/README.md) | 히아카리 이노리의 사전 시도: 생성 레이어, 정렬, 가려진 부분 보완 | 레이어, 정렬, grok |
+| [ds-girl](../../cases/ds-girl/README.md) | AI 협업 경험, 레이어 PSD와 PSD2Live 프로젝트 포함(중국어만 제공) | 사람–AI 협업, 실전 경험 |
 
 미리보기가 포함된 전체 목록은 [케이스 목록](CASES.md)을 참고하세요. 각 케이스 페이지는 투고자의 언어로 작성되어 있습니다.
 

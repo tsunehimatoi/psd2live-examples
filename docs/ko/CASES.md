@@ -33,7 +33,11 @@
 <b><a href="../../cases/kirishima-mio/README.md">키리시마 미오(Kirishima Mio)</a></b><br>
 <sub>히아카리 이노리의 사전 시도: 생성 레이어, 정렬, 가려진 부분 보완<br>PSD2Live 3.4.2 · 레이어, 정렬, grok</sub>
 </td>
-<td width="33%"></td>
+<td width="33%" valign="top" align="center">
+<a href="../../cases/ds-girl/README.md"><img src="../../cases/ds-girl/preview.gif" width="200" alt="ds-girl 모션 및 물리 미리보기"></a><br>
+<b><a href="../../cases/ds-girl/README.md">ds-girl</a></b><br>
+<sub>AI 협업 경험을 담은 완전한 캐릭터, see-through 없는 분할(중국어만 제공)<br>PSD2Live 3.4.3 · 사람–AI 협업, 실전 경험</sub>
+</td>
 </tr>
 </table>
 

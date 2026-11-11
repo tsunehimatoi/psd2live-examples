@@ -23,7 +23,7 @@
     "note": "export/ 为早期 3.0.1 工程导出；跨版本兼容问题见案例 README，重新生成结果随版本和设置变化。"
   },
   "archive": {
-    "url": "https://github.com/Ruka2/psd2live-examples/releases/download/ds-girl-assets-v1.0.0/ds-girl-1.0.0.zip",
+    "url": "https://github.com/tsunehimatoi/psd2live-examples/releases/download/assets-v3/ds-girl-1.0.0.zip",
     "size_bytes": 228509173,
     "sha256": "517f34e406b54686b89c0dfbd55234166f5a60a5abc4e16b634e6e6dcf96371d"
   },

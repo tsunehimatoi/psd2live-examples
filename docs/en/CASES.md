@@ -33,7 +33,11 @@
 <b><a href="../../cases/kirishima-mio/README.md">Kirishima Mio</a></b><br>
 <sub>The run-up to Hiakari Inori: generated layers, alignment and occlusion fill<br>PSD2Live 3.4.2 · layers, alignment, grok</sub>
 </td>
-<td width="33%"></td>
+<td width="33%" valign="top" align="center">
+<a href="../../cases/ds-girl/README.md"><img src="../../cases/ds-girl/preview.gif" width="200" alt="ds-girl motion and physics preview"></a><br>
+<b><a href="../../cases/ds-girl/README.md">ds-girl</a></b><br>
+<sub>A complete character with notes on working with AI, split without see-through (page in Chinese)<br>PSD2Live 3.4.3 · human–AI collaboration, hands-on notes</sub>
+</td>
 </tr>
 </table>
 

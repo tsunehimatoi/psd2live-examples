@@ -15,6 +15,7 @@ PSD2Live のサンプル素材、プロジェクト、書き出したモデル�
 | [star_lan](../../cases/star_lan/README.md) | 関節の変形、複数テクスチャ、AI との協働ノート | スケルトン、テクスチャ、MCP |
 | [緋灯祈（Hiakari Inori）](../../cases/hiakari-inori/README.md) | grok bot + GPT Image、see-through なしの分割と複雑なシミュレーション | 分割、シミュレーション、grok |
 | [霧島澪（Kirishima Mio）](../../cases/kirishima-mio/README.md) | 緋灯祈の前段の試み：生成レイヤー、位置合わせ、隠れ部分の補完 | レイヤー、位置合わせ、grok |
+| [ds-girl](../../cases/ds-girl/README.md) | AI との協働の記録、レイヤー分け PSD と PSD2Live プロジェクト付き（中国語のみ） | 人と AI の協働、実践ノウハウ |
 
 プレビュー付きの一覧は [ケース一覧](CASES.md) を参照してください。各ケースのページは投稿者の言語で書かれています。
 

@@ -36,7 +36,7 @@
 <td width="33%" valign="top" align="center">
 <a href="ds-girl/README.md"><img src="ds-girl/preview.gif" width="200" alt="ds-girl 动作与物理预览"></a><br>
 <b><a href="ds-girl/README.md">ds-girl</a></b><br>
-<sub>完整角色，含 AI 协作经验，无 see-trough 拆分<br>PSD2Live 3.4.3 · 人机协作、实操经验</sub>
+<sub>完整角色，含 AI 协作经验，无 see-through 拆分<br>PSD2Live 3.4.3 · 人机协作、实操经验</sub>
 </td>
 </tr>
 </table>

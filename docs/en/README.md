@@ -15,6 +15,7 @@ Example assets, projects and exported models for PSD2Live, along with production
 | [star_lan](../../cases/star_lan/README.md) | Joint deformation, multiple textures and notes on working with AI | Skeleton, textures, MCP |
 | [Hiakari Inori](../../cases/hiakari-inori/README.md) | grok bot + GPT Image: splitting without see-through, complex simulation | Splitting, simulation, grok |
 | [Kirishima Mio](../../cases/kirishima-mio/README.md) | The run-up to Hiakari Inori: generated layers, alignment and occlusion fill | Layers, alignment, grok |
+| [ds-girl](../../cases/ds-girl/README.md) | Notes on working with AI, with a layered PSD and PSD2Live project (page in Chinese) | Human–AI collaboration, hands-on notes |
 
 See the [case index](CASES.md) for the full list with previews. Case pages are written in the contributor's language.
 

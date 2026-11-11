@@ -1,6 +1,6 @@
 # ds-girl 鲸鱼女孩
 
-[案例索引](../README.md) · [下载素材包](https://github.com/Ruka2/psd2live-examples/releases/download/ds-girl-assets-v1.0.0/ds-girl-1.0.0.zip) · [文件清单](manifest.json)
+[案例索引](../README.md) · [下载素材包](https://github.com/tsunehimatoi/psd2live-examples/releases/download/assets-v3/ds-girl-1.0.0.zip) · [文件清单](manifest.json)
 
 
 
